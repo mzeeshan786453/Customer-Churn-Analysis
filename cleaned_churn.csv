@@ -1,0 +1,3001 @@
+customerID,gender,tenure,Contract,MonthlyCharges,TotalCharges,PaymentMethod,Churn
+CUST100000,Male,63,One year,51.17,3206.56,Bank transfer,0
+CUST100001,Female,2,One year,50.62,2495.943556701031,Bank transfer,0
+CUST100002,Male,68,False,103.78,7046.77,Mailed check,0
+CUST100003,Male,22,Month-to-month,27.24,608.3,Mailed check,0
+CUST100004,Male,52,One year,108.11,5604.45,Electronic check,1
+CUST100005,Female,36,Month-to-month,45.67,1662.32,Credit card,0
+CUST100006,Male,8,Month-to-month,79.3,622.12,Electronic check,1
+CUST100007,Male,14,One year,113.6,1605.71,Mailed check,0
+CUST100008,Male,2,Month-to-month,87.81,188.0,Credit card,1
+CUST100009,Female,69,Two year,61.44,4258.07,Credit card,0
+CUST100010,Male,16,Two year,88.95,1422.32,Mailed check,0
+CUST100011,Male,25,Two year,54.4,1369.1,Bank transfer,1
+CUST100012,Male,20,Two year,47.73,949.43,False,1
+CUST100013,Male,71,One year,119.67,8483.94,Credit card,0
+CUST100014,Female,20,One year,95.08,1899.32,Electronic check,0
+CUST100015,Male,10,One year,84.47,831.33,Bank transfer,0
+CUST100016,Female,37,Two year,55.53,2073.89,Electronic check,0
+CUST100017,Female,71,Two year,24.92,1753.17,Bank transfer,0
+CUST100018,Female,34,Month-to-month,23.11,789.31,Bank transfer,1
+CUST100019,Male,13,Month-to-month,75.42,985.52,Electronic check,0
+CUST100020,Female,13,Two year,96.2,1252.12,Mailed check,1
+CUST100021,Male,9,Two year,73.74,670.15,Bank transfer,0
+CUST100022,Female,11,Two year,69.26517182130586,1129.53,Bank transfer,0
+CUST100023,Female,37,Two year,23.34,865.78,Electronic check,0
+CUST100024,Female,33,Month-to-month,56.68,1861.93,Mailed check,1
+CUST100025,Female,40,Two year,43.71,1766.01,Bank transfer,0
+CUST100026,Female,9,Month-to-month,64.73,593.05,Bank transfer,1
+CUST100027,Female,16,Two year,27.24,454.74,Mailed check,1
+CUST100028,Female,16,Two year,115.41,1828.06,Bank transfer,1
+CUST100029,Female,66,Two year,42.33,2785.19,Mailed check,0
+CUST100030,Male,61,Month-to-month,112.23,6833.85,Mailed check,0
+CUST100031,Male,0,Month-to-month,62.59,-19.55,Electronic check,0
+CUST100032,Female,11,One year,118.55,1293.74,Credit card,1
+CUST100033,Female,3,Two year,75.41,233.38,Mailed check,0
+CUST100034,Female,41,One year,69.26517182130586,4625.52,Electronic check,0
+CUST100035,Male,12,One year,69.26517182130586,246.72,False,1
+CUST100036,Female,3,Month-to-month,94.82,299.97,Bank transfer,1
+CUST100037,Male,68,Month-to-month,110.31,7508.83,False,0
+CUST100038,Male,18,One year,33.97,607.25,Mailed check,0
+CUST100039,Male,1,Two year,29.61,24.51,Mailed check,0
+CUST100040,Male,11,Month-to-month,62.46,685.29,Mailed check,0
+CUST100041,Male,5,Two year,113.37,553.93,Mailed check,1
+CUST100042,Female,7,Two year,74.24,525.04,Mailed check,1
+CUST100043,Female,50,One year,72.75,3632.07,Electronic check,0
+CUST100044,Female,10,One year,34.11,355.19,Mailed check,0
+CUST100045,Female,62,One year,20.08,1255.22,Electronic check,0
+CUST100046,Female,56,One year,101.01,5660.98,Bank transfer,0
+CUST100047,Male,11,Month-to-month,28.76,310.93,Mailed check,0
+CUST100048,Female,1,Month-to-month,83.38,71.78,Mailed check,1
+CUST100049,Female,7,One year,111.46,791.27,Credit card,0
+CUST100050,Male,10,Month-to-month,40.87,408.16,Bank transfer,0
+CUST100051,Female,52,One year,86.53,4488.55,Mailed check,1
+CUST100052,Male,9,Two year,27.87,238.64,Mailed check,0
+CUST100053,Female,7,Two year,80.38,549.28,Bank transfer,0
+CUST100054,Male,35,Two year,36.39,1284.74,Electronic check,1
+CUST100055,Female,13,One year,93.6,1205.96,Mailed check,0
+CUST100056,Female,53,Two year,50.12,2657.43,Credit card,0
+CUST100057,Male,20,Month-to-month,66.34,1324.86,Mailed check,1
+CUST100058,Male,49,Two year,79.94,3920.24,Credit card,0
+CUST100059,Male,38,Two year,37.13,1426.03,Credit card,0
+CUST100060,Male,19,Two year,94.16,1803.75,Mailed check,0
+CUST100061,Male,6,Month-to-month,50.26,299.6,Mailed check,0
+CUST100062,Male,8,One year,86.24,670.53,Credit card,1
+CUST100063,Male,0,Month-to-month,35.83,-2.94,Bank transfer,1
+CUST100064,Male,25,One year,88.81,2495.943556701031,Bank transfer,0
+CUST100065,Female,37,One year,32.82,1216.65,Mailed check,1
+CUST100066,Female,37,Two year,62.54,2320.03,Electronic check,1
+CUST100067,Male,60,One year,44.72,2669.36,Bank transfer,1
+CUST100068,Female,43,Month-to-month,94.84,4083.98,Mailed check,0
+CUST100069,Female,43,Month-to-month,46.2,1973.91,Bank transfer,0
+CUST100070,Female,61,One year,108.17,6608.39,Electronic check,0
+CUST100071,Female,5,Two year,109.18,539.46,Mailed check,1
+CUST100072,Male,16,Two year,39.64,642.64,Electronic check,0
+CUST100073,Female,50,Month-to-month,81.38,4050.91,Mailed check,1
+CUST100074,Male,37,Two year,28.77,1060.8,Electronic check,0
+CUST100075,Female,23,One year,59.15,1368.65,Bank transfer,1
+CUST100076,Female,50,One year,91.33,4555.57,Bank transfer,0
+CUST100077,Female,9,Month-to-month,85.94,785.27,Electronic check,0
+CUST100078,Male,71,One year,82.47,5860.6,Electronic check,0
+CUST100079,Female,20,Month-to-month,48.25,968.5,Electronic check,1
+CUST100080,Male,69,One year,57.8,3982.34,Mailed check,0
+CUST100081,Female,56,Month-to-month,30.29,1695.54,Bank transfer,0
+CUST100082,Male,38,Two year,91.9,3496.09,Mailed check,1
+CUST100083,Female,32,One year,70.39,2251.38,Bank transfer,0
+CUST100084,Male,58,One year,90.88,2495.943556701031,Credit card,0
+CUST100085,Male,17,Month-to-month,44.89,760.48,Mailed check,0
+CUST100086,Female,55,Month-to-month,52.44,2872.29,Bank transfer,0
+CUST100087,Male,56,One year,53.42,2980.08,Bank transfer,0
+CUST100088,Female,47,Month-to-month,22.57,1041.02,Mailed check,0
+CUST100089,Female,41,One year,54.1,2210.14,Mailed check,0
+CUST100090,Female,26,Two year,100.33,2618.54,Bank transfer,0
+CUST100091,Female,51,Month-to-month,109.73,5608.0,False,0
+CUST100092,Female,41,One year,71.82,2932.72,Electronic check,0
+CUST100093,Female,31,Two year,65.55,2050.41,Mailed check,0
+CUST100094,Female,25,Two year,23.08,577.1,Mailed check,1
+CUST100095,Female,24,One year,107.92,2606.76,Mailed check,0
+CUST100096,Female,22,Month-to-month,21.3,476.87,Bank transfer,0
+CUST100097,Female,56,One year,114.48,6419.78,Electronic check,1
+CUST100098,Female,51,Two year,68.92,3498.32,Credit card,1
+CUST100099,Male,30,One year,54.19,1614.5,Credit card,0
+CUST100100,Male,63,Month-to-month,112.42,7062.81,Electronic check,1
+CUST100101,Female,70,Two year,22.44,1579.45,Electronic check,0
+CUST100102,Female,32,One year,78.14,2494.26,Electronic check,0
+CUST100103,Female,1,Month-to-month,74.89,86.36,Bank transfer,1
+CUST100104,Female,17,Two year,41.93,706.37,Credit card,1
+CUST100105,Female,46,Month-to-month,62.89,2905.71,Electronic check,0
+CUST100106,Female,32,Two year,85.23,2712.59,Bank transfer,0
+CUST100107,Female,34,One year,92.71,3139.07,Credit card,0
+CUST100108,Female,50,Month-to-month,20.07,997.14,Mailed check,0
+CUST100109,Male,17,Two year,113.69,1929.07,Bank transfer,0
+CUST100110,Female,71,Month-to-month,36.45,2581.9,Credit card,0
+CUST100111,Male,29,Month-to-month,69.26517182130586,1267.99,Bank transfer,0
+CUST100112,Female,43,One year,46.35,1976.93,Credit card,0
+CUST100113,Female,52,Month-to-month,23.78,1230.61,Credit card,0
+CUST100114,Male,9,Two year,32.31,304.28,Mailed check,1
+CUST100115,Female,51,Two year,118.63,6032.8,Bank transfer,0
+CUST100116,Male,48,Two year,51.52,2490.65,Electronic check,0
+CUST100117,Female,10,Two year,31.53,334.75,Mailed check,0
+CUST100118,Female,65,One year,30.7,1979.04,Mailed check,1
+CUST100119,Male,57,Month-to-month,91.95,5232.8,Credit card,0
+CUST100120,Male,35,One year,105.46,3686.0,Electronic check,0
+CUST100121,Male,32,Month-to-month,45.7,1473.46,Bank transfer,0
+CUST100122,Female,46,Month-to-month,22.09,1019.98,Electronic check,1
+CUST100123,Male,12,Month-to-month,42.31,513.49,Electronic check,0
+CUST100124,Male,39,One year,25.65,1010.65,Electronic check,1
+CUST100125,Female,67,Month-to-month,30.34,2017.5,Electronic check,0
+CUST100126,Female,41,One year,63.15,2602.48,Electronic check,1
+CUST100127,Male,18,Two year,42.99,782.04,Credit card,0
+CUST100128,Female,18,Two year,71.59,1291.71,Credit card,1
+CUST100129,Female,57,Month-to-month,45.35,2600.54,Mailed check,1
+CUST100130,Female,22,False,114.05,2517.11,Credit card,0
+CUST100131,Male,53,Two year,110.59,5849.34,Mailed check,0
+CUST100132,Male,64,One year,76.68,2495.943556701031,Mailed check,1
+CUST100133,Male,11,One year,55.44,609.6,Bank transfer,1
+CUST100134,Male,23,Month-to-month,58.11,1318.74,Electronic check,1
+CUST100135,Male,33,Two year,61.19,2037.46,Credit card,0
+CUST100136,Male,52,Month-to-month,92.76,4808.66,Bank transfer,0
+CUST100137,Male,7,Month-to-month,65.16,464.02,Credit card,0
+CUST100138,Male,17,Two year,105.67,1796.64,Mailed check,1
+CUST100139,Male,56,Two year,114.41,6387.99,Credit card,0
+CUST100140,Female,4,One year,53.59,231.35,Electronic check,1
+CUST100141,Male,25,Two year,76.07,1915.82,Mailed check,1
+CUST100142,Female,29,One year,29.51,856.76,Mailed check,0
+CUST100143,Female,53,One year,40.05,2111.81,Bank transfer,0
+CUST100144,Female,12,One year,61.35,721.06,Electronic check,1
+CUST100145,Male,28,Two year,40.62,1131.9,Mailed check,0
+CUST100146,Male,2,Month-to-month,107.66,205.54,Electronic check,0
+CUST100147,Male,57,One year,35.83,2042.58,Credit card,0
+CUST100148,Male,1,Month-to-month,65.57,84.23,Electronic check,0
+CUST100149,Female,27,Month-to-month,80.57,2178.39,Mailed check,0
+CUST100150,Male,1,Two year,89.19,104.79,Bank transfer,0
+CUST100151,Male,6,Month-to-month,58.31,355.9,Mailed check,0
+CUST100152,Male,25,Month-to-month,106.91,2671.76,Electronic check,0
+CUST100153,Male,15,Two year,76.83,1166.63,Electronic check,1
+CUST100154,Male,22,One year,63.95,1405.75,Mailed check,0
+CUST100155,Female,39,Month-to-month,26.72,1056.83,Electronic check,0
+CUST100156,Male,59,Two year,66.47,3913.39,Credit card,1
+CUST100157,Female,31,Month-to-month,102.07,3149.32,Mailed check,0
+CUST100158,Male,14,Month-to-month,81.45,1154.51,Bank transfer,1
+CUST100159,Female,12,One year,103.22,1242.14,Mailed check,0
+CUST100160,Male,4,Month-to-month,69.4,293.16,Credit card,0
+CUST100161,Male,51,Two year,31.85,1641.86,Credit card,0
+CUST100162,Female,40,Month-to-month,21.36,836.55,Credit card,1
+CUST100163,Female,52,One year,50.32,2616.68,False,1
+CUST100164,Female,49,One year,89.8,4395.2,Credit card,0
+CUST100165,Male,14,False,99.03,1391.45,Bank transfer,0
+CUST100166,Female,6,One year,49.58,309.22,False,1
+CUST100167,Male,39,Month-to-month,69.57,2704.45,Credit card,0
+CUST100168,Male,27,One year,62.11,1679.24,Credit card,0
+CUST100169,Female,31,Two year,61.05,1900.9,Mailed check,1
+CUST100170,Female,14,One year,43.13,2495.943556701031,Bank transfer,0
+CUST100171,Male,69,One year,33.64,2333.72,Bank transfer,0
+CUST100172,Male,64,One year,39.67,2543.12,Electronic check,0
+CUST100173,Male,3,Two year,25.53,94.57,Bank transfer,0
+CUST100174,Female,10,One year,39.81,391.68,Mailed check,0
+CUST100175,Female,25,One year,69.26517182130586,507.33,Mailed check,0
+CUST100176,Male,60,Month-to-month,82.73,4964.06,Electronic check,0
+CUST100177,Male,36,Two year,51.64,1842.47,Mailed check,0
+CUST100178,Male,22,One year,117.31,2599.6,Credit card,0
+CUST100179,Male,39,Two year,39.37,1516.98,Credit card,0
+CUST100180,Male,22,False,54.58,1210.9,Mailed check,1
+CUST100181,Male,15,False,55.78,837.7,Electronic check,0
+CUST100182,Female,60,One year,20.85,1245.74,Bank transfer,0
+CUST100183,Male,67,Month-to-month,103.92,6945.27,Electronic check,0
+CUST100184,Male,30,Month-to-month,23.2,700.89,Bank transfer,0
+CUST100185,Male,52,Month-to-month,114.02,5932.45,Mailed check,0
+CUST100186,Female,24,Two year,109.21,2612.28,Mailed check,0
+CUST100187,Male,43,Two year,73.55,3179.06,Credit card,0
+CUST100188,Male,11,Month-to-month,74.36,810.12,Bank transfer,1
+CUST100189,Female,8,Two year,85.38,2495.943556701031,Electronic check,0
+CUST100190,Male,11,One year,58.71,647.56,Mailed check,0
+CUST100191,Male,68,False,84.72,5744.97,Electronic check,0
+CUST100192,Male,53,One year,24.48,1314.73,Credit card,0
+CUST100193,Male,53,Month-to-month,25.4,1341.18,Bank transfer,0
+CUST100194,Male,27,Two year,65.72,1757.67,Bank transfer,0
+CUST100195,Female,55,Month-to-month,74.96,4118.29,Mailed check,0
+CUST100196,Female,68,Two year,108.78,7401.05,Bank transfer,1
+CUST100197,Female,57,One year,30.47,1737.34,Mailed check,1
+CUST100198,Male,41,Month-to-month,69.26517182130586,4200.44,Credit card,0
+CUST100199,Male,37,Two year,41.0,1499.22,Bank transfer,0
+CUST100200,Male,67,Two year,59.41,3971.85,Mailed check,1
+CUST100201,Female,52,One year,51.66,2699.09,Electronic check,1
+CUST100202,Male,32,Month-to-month,60.02,1903.84,Mailed check,0
+CUST100203,Male,70,Month-to-month,35.05,2467.72,Bank transfer,0
+CUST100204,Female,55,Month-to-month,70.36,3853.48,Credit card,0
+CUST100205,Male,71,One year,100.16,7124.74,Bank transfer,0
+CUST100206,Female,50,Month-to-month,64.15,3201.93,Bank transfer,0
+CUST100207,Female,42,One year,69.06,2905.01,Mailed check,0
+CUST100208,Female,14,False,104.88,1454.44,Electronic check,0
+CUST100209,Male,37,One year,90.61,3335.22,Bank transfer,0
+CUST100210,Male,14,Two year,69.05,955.34,Electronic check,1
+CUST100211,Male,4,Month-to-month,45.77,168.19,Mailed check,0
+CUST100212,Male,53,Month-to-month,108.49,5742.47,Electronic check,1
+CUST100213,Male,50,One year,77.7,3885.58,Mailed check,1
+CUST100214,Male,9,One year,42.11,382.54,Credit card,0
+CUST100215,Male,11,Month-to-month,46.91,527.6,Electronic check,0
+CUST100216,Female,3,One year,100.31,307.18,Electronic check,0
+CUST100217,Male,17,False,24.41,419.32,Credit card,0
+CUST100218,Female,35,Two year,119.21,4168.82,Electronic check,0
+CUST100219,Male,24,One year,33.04,791.91,Credit card,0
+CUST100220,Male,35,Month-to-month,99.61,3482.93,Bank transfer,1
+CUST100221,Male,66,One year,59.48,3939.37,Mailed check,0
+CUST100222,Female,8,Month-to-month,69.22,542.96,Credit card,1
+CUST100223,Female,60,Month-to-month,108.07,6464.43,Electronic check,0
+CUST100224,Female,52,One year,61.29,3193.13,Credit card,1
+CUST100225,Male,17,Two year,73.75,1241.85,Electronic check,0
+CUST100226,Male,42,Month-to-month,24.93,1062.66,Bank transfer,0
+CUST100227,Female,34,Month-to-month,20.23,702.18,Credit card,0
+CUST100228,Male,62,Month-to-month,44.48,2740.83,False,0
+CUST100229,Male,3,Two year,88.06,248.44,Mailed check,0
+CUST100230,Female,40,Two year,32.13,1285.01,Electronic check,0
+CUST100231,Female,44,One year,31.38,1385.09,Electronic check,0
+CUST100232,Male,49,Two year,61.1,2984.9,Bank transfer,0
+CUST100233,Female,27,One year,84.78,2297.73,Mailed check,1
+CUST100234,Female,41,One year,91.21,3743.41,Credit card,1
+CUST100235,Male,68,False,37.85,2566.79,Credit card,1
+CUST100236,Female,0,One year,27.96,-18.99,Electronic check,1
+CUST100237,Female,38,Two year,114.04,4343.53,Bank transfer,0
+CUST100238,Male,16,One year,46.07,725.71,Bank transfer,1
+CUST100239,Female,34,Two year,105.33,3594.6,Credit card,1
+CUST100240,Female,45,Two year,106.35,4782.56,Mailed check,1
+CUST100241,Male,41,One year,97.25,3990.33,Mailed check,0
+CUST100242,Female,38,Month-to-month,36.88,1416.36,Credit card,0
+CUST100243,Male,48,One year,102.18,4919.18,Credit card,0
+CUST100244,Male,61,Two year,96.93,5907.59,Bank transfer,0
+CUST100245,Female,37,Month-to-month,79.67,2936.15,Mailed check,1
+CUST100246,Male,22,One year,53.72,1192.85,Credit card,0
+CUST100247,Male,21,One year,46.25,968.57,Credit card,0
+CUST100248,Male,3,One year,32.19,84.25,Electronic check,1
+CUST100249,Male,48,Month-to-month,70.98,3423.22,Credit card,0
+CUST100250,Female,58,False,78.53,4542.66,Credit card,0
+CUST100251,Male,67,One year,55.93,3728.34,Mailed check,0
+CUST100252,Female,70,One year,67.54,4708.61,Bank transfer,0
+CUST100253,Male,1,One year,56.35,61.24,Mailed check,1
+CUST100254,Male,48,One year,84.1,4043.27,Bank transfer,0
+CUST100255,Male,30,One year,110.13,3296.34,Electronic check,1
+CUST100256,Male,39,Two year,36.39,1412.01,Credit card,1
+CUST100257,Female,47,Two year,58.14,2726.16,Electronic check,1
+CUST100258,Female,50,One year,34.09,1711.71,Bank transfer,0
+CUST100259,Male,42,Month-to-month,82.49,3446.91,Mailed check,1
+CUST100260,Male,54,Two year,92.89,5033.22,Mailed check,0
+CUST100261,Female,48,Month-to-month,113.19,5422.02,Electronic check,0
+CUST100262,Male,56,Two year,47.89,2701.83,Bank transfer,0
+CUST100263,Male,14,One year,115.02,1597.14,Electronic check,0
+CUST100264,Male,26,Two year,26.33,695.44,Electronic check,0
+CUST100265,Female,67,One year,80.3,5369.04,Credit card,0
+CUST100266,Female,63,False,25.71,1602.96,Electronic check,0
+CUST100267,Female,29,One year,109.38,3187.02,Credit card,0
+CUST100268,Male,35,One year,72.98,2568.65,Credit card,0
+CUST100269,Male,66,One year,86.93,5733.52,Mailed check,1
+CUST100270,Female,48,One year,103.16,4959.78,Credit card,0
+CUST100271,Female,54,Month-to-month,35.03,1893.9,Credit card,0
+CUST100272,Male,55,One year,23.86,1326.42,Mailed check,0
+CUST100273,Female,67,Month-to-month,107.89,7221.23,Electronic check,0
+CUST100274,Male,43,Month-to-month,51.49,2495.943556701031,Bank transfer,0
+CUST100275,Female,30,One year,32.9,986.41,Bank transfer,0
+CUST100276,Male,57,Month-to-month,66.85,3804.61,Bank transfer,1
+CUST100277,Female,52,Two year,79.83,4166.82,Electronic check,0
+CUST100278,Male,22,One year,23.1,494.84,Credit card,0
+CUST100279,Female,27,False,47.49,1268.21,Bank transfer,0
+CUST100280,Female,15,One year,23.28,352.28,False,0
+CUST100281,Female,36,One year,62.03,2495.943556701031,Credit card,0
+CUST100282,Female,20,One year,109.51,2177.98,Mailed check,0
+CUST100283,Male,16,Month-to-month,118.27,2495.943556701031,Bank transfer,1
+CUST100284,Female,36,Two year,83.7,3031.06,Credit card,0
+CUST100285,Male,18,Two year,36.16,640.74,Bank transfer,0
+CUST100286,Male,29,False,110.58,3213.55,Bank transfer,0
+CUST100287,Male,44,False,71.62,3160.89,Bank transfer,0
+CUST100288,Male,17,Month-to-month,35.37,599.22,Credit card,1
+CUST100289,Female,61,Month-to-month,112.17,2495.943556701031,Electronic check,0
+CUST100290,Male,35,Month-to-month,95.75,3360.72,Credit card,0
+CUST100291,Male,51,One year,93.17,4749.99,Bank transfer,1
+CUST100292,Male,18,Month-to-month,90.92,1639.33,Credit card,1
+CUST100293,Female,43,One year,40.03,1728.99,Mailed check,1
+CUST100294,Female,6,Month-to-month,41.1,250.29,Electronic check,0
+CUST100295,Female,43,Two year,88.83,3834.84,Credit card,1
+CUST100296,Female,67,Month-to-month,41.97,2806.27,Mailed check,0
+CUST100297,Male,33,Month-to-month,63.87,2099.71,Electronic check,0
+CUST100298,Male,65,Two year,69.26517182130586,6371.55,Mailed check,0
+CUST100299,Female,68,One year,98.4,6672.71,Electronic check,1
+CUST100300,Male,54,One year,65.33,3509.54,Credit card,0
+CUST100301,Male,9,Month-to-month,99.22,907.78,Mailed check,1
+CUST100302,Male,41,Two year,103.86,4265.4,Bank transfer,1
+CUST100303,Female,40,One year,85.48,3425.62,Mailed check,1
+CUST100304,Female,68,Month-to-month,42.84,2917.71,Electronic check,0
+CUST100305,Male,9,Two year,47.4,440.57,Credit card,1
+CUST100306,Female,9,One year,51.48,462.53,Electronic check,0
+CUST100307,Female,59,One year,31.68,1883.94,Mailed check,0
+CUST100308,Female,50,Two year,47.32,2360.38,Mailed check,0
+CUST100309,Female,20,Two year,40.95,836.07,Bank transfer,0
+CUST100310,Female,7,Two year,65.53,466.66,Credit card,0
+CUST100311,Male,64,Two year,110.84,7084.05,Credit card,0
+CUST100312,Female,29,Month-to-month,30.45,2495.943556701031,Mailed check,0
+CUST100313,Male,48,Two year,92.03,4418.76,Credit card,1
+CUST100314,Male,8,One year,88.73,695.36,Bank transfer,1
+CUST100315,Female,16,One year,29.58,476.93,Electronic check,0
+CUST100316,Male,68,Month-to-month,112.26,7626.27,Credit card,0
+CUST100317,Male,57,One year,76.85,4362.54,Mailed check,0
+CUST100318,Male,56,One year,56.37,3174.67,Electronic check,0
+CUST100319,Female,61,Two year,95.65,5840.31,Electronic check,0
+CUST100320,Female,51,One year,45.74,2347.82,Bank transfer,0
+CUST100321,Male,60,Month-to-month,89.35,5368.04,Mailed check,0
+CUST100322,Female,39,Two year,23.97,929.11,False,0
+CUST100323,Female,37,Two year,103.94,3846.29,Mailed check,0
+CUST100324,Male,42,Month-to-month,64.82,2729.47,Electronic check,0
+CUST100325,Female,62,Two year,83.67,5205.95,Mailed check,1
+CUST100326,Male,18,Two year,42.12,748.31,Credit card,0
+CUST100327,Male,49,Month-to-month,87.71,4312.79,Credit card,1
+CUST100328,Female,32,Two year,97.22,3128.0,Bank transfer,1
+CUST100329,Female,12,Month-to-month,67.32,814.66,Credit card,0
+CUST100330,Male,61,Month-to-month,81.77,2495.943556701031,Credit card,1
+CUST100331,Male,42,One year,65.63,2752.38,Mailed check,0
+CUST100332,Female,48,One year,109.41,5269.8,Mailed check,1
+CUST100333,Male,35,Two year,69.79,2450.76,Electronic check,0
+CUST100334,Female,9,Two year,104.18,919.3,Bank transfer,0
+CUST100335,Female,5,Month-to-month,100.14,516.97,Mailed check,0
+CUST100336,Male,56,Two year,61.05,3418.18,Credit card,1
+CUST100337,Male,0,Month-to-month,43.01,-1.59,Electronic check,0
+CUST100338,Female,70,Month-to-month,60.61,4245.36,Mailed check,0
+CUST100339,Female,57,Two year,102.62,5835.32,Bank transfer,0
+CUST100340,Male,20,Month-to-month,42.76,853.97,Bank transfer,1
+CUST100341,Female,55,One year,72.44,3997.45,Electronic check,1
+CUST100342,Male,19,Two year,100.61,1892.21,Electronic check,1
+CUST100343,Female,53,One year,55.35,2924.47,Electronic check,0
+CUST100344,Male,24,Two year,84.22,2001.38,Electronic check,0
+CUST100345,Male,27,Month-to-month,44.56,1199.75,Electronic check,0
+CUST100346,Male,4,Two year,30.93,132.85,Credit card,1
+CUST100347,Female,20,One year,99.44,2000.75,Credit card,0
+CUST100348,Female,17,Month-to-month,29.9,526.11,False,0
+CUST100349,Male,46,Two year,47.14,2172.78,Bank transfer,0
+CUST100350,Female,69,Two year,105.51,7270.38,Credit card,0
+CUST100351,Male,56,Two year,54.65,3077.37,Credit card,0
+CUST100352,Male,18,One year,117.3,2122.41,Credit card,1
+CUST100353,Female,64,One year,117.97,2495.943556701031,Mailed check,1
+CUST100354,Female,2,Two year,46.83,101.49,Electronic check,1
+CUST100355,Male,41,Month-to-month,24.1,2495.943556701031,Mailed check,0
+CUST100356,Female,20,Month-to-month,90.51,1818.7,Bank transfer,1
+CUST100357,Female,39,One year,65.1,2533.63,Bank transfer,1
+CUST100358,Male,66,Month-to-month,30.08,1993.8,Bank transfer,0
+CUST100359,Male,24,One year,90.75,2159.61,Bank transfer,1
+CUST100360,Female,54,Two year,23.12,1243.94,Credit card,1
+CUST100361,Male,51,One year,107.02,5454.27,Credit card,0
+CUST100362,Male,43,One year,33.87,1443.08,Mailed check,1
+CUST100363,Female,55,Two year,32.73,1781.07,Electronic check,0
+CUST100364,Male,54,Month-to-month,37.57,2014.12,Bank transfer,0
+CUST100365,Male,69,One year,116.03,8012.25,Mailed check,0
+CUST100366,Female,65,One year,89.32,5817.89,Credit card,0
+CUST100367,Female,18,Two year,100.14,1822.05,Credit card,1
+CUST100368,Male,6,Month-to-month,59.76,352.41,Electronic check,0
+CUST100369,Male,62,One year,53.63,3329.04,Electronic check,0
+CUST100370,Female,41,Two year,43.45,1798.94,Electronic check,0
+CUST100371,Male,41,One year,68.06,2777.14,Mailed check,0
+CUST100372,Female,58,Two year,75.18,4369.15,Credit card,0
+CUST100373,Female,19,Month-to-month,83.18,1590.62,Credit card,0
+CUST100374,Male,16,Month-to-month,45.71,714.92,False,0
+CUST100375,Female,26,Month-to-month,114.87,3001.07,Bank transfer,0
+CUST100376,Female,46,Month-to-month,36.98,1713.6,Electronic check,0
+CUST100377,Male,1,One year,116.57,97.91,Mailed check,0
+CUST100378,Female,62,One year,21.49,1316.02,False,0
+CUST100379,Male,61,Month-to-month,68.11,4136.68,Electronic check,0
+CUST100380,Female,18,Month-to-month,53.34,953.51,Mailed check,0
+CUST100381,Female,16,Month-to-month,64.91,1038.93,Electronic check,0
+CUST100382,Female,68,One year,77.07,5242.05,Credit card,1
+CUST100383,Male,38,Month-to-month,63.56,2405.99,Bank transfer,0
+CUST100384,Male,70,Month-to-month,61.48,4320.06,False,1
+CUST100385,Female,38,Month-to-month,93.27,3538.99,Mailed check,0
+CUST100386,Male,35,Two year,88.59,3082.47,Bank transfer,0
+CUST100387,Male,39,Month-to-month,103.33,4021.88,Mailed check,1
+CUST100388,Male,44,Two year,45.0,1981.24,Bank transfer,0
+CUST100389,Male,3,Two year,80.95,239.18,Bank transfer,0
+CUST100390,Male,24,Month-to-month,78.52,1875.43,Electronic check,1
+CUST100391,Male,68,Two year,56.97,3859.21,Credit card,0
+CUST100392,Female,29,Month-to-month,68.61,2002.46,Electronic check,0
+CUST100393,Female,67,One year,51.38,3462.31,Mailed check,1
+CUST100394,Male,28,One year,34.18,950.22,Mailed check,0
+CUST100395,Female,67,One year,41.38,2767.72,Bank transfer,0
+CUST100396,Female,50,One year,30.55,1532.22,Bank transfer,1
+CUST100397,Female,23,Two year,88.31,2039.87,Credit card,1
+CUST100398,Female,13,Month-to-month,86.07,1114.59,Electronic check,0
+CUST100399,Male,68,Month-to-month,115.06,7840.28,Mailed check,0
+CUST100400,Female,17,Month-to-month,92.97,1582.89,Bank transfer,0
+CUST100401,Female,41,One year,25.2,1031.22,Credit card,1
+CUST100402,Male,56,One year,108.42,6077.39,Mailed check,0
+CUST100403,Male,11,Month-to-month,106.27,1187.08,Bank transfer,0
+CUST100404,Female,16,One year,64.33,1041.06,False,0
+CUST100405,Female,29,Month-to-month,78.59,2260.71,Credit card,0
+CUST100406,Female,22,Month-to-month,117.61,2580.71,Credit card,0
+CUST100407,Female,0,Month-to-month,73.23,-1.18,Mailed check,0
+CUST100408,Female,31,False,110.53,3419.01,Electronic check,0
+CUST100409,Female,8,Month-to-month,28.3,234.41,Mailed check,0
+CUST100410,Male,14,Month-to-month,39.11,560.59,Bank transfer,0
+CUST100411,Female,27,Month-to-month,64.08,1739.41,Electronic check,0
+CUST100412,Female,23,One year,69.26517182130586,1824.61,Bank transfer,0
+CUST100413,Male,59,Month-to-month,101.62,5986.48,Mailed check,0
+CUST100414,Male,34,Month-to-month,118.83,4055.22,False,0
+CUST100415,Male,26,One year,58.89,1541.8,Bank transfer,0
+CUST100416,Male,19,One year,24.74,2495.943556701031,Mailed check,0
+CUST100417,Female,64,One year,100.12,6417.04,Mailed check,0
+CUST100418,Female,48,Month-to-month,80.44,3845.28,Electronic check,0
+CUST100419,Female,0,Two year,39.85,11.57,Mailed check,0
+CUST100420,Female,9,Two year,69.48,626.61,Credit card,1
+CUST100421,Female,46,One year,94.23,4326.27,Bank transfer,0
+CUST100422,Female,58,Two year,97.04,5634.55,False,1
+CUST100423,Male,61,One year,69.96,4273.22,Mailed check,0
+CUST100424,Female,17,Month-to-month,50.52,847.22,Mailed check,0
+CUST100425,Male,45,Two year,117.37,5262.87,Credit card,1
+CUST100426,Male,31,Month-to-month,86.34,2673.88,Electronic check,0
+CUST100427,Female,26,Two year,60.82,1584.1,Mailed check,0
+CUST100428,Male,17,Month-to-month,48.05,831.91,Mailed check,0
+CUST100429,Female,38,Two year,93.11,3555.31,Mailed check,0
+CUST100430,Male,48,Month-to-month,44.22,2123.71,Mailed check,1
+CUST100431,Female,43,Month-to-month,37.17,1608.46,Bank transfer,0
+CUST100432,Male,71,Two year,72.98,5179.15,Mailed check,1
+CUST100433,Female,53,Month-to-month,49.0,2606.84,Bank transfer,0
+CUST100434,Female,33,Month-to-month,82.89,2723.56,Mailed check,0
+CUST100435,Female,70,Month-to-month,31.79,2220.14,Electronic check,0
+CUST100436,Female,35,Two year,85.49,2997.52,Credit card,0
+CUST100437,Female,17,Two year,48.33,2495.943556701031,Electronic check,0
+CUST100438,Male,37,Month-to-month,20.02,749.64,Mailed check,0
+CUST100439,Male,58,Month-to-month,32.69,1909.44,Mailed check,0
+CUST100440,Male,8,Two year,113.36,902.85,Mailed check,1
+CUST100441,Male,71,Two year,106.74,7576.46,Electronic check,0
+CUST100442,Male,50,Month-to-month,43.36,2182.05,Mailed check,0
+CUST100443,Female,34,Month-to-month,97.84,3337.59,Electronic check,1
+CUST100444,Female,4,Month-to-month,80.86,314.97,Bank transfer,0
+CUST100445,Male,13,One year,117.09,1515.13,Credit card,0
+CUST100446,Male,29,Two year,57.36,1670.6,Credit card,0
+CUST100447,Female,3,One year,88.15,266.98,Electronic check,0
+CUST100448,Male,38,Two year,26.35,987.79,Bank transfer,0
+CUST100449,Female,63,Two year,59.62,3748.46,Electronic check,0
+CUST100450,Female,24,Two year,116.38,2809.12,Bank transfer,1
+CUST100451,Female,27,Two year,73.9,2002.83,Mailed check,0
+CUST100452,Female,65,Two year,48.79,3190.79,Bank transfer,0
+CUST100453,Female,21,Two year,32.03,683.31,Bank transfer,0
+CUST100454,Male,30,Two year,90.35,2728.18,Bank transfer,0
+CUST100455,Male,22,One year,84.49,1847.43,Credit card,0
+CUST100456,Male,47,Month-to-month,57.39,2708.19,Bank transfer,0
+CUST100457,Female,19,Month-to-month,115.09,2167.52,Mailed check,0
+CUST100458,Male,37,One year,22.22,828.97,Mailed check,0
+CUST100459,Male,54,One year,50.37,2718.75,Mailed check,0
+CUST100460,Female,67,One year,112.11,7505.24,Bank transfer,0
+CUST100461,Male,0,One year,52.09,14.5,Electronic check,1
+CUST100462,Female,6,Two year,45.23,285.55,Electronic check,1
+CUST100463,Male,56,Month-to-month,73.42,4092.41,False,0
+CUST100464,Female,11,Two year,102.38,1130.56,Credit card,0
+CUST100465,Male,4,Month-to-month,30.31,115.95,Electronic check,0
+CUST100466,Female,49,Month-to-month,114.3,5597.33,Bank transfer,1
+CUST100467,Male,41,One year,99.51,4093.19,Electronic check,0
+CUST100468,Male,11,Two year,38.13,411.82,Mailed check,0
+CUST100469,Female,17,One year,91.2,1568.12,Credit card,0
+CUST100470,Male,65,Two year,58.5,3789.69,Electronic check,0
+CUST100471,Female,16,Month-to-month,60.23,970.19,Electronic check,0
+CUST100472,Male,67,One year,98.33,6594.99,Mailed check,1
+CUST100473,Female,70,One year,116.28,8129.69,Credit card,1
+CUST100474,Male,61,Month-to-month,32.67,1985.86,Credit card,1
+CUST100475,Female,40,Month-to-month,62.06,2495.79,Mailed check,0
+CUST100476,Male,33,Month-to-month,68.09,2257.44,Bank transfer,1
+CUST100477,Female,69,One year,57.63,3969.63,Electronic check,0
+CUST100478,Male,44,Two year,56.32,2479.44,Bank transfer,0
+CUST100479,Female,57,One year,25.23,1420.58,Electronic check,0
+CUST100480,Female,50,Two year,88.55,4415.85,Electronic check,0
+CUST100481,Female,33,One year,63.62,2098.89,Bank transfer,1
+CUST100482,Male,43,One year,39.48,1681.08,Mailed check,0
+CUST100483,Female,14,Month-to-month,101.6,1436.13,Mailed check,0
+CUST100484,Male,69,Two year,100.26,6926.66,Electronic check,1
+CUST100485,Female,49,One year,68.64,3381.11,Mailed check,0
+CUST100486,Male,31,One year,49.85,1553.09,Electronic check,0
+CUST100487,Female,66,Month-to-month,83.81,5549.08,Mailed check,0
+CUST100488,Male,2,Month-to-month,48.82,99.82,Electronic check,0
+CUST100489,Male,50,Two year,43.6,2495.943556701031,Mailed check,0
+CUST100490,Female,66,One year,93.05,6160.38,Credit card,0
+CUST100491,Male,47,Two year,24.03,1135.1,Bank transfer,1
+CUST100492,Male,16,One year,29.48,452.91,Credit card,1
+CUST100493,Female,6,Two year,20.68,133.03,Bank transfer,1
+CUST100494,Male,12,Month-to-month,35.29,439.7,Bank transfer,0
+CUST100495,Male,65,One year,69.26517182130586,1760.32,Electronic check,0
+CUST100496,Male,3,Two year,119.58,362.09,Bank transfer,0
+CUST100497,Female,9,Month-to-month,48.88,446.77,Credit card,0
+CUST100498,Male,16,Month-to-month,34.93,578.49,Credit card,0
+CUST100499,Female,51,Two year,44.1,2232.73,Mailed check,0
+CUST100500,Male,5,One year,113.61,574.74,Credit card,0
+CUST100501,Male,68,One year,72.02,4888.7,Mailed check,0
+CUST100502,Male,8,Month-to-month,56.48,457.44,Bank transfer,0
+CUST100503,Female,20,One year,107.34,2151.1,Credit card,0
+CUST100504,Male,23,One year,59.5,1354.64,Bank transfer,1
+CUST100505,Male,3,One year,53.5,148.77,Credit card,0
+CUST100506,Female,23,Month-to-month,40.73,941.66,Credit card,0
+CUST100507,Male,58,Two year,57.78,3336.37,Mailed check,1
+CUST100508,Female,2,One year,51.67,93.95,Bank transfer,1
+CUST100509,Female,67,Month-to-month,87.73,5891.32,Credit card,1
+CUST100510,Male,39,Month-to-month,48.96,1902.52,Electronic check,0
+CUST100511,Female,47,Two year,77.72,3652.36,Bank transfer,0
+CUST100512,Male,53,One year,26.59,1426.92,Bank transfer,0
+CUST100513,Female,34,One year,39.13,1319.51,Bank transfer,0
+CUST100514,Female,55,Two year,60.74,3336.29,Mailed check,0
+CUST100515,Male,39,Two year,113.69,4438.17,Electronic check,0
+CUST100516,Female,67,False,57.73,3878.12,Bank transfer,0
+CUST100517,Female,45,Month-to-month,86.41,3904.52,Credit card,0
+CUST100518,Female,12,Two year,45.51,562.74,False,0
+CUST100519,Female,26,One year,32.7,861.27,Mailed check,0
+CUST100520,Female,5,Month-to-month,25.85,118.38,Credit card,0
+CUST100521,Male,16,Month-to-month,50.54,789.63,Bank transfer,0
+CUST100522,Female,35,One year,35.77,1247.3,Credit card,1
+CUST100523,Male,1,Month-to-month,37.4,23.06,Bank transfer,1
+CUST100524,Female,51,One year,96.08,4908.5,Credit card,0
+CUST100525,Male,65,One year,69.26517182130586,1409.15,Electronic check,0
+CUST100526,Male,51,One year,75.78,3846.54,Mailed check,0
+CUST100527,Female,42,Two year,57.95,2447.36,Mailed check,0
+CUST100528,Female,21,Two year,70.65,2495.943556701031,Electronic check,1
+CUST100529,Female,54,Two year,76.28,4116.41,Electronic check,1
+CUST100530,Male,66,One year,51.34,3395.16,Mailed check,1
+CUST100531,Female,59,One year,49.51,2918.27,Electronic check,1
+CUST100532,Male,57,Two year,93.34,5318.03,False,0
+CUST100533,Male,11,Month-to-month,107.13,1161.06,Credit card,0
+CUST100534,Male,68,One year,39.26,2665.74,Mailed check,0
+CUST100535,Female,38,Month-to-month,29.76,1141.47,Electronic check,0
+CUST100536,Female,12,Month-to-month,69.26517182130586,1333.97,Bank transfer,0
+CUST100537,Male,40,One year,54.99,2196.14,Mailed check,0
+CUST100538,Male,56,False,75.13,4204.22,Electronic check,0
+CUST100539,Female,52,Month-to-month,55.95,2917.51,Mailed check,0
+CUST100540,Male,11,Month-to-month,32.58,376.09,Electronic check,1
+CUST100541,Female,12,Two year,78.93,937.84,Mailed check,1
+CUST100542,Male,56,Two year,72.51,4058.17,Bank transfer,1
+CUST100543,Female,39,One year,40.3,2495.943556701031,Bank transfer,1
+CUST100544,Male,44,Two year,65.19,2872.75,Credit card,0
+CUST100545,Female,34,Two year,99.69,3373.88,Mailed check,1
+CUST100546,Male,2,Two year,79.04,163.19,Credit card,0
+CUST100547,Female,4,Two year,29.69,106.23,Mailed check,0
+CUST100548,Female,10,Month-to-month,74.8,748.41,Electronic check,0
+CUST100549,Male,70,One year,90.27,6320.06,Electronic check,0
+CUST100550,Male,55,Two year,99.27,5474.9,Credit card,0
+CUST100551,Female,9,Month-to-month,82.91,744.69,Mailed check,0
+CUST100552,Male,33,Month-to-month,35.27,1155.09,Credit card,1
+CUST100553,Female,66,Month-to-month,91.02,5996.56,False,0
+CUST100554,Male,71,Two year,87.73,6243.8,Credit card,0
+CUST100555,Female,30,Two year,22.44,660.04,Credit card,0
+CUST100556,Female,70,One year,61.17,4278.93,Electronic check,0
+CUST100557,Female,65,Two year,53.3,3451.99,Credit card,0
+CUST100558,Female,69,Two year,86.94,6009.79,Mailed check,1
+CUST100559,Female,40,Month-to-month,41.61,1663.37,Electronic check,1
+CUST100560,Female,62,One year,79.09,4897.63,Credit card,0
+CUST100561,Male,31,Two year,111.32,3445.36,Bank transfer,0
+CUST100562,Male,19,Two year,99.78,1909.91,Credit card,0
+CUST100563,Male,56,Month-to-month,112.15,6282.55,Credit card,1
+CUST100564,Female,49,Month-to-month,117.85,5783.36,Credit card,0
+CUST100565,Female,24,Two year,21.07,2495.943556701031,Electronic check,0
+CUST100566,Female,11,One year,82.27,921.04,Mailed check,0
+CUST100567,Female,70,False,61.28,4282.74,Bank transfer,0
+CUST100568,Male,38,Month-to-month,105.99,4045.72,Credit card,0
+CUST100569,Male,16,Month-to-month,45.18,703.88,Mailed check,0
+CUST100570,Female,44,Two year,118.1,5191.47,Mailed check,0
+CUST100571,Male,10,Month-to-month,81.37,829.53,False,1
+CUST100572,Male,69,Two year,99.35,6846.14,Bank transfer,1
+CUST100573,Female,22,One year,28.56,619.24,Electronic check,0
+CUST100574,Male,69,One year,38.35,2638.25,Mailed check,0
+CUST100575,Female,37,Two year,95.84,3550.57,Mailed check,0
+CUST100576,Male,1,Month-to-month,22.2,19.73,Mailed check,0
+CUST100577,Female,71,One year,101.69,7229.06,Electronic check,0
+CUST100578,Female,36,Month-to-month,21.39,785.84,Bank transfer,1
+CUST100579,Female,48,False,85.71,4121.05,False,0
+CUST100580,Female,51,Two year,56.51,2870.19,Electronic check,1
+CUST100581,Male,32,Two year,81.15,2614.11,Mailed check,0
+CUST100582,Female,21,Two year,89.6,1872.18,Electronic check,0
+CUST100583,Female,4,One year,54.25,203.0,Mailed check,0
+CUST100584,Female,17,Month-to-month,30.8,507.2,Credit card,0
+CUST100585,Male,37,Month-to-month,26.96,1000.06,Credit card,1
+CUST100586,Female,36,Month-to-month,78.89,2824.59,Bank transfer,0
+CUST100587,Male,63,One year,72.07,4525.96,Mailed check,1
+CUST100588,Female,9,One year,94.22,839.98,Bank transfer,1
+CUST100589,Male,41,One year,70.97,2901.04,Bank transfer,1
+CUST100590,Male,47,One year,62.24,2929.45,Credit card,0
+CUST100591,Female,43,One year,59.81,2584.5,Electronic check,0
+CUST100592,Male,15,Month-to-month,22.64,350.05,Electronic check,0
+CUST100593,Male,53,One year,53.56,2829.18,Bank transfer,0
+CUST100594,Female,34,One year,117.6,3988.21,Credit card,0
+CUST100595,Female,27,Month-to-month,107.36,2917.35,Mailed check,0
+CUST100596,Male,1,One year,52.94,33.27,Electronic check,0
+CUST100597,Male,12,False,78.78,960.55,Bank transfer,0
+CUST100598,Female,40,Month-to-month,104.73,4177.19,Electronic check,0
+CUST100599,Female,58,Two year,64.13,3737.43,Electronic check,1
+CUST100600,Male,68,Two year,21.8,1476.09,Mailed check,0
+CUST100601,Female,52,Two year,27.45,1425.01,Credit card,0
+CUST100602,Female,44,Two year,71.04,3134.04,Mailed check,1
+CUST100603,Female,19,One year,116.94,2225.37,Credit card,0
+CUST100604,Male,23,Two year,89.32,2047.08,Electronic check,1
+CUST100605,Male,60,Month-to-month,27.09,1627.55,False,1
+CUST100606,Male,57,One year,38.94,2228.81,Mailed check,1
+CUST100607,Female,26,Two year,97.13,2507.07,Credit card,0
+CUST100608,Female,25,Month-to-month,104.14,2583.95,Electronic check,0
+CUST100609,Female,6,False,69.26517182130586,488.94,Credit card,0
+CUST100610,Male,41,One year,84.44,3447.31,Credit card,1
+CUST100611,Female,46,Two year,22.83,1056.75,Credit card,0
+CUST100612,Female,52,One year,102.85,5336.76,Electronic check,0
+CUST100613,Female,58,Month-to-month,98.83,5729.45,Bank transfer,1
+CUST100614,Female,37,One year,45.9,1686.21,Bank transfer,0
+CUST100615,Male,68,Month-to-month,90.87,6181.1,Bank transfer,1
+CUST100616,Male,52,One year,41.49,2142.12,Credit card,1
+CUST100617,Female,14,Two year,24.03,317.34,Electronic check,0
+CUST100618,Male,25,Month-to-month,40.11,984.8,Credit card,0
+CUST100619,Male,47,One year,37.86,1797.59,Bank transfer,1
+CUST100620,Female,18,False,53.77,953.55,Bank transfer,1
+CUST100621,Female,8,One year,61.84,503.06,Electronic check,1
+CUST100622,Male,63,Month-to-month,70.85,4446.27,False,1
+CUST100623,Female,53,Month-to-month,67.68,3571.37,Mailed check,1
+CUST100624,Male,50,False,47.07,2353.86,Mailed check,0
+CUST100625,Female,38,Two year,22.92,869.55,Bank transfer,0
+CUST100626,Male,3,Two year,80.51,259.59,Electronic check,0
+CUST100627,Female,2,Month-to-month,59.57,136.93,Credit card,0
+CUST100628,Male,63,One year,49.87,3152.99,Credit card,0
+CUST100629,Male,28,Two year,106.69,2991.4,Bank transfer,1
+CUST100630,Male,10,False,94.67,944.9,Bank transfer,1
+CUST100631,Male,57,One year,105.78,6023.71,Credit card,0
+CUST100632,Male,26,Two year,69.5,1824.88,Credit card,1
+CUST100633,Male,20,False,33.09,665.92,Bank transfer,1
+CUST100634,Female,38,One year,89.62,3408.72,False,1
+CUST100635,Female,45,One year,40.61,1816.73,Mailed check,0
+CUST100636,Male,65,One year,64.12,4149.67,Bank transfer,0
+CUST100637,Male,35,Two year,26.5,945.31,Credit card,0
+CUST100638,Female,64,Two year,102.53,6554.47,Bank transfer,0
+CUST100639,Female,62,Two year,32.59,2018.28,Electronic check,0
+CUST100640,Female,34,Month-to-month,110.31,3735.13,Bank transfer,0
+CUST100641,Female,30,Two year,106.42,2495.943556701031,Bank transfer,0
+CUST100642,Female,27,One year,66.46,1775.53,Electronic check,1
+CUST100643,Male,0,Two year,94.44,13.36,Mailed check,1
+CUST100644,Female,24,One year,81.94,1952.17,Credit card,1
+CUST100645,Male,42,Month-to-month,100.31,4228.48,Electronic check,1
+CUST100646,Male,66,One year,63.18,4179.07,Bank transfer,1
+CUST100647,Male,62,One year,98.58,6098.55,Credit card,0
+CUST100648,Female,50,False,66.25,3315.13,Electronic check,0
+CUST100649,Male,1,Month-to-month,114.1,2495.943556701031,Credit card,0
+CUST100650,Male,63,Two year,68.64,4311.45,False,0
+CUST100651,Female,68,Two year,69.26517182130586,4520.05,Electronic check,0
+CUST100652,Male,8,Month-to-month,98.51,784.22,Credit card,0
+CUST100653,Male,1,One year,102.16,98.1,Mailed check,0
+CUST100654,Female,33,Two year,75.45,2476.65,Electronic check,1
+CUST100655,Male,59,Month-to-month,37.98,2236.14,Mailed check,1
+CUST100656,Male,60,Two year,66.78,4021.66,Bank transfer,0
+CUST100657,Male,30,Month-to-month,116.81,3498.83,Credit card,0
+CUST100658,Female,9,One year,95.3,875.76,Bank transfer,1
+CUST100659,Female,35,Two year,101.12,3557.05,Bank transfer,1
+CUST100660,Female,48,Month-to-month,23.28,1103.24,Credit card,0
+CUST100661,Male,69,Two year,66.79,4595.6,Electronic check,1
+CUST100662,Male,48,Two year,84.66,4078.19,Credit card,0
+CUST100663,Female,2,Two year,103.0,201.71,Bank transfer,1
+CUST100664,Male,4,Two year,24.93,79.89,Bank transfer,0
+CUST100665,Male,60,False,105.24,6305.35,Electronic check,0
+CUST100666,Female,25,One year,74.84,1874.91,Credit card,0
+CUST100667,Female,71,Month-to-month,39.73,2495.943556701031,Bank transfer,1
+CUST100668,Male,4,Month-to-month,51.73,192.26,Mailed check,0
+CUST100669,Male,14,Month-to-month,48.19,659.08,Bank transfer,0
+CUST100670,Male,15,One year,73.09,1113.23,Bank transfer,0
+CUST100671,Female,0,Two year,25.17,10.05,Electronic check,0
+CUST100672,Female,15,Two year,35.85,541.34,Mailed check,0
+CUST100673,Female,36,Two year,101.27,3656.49,Bank transfer,0
+CUST100674,Male,2,One year,33.26,2495.943556701031,Bank transfer,0
+CUST100675,Male,51,Two year,43.34,2220.68,Mailed check,0
+CUST100676,Female,46,One year,65.34,3000.51,Credit card,0
+CUST100677,Female,12,Two year,71.71,850.28,Credit card,1
+CUST100678,Female,54,Two year,96.36,5212.6,Bank transfer,0
+CUST100679,Female,20,Month-to-month,64.73,1291.39,Bank transfer,0
+CUST100680,Female,65,One year,98.99,6453.61,Credit card,0
+CUST100681,Male,53,Month-to-month,81.83,4330.97,Electronic check,0
+CUST100682,Male,26,Month-to-month,31.31,830.93,Mailed check,0
+CUST100683,Female,37,Month-to-month,35.63,1335.63,Mailed check,0
+CUST100684,Male,57,One year,63.7,3620.57,Electronic check,0
+CUST100685,Female,61,One year,59.69,3653.02,Electronic check,0
+CUST100686,Female,45,Two year,94.35,4243.07,Electronic check,0
+CUST100687,Male,10,Month-to-month,78.07,797.4,Electronic check,0
+CUST100688,Male,71,Two year,58.81,4173.51,Electronic check,0
+CUST100689,Female,7,Month-to-month,37.08,269.33,Electronic check,0
+CUST100690,Female,70,One year,42.68,2986.28,Mailed check,0
+CUST100691,Female,63,One year,69.26517182130586,4874.76,Electronic check,0
+CUST100692,Male,20,One year,62.34,1234.77,Credit card,1
+CUST100693,Female,71,Month-to-month,71.49,5072.81,Electronic check,0
+CUST100694,Female,62,One year,37.07,2308.56,Electronic check,0
+CUST100695,Male,63,Month-to-month,86.29,5440.47,Mailed check,0
+CUST100696,Male,19,Two year,105.25,2007.3,Mailed check,1
+CUST100697,Female,7,Month-to-month,45.79,311.82,Electronic check,0
+CUST100698,Female,57,Two year,69.15,3940.81,Mailed check,0
+CUST100699,Male,45,Month-to-month,117.55,2495.943556701031,Bank transfer,0
+CUST100700,Female,30,Two year,53.32,1612.3,Mailed check,0
+CUST100701,Female,8,One year,79.5,655.6,Mailed check,0
+CUST100702,Male,14,Two year,29.02,402.56,Mailed check,0
+CUST100703,Female,25,One year,80.6,1995.44,Mailed check,1
+CUST100704,Male,9,One year,28.96,247.43,Credit card,0
+CUST100705,Male,28,Two year,115.92,3251.86,Credit card,1
+CUST100706,Female,35,Month-to-month,91.57,3209.43,Credit card,0
+CUST100707,Female,36,Month-to-month,98.82,3569.03,Electronic check,0
+CUST100708,Female,70,Month-to-month,90.41,6318.86,Electronic check,0
+CUST100709,Female,22,Month-to-month,78.97,1747.89,Bank transfer,0
+CUST100710,Male,40,Month-to-month,64.99,2607.12,Credit card,1
+CUST100711,Female,27,One year,105.84,2495.943556701031,Electronic check,0
+CUST100712,Male,47,Month-to-month,115.68,5438.78,Mailed check,1
+CUST100713,Female,37,One year,69.9,2572.19,Mailed check,1
+CUST100714,Female,30,One year,113.15,2495.943556701031,Credit card,0
+CUST100715,Female,13,One year,78.33,1033.54,Bank transfer,1
+CUST100716,Male,28,Two year,73.84,2064.37,Bank transfer,0
+CUST100717,Female,50,Two year,65.45,3286.08,Mailed check,0
+CUST100718,Female,48,One year,40.93,1968.25,Bank transfer,1
+CUST100719,Female,42,Two year,20.37,843.22,Credit card,1
+CUST100720,Female,71,Month-to-month,44.15,3137.89,Mailed check,0
+CUST100721,Male,4,Month-to-month,70.97,284.12,Electronic check,0
+CUST100722,Female,41,One year,58.0,2373.95,Electronic check,0
+CUST100723,Male,6,Month-to-month,64.85,373.89,Bank transfer,0
+CUST100724,Male,41,One year,118.06,4837.13,Mailed check,0
+CUST100725,Male,35,One year,55.03,1908.96,Mailed check,0
+CUST100726,Male,26,Month-to-month,65.22,1679.67,Electronic check,1
+CUST100727,Male,57,Two year,33.35,1897.59,Mailed check,0
+CUST100728,Male,45,Month-to-month,24.8,1108.22,Mailed check,0
+CUST100729,Female,65,Month-to-month,97.54,6357.12,Mailed check,0
+CUST100730,Male,24,One year,77.07,1844.71,Bank transfer,0
+CUST100731,Male,26,One year,96.07,2508.13,Mailed check,0
+CUST100732,Male,0,One year,34.99,1.21,Credit card,1
+CUST100733,Female,41,One year,77.18,3172.54,Bank transfer,0
+CUST100734,Female,51,Two year,45.36,2303.76,Mailed check,0
+CUST100735,Male,24,Two year,42.81,1045.12,Mailed check,0
+CUST100736,Female,53,Two year,21.15,1122.15,Credit card,1
+CUST100737,Male,66,One year,33.03,2193.23,Bank transfer,0
+CUST100738,Male,5,One year,69.26517182130586,249.25,Electronic check,0
+CUST100739,Female,57,One year,31.69,1790.34,Electronic check,0
+CUST100740,Male,69,Two year,118.59,8189.66,Bank transfer,1
+CUST100741,Female,52,One year,50.86,2625.03,Mailed check,0
+CUST100742,Female,65,Month-to-month,33.03,2145.96,Mailed check,1
+CUST100743,Male,57,Month-to-month,39.91,2262.58,Electronic check,0
+CUST100744,Male,1,One year,78.77,83.87,Electronic check,0
+CUST100745,Female,21,False,26.4,573.58,Electronic check,1
+CUST100746,Male,36,Month-to-month,106.24,3823.22,Credit card,0
+CUST100747,Male,19,False,116.15,2219.55,Electronic check,0
+CUST100748,Male,23,One year,44.67,1027.72,Credit card,0
+CUST100749,Female,64,One year,65.01,4160.47,Bank transfer,0
+CUST100750,Female,64,Two year,22.21,1438.66,Mailed check,0
+CUST100751,Male,0,Month-to-month,84.07,15.6,Electronic check,0
+CUST100752,Female,2,Month-to-month,61.39,134.21,Mailed check,0
+CUST100753,Female,45,One year,47.01,2107.3,Mailed check,0
+CUST100754,Female,54,Month-to-month,40.68,2198.52,Electronic check,0
+CUST100755,Female,63,Two year,85.4,5369.16,Electronic check,1
+CUST100756,Female,44,Two year,61.62,2709.04,Bank transfer,0
+CUST100757,Male,25,One year,37.97,948.62,Credit card,0
+CUST100758,Male,64,Two year,88.91,5703.51,Credit card,0
+CUST100759,Male,23,Two year,76.51,1775.57,Mailed check,0
+CUST100760,Female,34,One year,105.87,3596.16,Electronic check,0
+CUST100761,Female,23,Two year,31.75,710.96,Bank transfer,0
+CUST100762,Male,27,False,98.57,2675.86,Bank transfer,0
+CUST100763,Female,15,Two year,87.35,1297.22,Bank transfer,0
+CUST100764,Male,58,Month-to-month,31.5,1831.88,Bank transfer,1
+CUST100765,Male,53,One year,89.48,4723.44,Bank transfer,0
+CUST100766,Male,15,One year,64.15,958.23,Credit card,0
+CUST100767,Female,14,One year,114.5,1622.44,Credit card,0
+CUST100768,Female,10,Month-to-month,34.16,325.63,Credit card,0
+CUST100769,Male,64,False,84.28,5390.87,False,1
+CUST100770,Male,67,One year,58.2,3891.69,Mailed check,1
+CUST100771,Male,42,Month-to-month,115.68,4874.76,Bank transfer,0
+CUST100772,Male,68,One year,53.0,3618.77,Electronic check,0
+CUST100773,Female,12,Month-to-month,116.22,1384.15,Bank transfer,0
+CUST100774,Female,9,Two year,110.15,974.6,Credit card,0
+CUST100775,Male,40,Two year,47.04,1886.69,Electronic check,1
+CUST100776,Male,49,One year,100.35,4910.6,Credit card,1
+CUST100777,Female,70,Month-to-month,119.56,8376.08,Bank transfer,0
+CUST100778,Female,58,Month-to-month,45.27,2606.94,Bank transfer,0
+CUST100779,Male,38,Two year,63.68,2405.18,Mailed check,0
+CUST100780,Male,2,Two year,72.02,151.49,Bank transfer,0
+CUST100781,Male,6,Month-to-month,69.26517182130586,285.43,Credit card,0
+CUST100782,Female,48,Month-to-month,21.53,1047.74,Bank transfer,1
+CUST100783,Female,25,Month-to-month,42.01,1032.59,Mailed check,0
+CUST100784,Female,32,Month-to-month,48.19,2495.943556701031,Mailed check,0
+CUST100785,Male,47,Month-to-month,64.36,3044.86,Credit card,1
+CUST100786,Male,1,Month-to-month,37.11,34.43,Electronic check,0
+CUST100787,Female,70,One year,107.33,7521.22,Bank transfer,0
+CUST100788,Female,31,Month-to-month,90.49,2792.5,Mailed check,0
+CUST100789,Male,3,Two year,28.52,89.95,Bank transfer,0
+CUST100790,Female,19,One year,85.01,1624.23,Bank transfer,0
+CUST100791,Female,35,Month-to-month,85.37,2980.53,Electronic check,1
+CUST100792,Male,31,Two year,115.62,3597.38,Mailed check,1
+CUST100793,Female,27,One year,20.3,552.24,Bank transfer,1
+CUST100794,Male,0,Two year,44.79,-4.44,Mailed check,0
+CUST100795,Male,59,Month-to-month,112.78,6656.33,Credit card,1
+CUST100796,Male,55,Month-to-month,113.21,6229.62,Credit card,0
+CUST100797,Male,34,Month-to-month,92.06,3116.66,Bank transfer,1
+CUST100798,Male,29,Month-to-month,96.58,2796.93,Mailed check,0
+CUST100799,Male,53,One year,29.15,1538.69,Bank transfer,1
+CUST100800,Male,35,One year,69.26517182130586,2494.69,Mailed check,0
+CUST100801,Female,54,Two year,43.16,2341.08,Mailed check,1
+CUST100802,Male,57,Month-to-month,38.12,2172.14,Electronic check,0
+CUST100803,Male,64,Two year,101.03,6483.53,Electronic check,0
+CUST100804,Female,68,One year,33.5,2269.75,Electronic check,0
+CUST100805,Female,50,Month-to-month,66.87,3340.13,Bank transfer,1
+CUST100806,Female,21,Month-to-month,113.86,2402.54,Electronic check,1
+CUST100807,Male,52,One year,38.58,2008.0,Electronic check,0
+CUST100808,Female,35,One year,69.26517182130586,4124.88,Credit card,0
+CUST100809,Male,67,One year,119.43,7983.94,Mailed check,0
+CUST100810,Male,35,One year,75.56,2640.54,Mailed check,0
+CUST100811,Male,51,One year,37.01,1878.34,Electronic check,0
+CUST100812,Male,52,Month-to-month,51.61,2703.69,Mailed check,0
+CUST100813,Female,49,One year,62.45,3052.38,Credit card,0
+CUST100814,Female,40,Month-to-month,50.93,2052.58,Credit card,0
+CUST100815,Male,17,Month-to-month,48.06,824.07,Electronic check,1
+CUST100816,Male,21,One year,117.22,2455.26,Credit card,0
+CUST100817,Male,65,One year,69.26517182130586,2298.84,Mailed check,1
+CUST100818,Female,20,Month-to-month,69.26517182130586,1880.22,Bank transfer,0
+CUST100819,Male,43,One year,20.04,877.05,Mailed check,0
+CUST100820,Male,46,One year,79.62,3648.94,Bank transfer,0
+CUST100821,Female,38,One year,111.59,4234.0,Electronic check,0
+CUST100822,Female,28,Two year,48.79,1359.53,Bank transfer,0
+CUST100823,Male,53,Month-to-month,38.55,2024.83,Credit card,0
+CUST100824,Female,16,Two year,85.17,1366.65,False,0
+CUST100825,Female,59,One year,91.26,5398.53,Bank transfer,1
+CUST100826,Male,30,Two year,88.8,2659.26,False,1
+CUST100827,Female,48,One year,51.93,2502.24,Electronic check,0
+CUST100828,Male,1,Two year,45.22,50.33,Electronic check,1
+CUST100829,Male,47,One year,115.59,5427.76,Credit card,0
+CUST100830,Male,13,Two year,112.33,1445.93,Electronic check,0
+CUST100831,Male,58,Two year,65.73,3820.71,Bank transfer,0
+CUST100832,Male,57,Two year,104.62,5977.52,Electronic check,0
+CUST100833,Female,57,Month-to-month,69.26517182130586,3725.54,Credit card,0
+CUST100834,Male,50,False,62.44,3102.72,Mailed check,0
+CUST100835,Female,1,Month-to-month,35.68,24.33,Mailed check,0
+CUST100836,Male,40,One year,62.64,2488.38,Electronic check,1
+CUST100837,Male,15,Two year,73.74,1108.92,Bank transfer,0
+CUST100838,Female,3,One year,22.25,77.01,Credit card,0
+CUST100839,Male,11,One year,64.41,2495.943556701031,Bank transfer,0
+CUST100840,Male,28,Two year,98.14,2761.45,Credit card,0
+CUST100841,Female,6,Month-to-month,88.0,530.22,Electronic check,0
+CUST100842,Male,13,Two year,69.26517182130586,1093.36,Credit card,0
+CUST100843,Male,11,One year,69.26517182130586,1239.42,Credit card,0
+CUST100844,Male,4,One year,21.8,70.55,Electronic check,0
+CUST100845,Male,31,Two year,75.7,2362.75,Bank transfer,1
+CUST100846,Female,42,Month-to-month,98.73,4131.7,Electronic check,0
+CUST100847,Female,68,Month-to-month,74.13,5036.56,Credit card,0
+CUST100848,Male,44,One year,52.39,2319.22,Electronic check,1
+CUST100849,Female,8,One year,33.63,285.29,Credit card,0
+CUST100850,Male,48,Month-to-month,108.76,5220.73,Electronic check,1
+CUST100851,Female,32,Two year,67.08,2150.32,Mailed check,0
+CUST100852,Male,17,One year,107.81,1841.1,Mailed check,0
+CUST100853,Male,8,Month-to-month,69.26517182130586,642.03,False,0
+CUST100854,Male,61,One year,87.42,5317.48,Bank transfer,0
+CUST100855,Male,56,Two year,100.43,5636.48,False,1
+CUST100856,Male,28,Month-to-month,85.92,2405.01,Mailed check,0
+CUST100857,Male,24,One year,59.81,1433.46,Bank transfer,0
+CUST100858,Female,14,Two year,71.36,996.0,Credit card,0
+CUST100859,Male,5,One year,69.26517182130586,501.87,Mailed check,0
+CUST100860,Female,41,Two year,57.37,2369.97,Mailed check,0
+CUST100861,Male,28,Two year,58.81,1648.61,Electronic check,0
+CUST100862,Female,3,Month-to-month,29.57,106.84,Credit card,0
+CUST100863,Female,56,Two year,111.46,6228.97,Bank transfer,0
+CUST100864,Female,48,One year,29.1,1405.77,Bank transfer,1
+CUST100865,Male,43,Two year,84.82,3659.75,Bank transfer,0
+CUST100866,Male,13,Two year,61.32,804.33,Credit card,0
+CUST100867,Female,2,Month-to-month,60.56,125.4,Bank transfer,1
+CUST100868,Male,61,Two year,87.96,5368.15,Bank transfer,0
+CUST100869,Female,63,Two year,26.71,1697.17,Bank transfer,0
+CUST100870,Male,44,One year,79.37,3505.15,Electronic check,0
+CUST100871,Female,57,Month-to-month,97.2,5525.29,Electronic check,0
+CUST100872,Female,19,Month-to-month,102.82,1967.52,Credit card,1
+CUST100873,Male,57,Month-to-month,37.05,2108.41,Credit card,0
+CUST100874,Female,56,Two year,109.74,6135.59,Bank transfer,1
+CUST100875,Male,67,Month-to-month,85.61,5750.66,Electronic check,0
+CUST100876,Female,51,Two year,108.19,5514.97,Mailed check,0
+CUST100877,Female,36,Two year,68.53,2479.41,Mailed check,0
+CUST100878,Male,7,One year,74.2,509.94,Bank transfer,1
+CUST100879,Male,43,One year,111.9,2495.943556701031,Bank transfer,0
+CUST100880,Male,4,One year,109.99,439.78,Electronic check,0
+CUST100881,Male,68,One year,64.82,4391.77,Electronic check,0
+CUST100882,Male,30,One year,47.44,1433.38,Electronic check,0
+CUST100883,Female,44,Two year,59.32,2495.943556701031,Credit card,1
+CUST100884,Female,8,Two year,58.78,467.99,Credit card,0
+CUST100885,Male,31,Month-to-month,48.69,1492.87,Bank transfer,0
+CUST100886,Male,32,False,46.86,1490.99,Credit card,0
+CUST100887,Female,66,False,106.11,7014.52,Electronic check,0
+CUST100888,Female,29,One year,26.99,768.77,Electronic check,0
+CUST100889,Male,28,Two year,87.76,2463.17,Credit card,0
+CUST100890,Male,2,One year,37.28,91.26,Mailed check,0
+CUST100891,Male,56,Month-to-month,54.45,3056.39,Bank transfer,1
+CUST100892,Male,29,Month-to-month,26.15,770.79,Mailed check,1
+CUST100893,Male,8,Two year,47.0,360.36,Bank transfer,0
+CUST100894,Female,25,Month-to-month,96.84,2411.03,Mailed check,1
+CUST100895,Female,1,Two year,108.5,124.28,Credit card,0
+CUST100896,Female,61,Month-to-month,69.26517182130586,2579.75,Bank transfer,0
+CUST100897,Female,2,One year,66.35,138.28,Bank transfer,0
+CUST100898,Male,45,One year,67.03,3022.9,Bank transfer,0
+CUST100899,Male,67,One year,107.36,7189.69,Electronic check,0
+CUST100900,Male,24,One year,96.28,2292.5,Electronic check,1
+CUST100901,Female,50,Two year,71.31,3576.88,Mailed check,0
+CUST100902,Female,12,Month-to-month,87.07,1051.99,Credit card,1
+CUST100903,Male,43,Two year,104.74,4502.73,Electronic check,0
+CUST100904,Male,34,One year,20.95,728.29,Bank transfer,0
+CUST100905,Female,54,Two year,60.29,3249.11,Electronic check,0
+CUST100906,Female,8,Month-to-month,110.72,877.53,Credit card,0
+CUST100907,Male,1,Two year,94.03,108.94,Electronic check,0
+CUST100908,Male,60,Month-to-month,74.28,4468.68,Bank transfer,0
+CUST100909,Female,40,Two year,72.96,2919.0,Mailed check,0
+CUST100910,Male,43,Month-to-month,54.78,2340.77,Bank transfer,0
+CUST100911,Male,63,Month-to-month,72.05,4527.75,Credit card,0
+CUST100912,Male,30,One year,85.54,2572.45,Mailed check,0
+CUST100913,Female,46,Month-to-month,61.84,2840.04,Electronic check,1
+CUST100914,Female,1,One year,91.42,104.88,Electronic check,1
+CUST100915,Female,68,One year,106.12,7234.16,Electronic check,1
+CUST100916,Female,57,One year,35.47,2034.02,False,0
+CUST100917,Female,43,Two year,65.15,2796.55,Bank transfer,0
+CUST100918,Female,55,Two year,60.8,3355.55,Mailed check,0
+CUST100919,Female,42,Two year,88.75,3721.56,Mailed check,0
+CUST100920,Male,33,Two year,44.99,1471.35,Credit card,0
+CUST100921,Male,29,Month-to-month,84.03,2418.21,Mailed check,0
+CUST100922,Male,70,Month-to-month,107.75,7537.93,Electronic check,0
+CUST100923,Male,69,Two year,61.81,4281.03,Bank transfer,0
+CUST100924,Male,54,Month-to-month,111.1,5988.96,Bank transfer,0
+CUST100925,Male,66,Month-to-month,119.32,7863.38,Bank transfer,0
+CUST100926,Male,12,One year,30.61,386.11,Electronic check,0
+CUST100927,Female,2,One year,43.31,67.62,Electronic check,0
+CUST100928,Female,25,One year,115.04,2887.43,Electronic check,0
+CUST100929,Male,56,One year,115.83,6479.33,Electronic check,1
+CUST100930,Male,23,Month-to-month,29.77,666.21,Electronic check,0
+CUST100931,Female,52,Two year,21.5,2495.943556701031,Mailed check,0
+CUST100932,Male,69,False,36.11,2477.18,Electronic check,0
+CUST100933,Male,42,Month-to-month,119.6,5025.27,Electronic check,0
+CUST100934,Female,59,Month-to-month,38.0,2232.96,Electronic check,0
+CUST100935,Male,57,False,70.25,3986.86,Electronic check,0
+CUST100936,Female,48,False,104.84,2495.943556701031,Bank transfer,0
+CUST100937,Male,41,One year,22.04,888.26,Electronic check,0
+CUST100938,Female,65,Two year,80.45,5212.1,Mailed check,0
+CUST100939,Female,10,Month-to-month,47.7,487.42,Mailed check,0
+CUST100940,Female,17,Two year,106.23,1805.33,Mailed check,0
+CUST100941,Male,51,One year,48.35,2459.57,Credit card,0
+CUST100942,Female,45,Two year,88.68,3987.33,Bank transfer,1
+CUST100943,Male,43,Month-to-month,87.42,3776.22,False,0
+CUST100944,Male,21,Month-to-month,42.15,901.58,Credit card,0
+CUST100945,Male,52,One year,23.48,1229.59,Electronic check,1
+CUST100946,Male,58,One year,60.92,3548.75,Credit card,0
+CUST100947,Female,29,Two year,48.92,1411.47,Credit card,0
+CUST100948,Female,7,One year,100.9,701.54,Mailed check,1
+CUST100949,Male,56,One year,100.04,5606.79,Mailed check,0
+CUST100950,Male,19,Month-to-month,65.7,1253.25,Credit card,0
+CUST100951,Female,24,One year,80.65,1934.87,Mailed check,0
+CUST100952,Male,18,One year,80.43,1443.77,Credit card,0
+CUST100953,Female,4,Month-to-month,102.72,430.33,Bank transfer,0
+CUST100954,Male,71,Month-to-month,62.5,4450.34,Mailed check,0
+CUST100955,Male,26,Two year,47.54,1233.44,Mailed check,0
+CUST100956,Female,39,One year,46.5,1822.59,Mailed check,0
+CUST100957,Male,25,Month-to-month,73.62,1831.28,Bank transfer,0
+CUST100958,Female,26,Two year,64.91,1671.67,Credit card,0
+CUST100959,Male,61,Two year,64.01,3898.71,Electronic check,0
+CUST100960,Male,49,One year,29.11,1422.51,Mailed check,0
+CUST100961,Male,41,One year,91.86,3746.92,Credit card,0
+CUST100962,Female,28,Two year,41.37,1170.95,Bank transfer,0
+CUST100963,Male,38,Month-to-month,39.7,1502.97,Electronic check,1
+CUST100964,Male,59,Two year,61.28,3618.74,Mailed check,0
+CUST100965,Male,40,One year,42.78,1694.16,Bank transfer,0
+CUST100966,Male,32,Month-to-month,78.39,2495.943556701031,Bank transfer,0
+CUST100967,Female,15,Month-to-month,57.15,872.84,Electronic check,0
+CUST100968,Female,22,Two year,64.89,1431.93,Credit card,0
+CUST100969,Male,6,One year,73.72,460.33,Mailed check,0
+CUST100970,Female,25,Two year,40.35,1028.7,Mailed check,0
+CUST100971,Male,11,Two year,35.58,386.25,Credit card,1
+CUST100972,Male,71,Two year,108.04,7662.79,Credit card,0
+CUST100973,Male,4,Month-to-month,63.37,267.81,Credit card,0
+CUST100974,Female,68,Month-to-month,61.21,4182.22,Electronic check,0
+CUST100975,Female,48,One year,23.56,1136.07,Electronic check,0
+CUST100976,Female,25,One year,69.8,1756.81,Mailed check,0
+CUST100977,Female,4,Two year,75.42,312.95,Electronic check,1
+CUST100978,Female,21,Two year,75.88,1587.69,Bank transfer,0
+CUST100979,Female,12,Two year,90.7,1091.37,Mailed check,1
+CUST100980,Female,27,One year,37.75,1032.57,Electronic check,0
+CUST100981,Female,32,Month-to-month,45.22,1454.56,Credit card,0
+CUST100982,Female,22,Month-to-month,101.07,2204.39,Bank transfer,0
+CUST100983,Male,17,Two year,114.72,1943.71,Credit card,0
+CUST100984,Female,29,Two year,33.59,959.89,Mailed check,0
+CUST100985,Female,25,Two year,69.76,1733.32,Credit card,1
+CUST100986,Female,15,Two year,41.42,637.52,Electronic check,0
+CUST100987,Female,38,One year,26.01,2495.943556701031,Electronic check,1
+CUST100988,Female,32,Month-to-month,52.55,1670.39,Mailed check,1
+CUST100989,Female,25,Two year,34.37,851.63,Credit card,1
+CUST100990,Female,47,One year,69.26517182130586,4281.21,False,0
+CUST100991,Female,64,Two year,73.37,4697.04,Credit card,0
+CUST100992,Female,37,Two year,34.38,1260.79,Bank transfer,0
+CUST100993,Female,1,Month-to-month,20.92,7.49,Electronic check,0
+CUST100994,Female,5,Two year,100.82,493.57,Mailed check,1
+CUST100995,Male,45,Month-to-month,37.62,1693.0,Bank transfer,0
+CUST100996,Male,49,Month-to-month,80.62,3941.23,Bank transfer,1
+CUST100997,Female,37,Month-to-month,53.69,2004.43,Mailed check,0
+CUST100998,Female,17,One year,78.55,1333.9,Mailed check,1
+CUST100999,Male,26,One year,51.57,1323.17,Bank transfer,0
+CUST101000,Female,40,Month-to-month,28.69,1156.77,Credit card,0
+CUST101001,Male,71,Two year,42.3,2996.45,Bank transfer,0
+CUST101002,Male,16,Month-to-month,38.81,627.1,Mailed check,0
+CUST101003,Male,61,Two year,62.8,3821.98,Bank transfer,0
+CUST101004,Male,28,Month-to-month,85.83,2406.07,Credit card,1
+CUST101005,Male,57,Two year,46.38,2654.55,Electronic check,0
+CUST101006,Female,69,One year,21.21,1480.61,Electronic check,0
+CUST101007,Male,21,Two year,71.89,1500.14,Bank transfer,1
+CUST101008,Female,5,Month-to-month,80.58,396.29,Credit card,0
+CUST101009,Female,25,One year,116.29,2905.82,Electronic check,1
+CUST101010,Male,38,Two year,78.95,3017.19,Bank transfer,0
+CUST101011,Male,11,Two year,67.12,754.38,Bank transfer,1
+CUST101012,Female,13,Two year,77.34,989.02,Credit card,0
+CUST101013,Male,21,Two year,112.79,2353.87,Mailed check,0
+CUST101014,Male,50,Two year,102.84,5141.82,Bank transfer,1
+CUST101015,Female,22,One year,52.3,1134.86,Mailed check,0
+CUST101016,Female,47,One year,43.73,2049.13,Mailed check,0
+CUST101017,Male,70,One year,46.26,3224.14,Electronic check,0
+CUST101018,Female,49,One year,70.44,3457.0,Mailed check,0
+CUST101019,Male,12,Month-to-month,94.4,1150.78,Credit card,0
+CUST101020,Male,9,One year,70.32,652.75,Electronic check,0
+CUST101021,Male,54,Two year,26.78,1441.13,Electronic check,1
+CUST101022,Female,8,Two year,92.36,742.84,Electronic check,1
+CUST101023,Female,51,One year,100.6,5144.85,False,0
+CUST101024,Female,1,Two year,48.95,33.65,Bank transfer,1
+CUST101025,Female,24,One year,86.41,2081.42,Mailed check,0
+CUST101026,Female,12,Two year,62.66,748.27,Electronic check,0
+CUST101027,Male,50,Month-to-month,108.91,5433.75,Electronic check,0
+CUST101028,Male,57,Month-to-month,104.52,5953.75,Credit card,1
+CUST101029,Male,33,One year,72.54,2376.86,Mailed check,0
+CUST101030,Male,34,One year,89.15,3038.92,Credit card,0
+CUST101031,Female,2,One year,69.26517182130586,206.77,Mailed check,1
+CUST101032,Male,58,Two year,69.57,4027.52,Mailed check,0
+CUST101033,Female,69,One year,51.33,3526.61,Bank transfer,0
+CUST101034,Male,47,Month-to-month,95.37,4496.98,False,1
+CUST101035,Female,63,Two year,42.01,2646.37,Credit card,0
+CUST101036,Female,18,One year,58.85,1062.19,Mailed check,1
+CUST101037,Male,66,Two year,106.57,7036.4,Electronic check,0
+CUST101038,Male,4,Two year,92.44,366.18,Bank transfer,0
+CUST101039,Male,66,One year,60.38,3972.78,Electronic check,0
+CUST101040,Male,10,Two year,41.47,424.51,Credit card,0
+CUST101041,Female,67,Month-to-month,55.6,2495.943556701031,Bank transfer,0
+CUST101042,Male,68,Month-to-month,48.41,3276.03,Bank transfer,0
+CUST101043,Male,0,Two year,37.61,8.41,Mailed check,0
+CUST101044,Female,62,One year,94.33,5836.81,Credit card,1
+CUST101045,Male,28,Two year,45.21,1258.15,Mailed check,1
+CUST101046,Male,11,Month-to-month,65.42,718.63,Bank transfer,0
+CUST101047,Male,40,Two year,58.59,2341.57,Credit card,0
+CUST101048,Male,1,Two year,118.21,126.55,Bank transfer,1
+CUST101049,Male,36,Month-to-month,59.11,2132.9,Credit card,1
+CUST101050,Female,44,Two year,69.26517182130586,1237.78,False,0
+CUST101051,Male,47,Two year,28.98,1370.62,Electronic check,0
+CUST101052,Male,23,One year,79.08,1810.54,Electronic check,0
+CUST101053,Male,21,One year,79.94,1671.63,Mailed check,0
+CUST101054,Male,10,Month-to-month,61.88,616.32,Electronic check,0
+CUST101055,Male,57,Month-to-month,63.18,3593.56,Bank transfer,0
+CUST101056,Female,45,Month-to-month,25.39,1161.95,Bank transfer,0
+CUST101057,Male,28,One year,71.65,2018.76,Electronic check,1
+CUST101058,Female,34,Month-to-month,70.47,2382.57,Mailed check,0
+CUST101059,Female,14,Month-to-month,34.95,469.52,Electronic check,0
+CUST101060,Male,59,Month-to-month,30.38,1774.13,Credit card,0
+CUST101061,Male,41,One year,32.36,1316.52,Credit card,1
+CUST101062,Male,42,Two year,30.1,1248.77,Credit card,0
+CUST101063,Male,48,False,80.97,3887.89,Electronic check,1
+CUST101064,Female,63,Two year,39.65,2512.27,Electronic check,1
+CUST101065,Male,31,Month-to-month,45.14,1408.81,Electronic check,0
+CUST101066,Male,63,Two year,37.36,2342.3,Credit card,0
+CUST101067,Male,1,One year,115.78,2495.943556701031,Mailed check,0
+CUST101068,Male,23,One year,105.46,2425.9,Bank transfer,0
+CUST101069,Male,65,Month-to-month,43.05,2495.943556701031,Electronic check,0
+CUST101070,Male,37,Two year,69.26517182130586,1965.68,False,0
+CUST101071,Female,30,One year,40.99,1246.09,Bank transfer,0
+CUST101072,Female,25,Month-to-month,69.19,1730.12,Bank transfer,1
+CUST101073,Male,28,Month-to-month,21.96,622.65,Bank transfer,0
+CUST101074,Male,66,One year,87.14,5735.71,Mailed check,0
+CUST101075,Male,24,One year,72.32,1738.29,Mailed check,1
+CUST101076,Female,47,Month-to-month,109.86,5153.37,Credit card,0
+CUST101077,Male,64,Two year,36.44,2329.43,Mailed check,0
+CUST101078,Female,52,Two year,100.41,5226.68,Mailed check,0
+CUST101079,Male,66,Two year,99.2,6537.48,Mailed check,0
+CUST101080,Male,17,Month-to-month,32.72,538.33,Bank transfer,0
+CUST101081,Male,8,One year,59.86,459.29,Electronic check,1
+CUST101082,Male,37,Month-to-month,37.02,1350.63,Credit card,1
+CUST101083,Female,20,One year,45.47,889.73,Electronic check,0
+CUST101084,Female,64,Two year,46.32,2948.89,Electronic check,0
+CUST101085,Male,20,Two year,75.62,1501.98,Mailed check,0
+CUST101086,Male,26,One year,61.14,1578.49,Credit card,0
+CUST101087,Female,69,One year,114.77,7938.6,Electronic check,0
+CUST101088,Female,43,Month-to-month,32.64,1395.76,Electronic check,0
+CUST101089,Female,27,Two year,117.37,3154.09,Credit card,1
+CUST101090,Female,44,Month-to-month,43.06,1896.46,Mailed check,1
+CUST101091,Male,16,Month-to-month,97.29,1570.96,Electronic check,0
+CUST101092,Female,39,Month-to-month,53.9,2109.22,Bank transfer,0
+CUST101093,Male,2,Two year,34.31,60.46,Electronic check,0
+CUST101094,Female,65,Month-to-month,105.79,6878.81,Bank transfer,0
+CUST101095,Female,45,Month-to-month,50.89,2298.64,Mailed check,0
+CUST101096,Female,29,Month-to-month,85.89,2499.93,Electronic check,0
+CUST101097,Female,68,Month-to-month,76.64,5218.18,Credit card,0
+CUST101098,Female,8,Month-to-month,67.18,552.27,Credit card,0
+CUST101099,Male,10,Month-to-month,69.26517182130586,710.6,Electronic check,0
+CUST101100,Male,68,Two year,93.22,6342.12,Mailed check,0
+CUST101101,Female,65,Month-to-month,28.78,1867.89,Mailed check,1
+CUST101102,Female,30,One year,86.82,2610.26,Credit card,0
+CUST101103,Male,32,Month-to-month,109.58,3519.29,Electronic check,0
+CUST101104,Female,38,Month-to-month,25.78,959.87,Mailed check,0
+CUST101105,Female,45,Two year,34.07,1552.83,Credit card,0
+CUST101106,Male,36,Two year,91.66,3287.08,Bank transfer,0
+CUST101107,Female,59,One year,63.73,3758.88,Electronic check,1
+CUST101108,Female,30,One year,60.35,1825.38,Bank transfer,0
+CUST101109,Male,10,Two year,33.7,326.0,Bank transfer,0
+CUST101110,Male,1,Two year,70.68,69.75,Mailed check,1
+CUST101111,Male,26,Month-to-month,32.65,834.2,Mailed check,0
+CUST101112,Female,1,Two year,67.66,63.46,Mailed check,0
+CUST101113,Male,20,One year,96.36,1914.29,Electronic check,0
+CUST101114,Male,57,Month-to-month,45.83,2606.86,Bank transfer,0
+CUST101115,Male,4,One year,68.08,267.26,Electronic check,0
+CUST101116,Male,51,Month-to-month,119.2,6098.93,Mailed check,1
+CUST101117,Male,44,Two year,88.67,3921.27,Bank transfer,1
+CUST101118,Male,19,One year,104.14,1963.25,Electronic check,0
+CUST101119,Female,60,Month-to-month,61.48,3697.84,Electronic check,0
+CUST101120,Female,37,False,96.79,3563.3,Credit card,0
+CUST101121,Male,19,Two year,24.05,438.16,Electronic check,0
+CUST101122,Male,24,Two year,32.29,759.17,Mailed check,0
+CUST101123,Male,1,Two year,40.31,58.93,Electronic check,1
+CUST101124,Female,31,One year,60.2,1883.83,Bank transfer,0
+CUST101125,Female,25,Month-to-month,104.57,2602.01,Electronic check,0
+CUST101126,Female,69,Two year,54.63,3755.94,Credit card,1
+CUST101127,Female,40,One year,85.46,3408.02,Bank transfer,0
+CUST101128,Female,66,One year,90.93,6002.0,Bank transfer,0
+CUST101129,Female,0,One year,78.62,2.79,Credit card,0
+CUST101130,Female,50,Two year,55.72,2774.86,Mailed check,0
+CUST101131,Female,4,Two year,77.71,321.1,Bank transfer,1
+CUST101132,Female,12,Month-to-month,54.23,643.14,Mailed check,0
+CUST101133,Male,18,Month-to-month,28.39,527.91,Bank transfer,0
+CUST101134,Male,11,Two year,119.28,1318.35,Bank transfer,1
+CUST101135,Male,47,One year,32.72,1535.29,Mailed check,0
+CUST101136,Male,24,One year,27.23,665.12,Bank transfer,0
+CUST101137,Female,56,One year,107.85,6052.32,Mailed check,0
+CUST101138,Female,34,False,50.18,1697.74,Credit card,1
+CUST101139,Male,4,One year,85.03,333.71,Mailed check,0
+CUST101140,Female,21,Month-to-month,52.9,1128.34,Credit card,0
+CUST101141,Male,56,Month-to-month,59.15,3298.99,Bank transfer,0
+CUST101142,Female,46,One year,46.21,2107.35,Mailed check,0
+CUST101143,Male,53,One year,54.3,2876.06,Bank transfer,0
+CUST101144,Female,2,Two year,61.07,134.19,Mailed check,0
+CUST101145,Female,52,Two year,92.04,4796.95,Credit card,0
+CUST101146,Male,30,One year,71.15,2151.28,Credit card,0
+CUST101147,Female,68,Month-to-month,114.36,7777.81,Mailed check,0
+CUST101148,Male,32,Month-to-month,24.19,758.08,Credit card,0
+CUST101149,Male,71,Month-to-month,70.31,4995.56,Bank transfer,0
+CUST101150,Male,49,Month-to-month,78.42,3853.72,Bank transfer,0
+CUST101151,Male,15,Month-to-month,112.02,1664.03,Electronic check,1
+CUST101152,Female,38,Two year,24.92,933.87,Credit card,0
+CUST101153,Female,45,One year,77.35,3461.24,Bank transfer,1
+CUST101154,Female,46,Two year,105.36,4850.31,Mailed check,0
+CUST101155,Male,43,Month-to-month,44.19,1915.64,Credit card,1
+CUST101156,Female,8,Month-to-month,107.63,867.87,Bank transfer,0
+CUST101157,Male,49,Month-to-month,21.9,1092.38,Credit card,0
+CUST101158,Female,59,Month-to-month,93.25,5484.27,Mailed check,0
+CUST101159,Female,14,One year,113.31,1602.46,Bank transfer,0
+CUST101160,Female,35,Month-to-month,85.72,3012.76,Electronic check,0
+CUST101161,Male,62,One year,63.9,3954.37,Electronic check,0
+CUST101162,Male,68,Month-to-month,24.49,1684.26,Credit card,0
+CUST101163,Female,40,False,112.01,4471.92,Mailed check,0
+CUST101164,Male,23,Two year,67.03,1557.26,Bank transfer,0
+CUST101165,Female,48,Month-to-month,22.9,1114.43,Mailed check,0
+CUST101166,Male,17,One year,88.98,1522.97,Bank transfer,1
+CUST101167,Female,6,Two year,68.18,411.62,Credit card,0
+CUST101168,Male,3,Month-to-month,32.43,82.09,Bank transfer,0
+CUST101169,Male,68,Month-to-month,41.43,2818.52,Mailed check,0
+CUST101170,Female,59,Month-to-month,26.45,1554.82,Mailed check,0
+CUST101171,Male,54,One year,77.43,4192.91,Credit card,0
+CUST101172,Male,15,One year,82.2,1243.33,Mailed check,0
+CUST101173,Male,28,Two year,70.57,1992.38,Bank transfer,0
+CUST101174,Male,22,One year,101.71,2218.21,Credit card,0
+CUST101175,Male,13,One year,106.1,1391.66,Bank transfer,1
+CUST101176,Male,48,Month-to-month,81.56,3932.42,Mailed check,0
+CUST101177,Female,32,Month-to-month,21.28,692.53,Credit card,0
+CUST101178,Male,24,Month-to-month,69.26517182130586,2495.943556701031,Bank transfer,1
+CUST101179,Male,20,Month-to-month,69.26517182130586,1219.25,Mailed check,0
+CUST101180,Female,16,Month-to-month,76.56,1205.79,Mailed check,0
+CUST101181,Female,22,Month-to-month,84.91,1873.17,Electronic check,1
+CUST101182,Female,56,Month-to-month,55.02,3086.31,Mailed check,0
+CUST101183,Female,57,Two year,111.71,6386.95,Bank transfer,1
+CUST101184,Female,13,Two year,33.4,430.12,Credit card,0
+CUST101185,Female,19,Two year,87.15,1649.13,Electronic check,0
+CUST101186,Female,29,Two year,20.44,597.74,Mailed check,0
+CUST101187,Male,18,Month-to-month,112.47,2037.48,Mailed check,0
+CUST101188,Male,52,Two year,31.25,1642.47,Mailed check,0
+CUST101189,Male,55,Month-to-month,29.49,1634.07,Bank transfer,1
+CUST101190,Male,22,Two year,53.3,1169.67,Electronic check,0
+CUST101191,Male,61,One year,57.36,3504.36,Bank transfer,0
+CUST101192,Male,32,Two year,41.43,1340.01,Electronic check,1
+CUST101193,Female,17,Two year,78.51,1334.29,Credit card,0
+CUST101194,Female,32,Month-to-month,64.29,2045.95,Bank transfer,1
+CUST101195,Male,31,Two year,23.42,712.81,Bank transfer,0
+CUST101196,Female,60,One year,51.97,3098.21,Credit card,0
+CUST101197,Male,53,Month-to-month,101.04,5363.85,Electronic check,0
+CUST101198,Male,16,Month-to-month,88.97,1407.96,Mailed check,0
+CUST101199,Male,18,Two year,92.49,1654.57,Credit card,0
+CUST101200,Male,69,Month-to-month,89.81,6188.81,Mailed check,1
+CUST101201,Female,33,Month-to-month,51.1,1688.72,Mailed check,0
+CUST101202,Female,24,Month-to-month,29.97,715.2,Credit card,0
+CUST101203,Female,67,Month-to-month,47.25,3172.74,Electronic check,0
+CUST101204,Male,10,Month-to-month,103.18,1014.03,Mailed check,0
+CUST101205,Female,15,Month-to-month,118.05,1755.71,Credit card,1
+CUST101206,Male,60,One year,69.38,4162.77,Bank transfer,0
+CUST101207,Female,6,Two year,20.97,119.3,Bank transfer,1
+CUST101208,Male,15,One year,34.0,501.83,Bank transfer,1
+CUST101209,Male,15,Month-to-month,52.21,765.83,Credit card,0
+CUST101210,Male,39,Month-to-month,77.86,3052.37,Bank transfer,1
+CUST101211,Female,11,False,27.51,310.28,Mailed check,1
+CUST101212,Female,34,One year,114.34,3872.42,Bank transfer,0
+CUST101213,Female,20,Two year,56.51,2495.943556701031,Bank transfer,1
+CUST101214,Female,49,One year,111.26,5470.73,Mailed check,1
+CUST101215,Male,42,Month-to-month,98.05,4125.35,Bank transfer,1
+CUST101216,Female,16,Two year,95.54,1525.34,Mailed check,1
+CUST101217,Female,31,Two year,80.67,2508.84,Bank transfer,0
+CUST101218,Male,40,Month-to-month,82.68,3317.45,Mailed check,0
+CUST101219,Male,5,Two year,83.8,430.2,Bank transfer,0
+CUST101220,Male,26,One year,82.87,2153.74,Mailed check,0
+CUST101221,Female,19,One year,75.37,1429.23,Credit card,1
+CUST101222,Male,24,One year,118.64,2827.8,Mailed check,1
+CUST101223,Male,65,One year,93.23,6077.01,Bank transfer,1
+CUST101224,Male,8,Month-to-month,97.69,785.65,Bank transfer,0
+CUST101225,Female,52,Two year,107.25,5565.13,Electronic check,0
+CUST101226,Male,60,One year,41.56,2510.38,Mailed check,0
+CUST101227,Female,37,Month-to-month,28.38,2495.943556701031,Credit card,0
+CUST101228,Female,2,Two year,68.29,156.15,Mailed check,1
+CUST101229,Male,69,Two year,71.41,4942.25,Mailed check,0
+CUST101230,Male,54,Month-to-month,102.92,5577.59,Credit card,0
+CUST101231,Female,0,Month-to-month,64.38,-10.21,Mailed check,0
+CUST101232,Male,69,One year,77.09,5332.9,Credit card,0
+CUST101233,Male,44,Two year,72.71,3212.16,Credit card,0
+CUST101234,Female,46,Two year,23.82,1084.96,Mailed check,0
+CUST101235,Female,25,Month-to-month,81.52,2021.94,Mailed check,0
+CUST101236,Male,13,Two year,102.8,1355.58,Bank transfer,0
+CUST101237,Female,53,One year,35.75,1886.59,Bank transfer,0
+CUST101238,Male,70,Two year,79.43,5574.94,Electronic check,1
+CUST101239,Male,45,Month-to-month,79.36,3551.37,Electronic check,0
+CUST101240,Male,30,Month-to-month,36.42,1073.44,Mailed check,0
+CUST101241,Female,58,One year,32.35,1874.93,Credit card,1
+CUST101242,Male,28,One year,118.01,3293.83,Electronic check,0
+CUST101243,Male,16,Two year,59.37,957.51,Mailed check,1
+CUST101244,Male,13,Two year,42.74,558.24,Electronic check,0
+CUST101245,Female,35,Month-to-month,37.13,1282.65,Credit card,0
+CUST101246,Female,57,One year,86.76,4931.83,Mailed check,0
+CUST101247,Male,23,One year,80.94,1857.14,Credit card,1
+CUST101248,Male,62,One year,84.36,5217.74,Mailed check,0
+CUST101249,Female,24,Two year,28.8,702.89,Electronic check,0
+CUST101250,Male,58,One year,109.35,6338.94,Bank transfer,0
+CUST101251,Female,31,Month-to-month,58.93,1810.57,Electronic check,0
+CUST101252,Female,17,Month-to-month,51.34,872.15,Electronic check,0
+CUST101253,Female,36,Two year,66.24,2368.27,Bank transfer,0
+CUST101254,Male,25,Two year,59.01,1460.41,Bank transfer,1
+CUST101255,Female,8,One year,106.36,840.46,Mailed check,1
+CUST101256,Female,63,Two year,112.93,7128.97,Mailed check,0
+CUST101257,Male,71,Month-to-month,50.35,3591.83,Credit card,1
+CUST101258,Female,19,One year,106.39,2034.46,Credit card,0
+CUST101259,Male,53,Month-to-month,98.15,5195.31,Electronic check,1
+CUST101260,Male,29,One year,113.08,3270.22,Bank transfer,0
+CUST101261,Male,52,Two year,44.58,2320.13,Credit card,0
+CUST101262,Male,62,One year,77.7,4826.27,Electronic check,0
+CUST101263,Male,10,One year,47.45,494.23,Bank transfer,0
+CUST101264,Female,30,Month-to-month,102.41,3057.56,Mailed check,1
+CUST101265,Male,48,Month-to-month,20.53,967.41,Electronic check,0
+CUST101266,Male,18,One year,76.48,1384.41,Mailed check,0
+CUST101267,Female,11,Two year,53.92,606.41,Credit card,0
+CUST101268,Male,14,Two year,52.27,745.63,Credit card,0
+CUST101269,Female,30,Month-to-month,84.49,2541.84,Bank transfer,0
+CUST101270,Female,42,Two year,105.15,4434.46,Electronic check,0
+CUST101271,Female,36,Month-to-month,80.92,2913.56,Mailed check,0
+CUST101272,Male,28,Two year,105.32,2965.51,Bank transfer,0
+CUST101273,Male,25,One year,46.46,1180.21,Credit card,0
+CUST101274,Male,1,Month-to-month,71.95,85.84,Credit card,0
+CUST101275,Female,14,Month-to-month,69.26517182130586,903.09,Electronic check,0
+CUST101276,Male,3,One year,21.16,51.33,Mailed check,1
+CUST101277,Male,49,Month-to-month,75.68,3710.24,Electronic check,0
+CUST101278,Male,37,Two year,86.15,3185.67,False,0
+CUST101279,Female,22,Two year,79.19,1757.29,Mailed check,0
+CUST101280,Female,58,Month-to-month,93.63,5414.54,Electronic check,0
+CUST101281,Male,27,Two year,77.13,2072.82,Bank transfer,0
+CUST101282,Male,65,Month-to-month,26.68,1744.27,Electronic check,0
+CUST101283,Male,7,One year,31.64,205.28,Electronic check,0
+CUST101284,Male,28,Month-to-month,79.65,2223.03,Credit card,0
+CUST101285,Female,10,One year,47.5,470.49,Credit card,1
+CUST101286,Female,17,Two year,27.96,480.22,Electronic check,1
+CUST101287,Female,54,One year,62.96,3386.17,Electronic check,1
+CUST101288,Female,49,Two year,75.43,3710.49,Credit card,0
+CUST101289,Male,13,Month-to-month,52.87,685.21,Mailed check,0
+CUST101290,Male,8,Two year,92.04,753.0,Electronic check,1
+CUST101291,Male,10,Month-to-month,84.38,842.51,Bank transfer,0
+CUST101292,Female,62,Month-to-month,53.28,3294.36,Bank transfer,0
+CUST101293,Male,66,One year,95.49,6288.01,Bank transfer,1
+CUST101294,Female,52,False,84.87,4393.39,Electronic check,0
+CUST101295,Female,38,One year,83.74,3183.41,Mailed check,0
+CUST101296,Male,55,One year,75.34,4127.99,Mailed check,0
+CUST101297,Male,27,Two year,21.14,566.45,Credit card,0
+CUST101298,Male,38,Two year,89.65,3410.27,Electronic check,0
+CUST101299,Female,24,Two year,57.6,1373.43,Mailed check,0
+CUST101300,Male,20,Month-to-month,114.26,2272.21,Electronic check,0
+CUST101301,Female,9,Two year,101.8,927.19,False,0
+CUST101302,Male,42,Two year,78.77,3326.21,Credit card,0
+CUST101303,Female,14,Two year,45.22,617.1,Credit card,0
+CUST101304,Female,47,One year,40.37,1883.61,Bank transfer,0
+CUST101305,Male,20,Two year,54.04,1099.2,Electronic check,1
+CUST101306,Female,59,Month-to-month,67.66,3973.45,Credit card,0
+CUST101307,Female,49,One year,49.61,2450.0,Electronic check,0
+CUST101308,Male,22,Month-to-month,71.49,2495.943556701031,Bank transfer,0
+CUST101309,Female,12,Two year,36.54,453.43,Bank transfer,1
+CUST101310,Male,68,One year,117.77,2495.943556701031,Credit card,1
+CUST101311,Female,3,Month-to-month,30.79,109.91,Credit card,0
+CUST101312,Male,71,Two year,113.19,8029.17,Mailed check,1
+CUST101313,Male,8,Month-to-month,111.36,897.05,Electronic check,0
+CUST101314,Female,34,Month-to-month,72.54,2449.56,Credit card,0
+CUST101315,Female,20,Month-to-month,92.49,1839.49,Mailed check,0
+CUST101316,Female,57,Two year,63.6,3636.15,Electronic check,1
+CUST101317,Female,17,Two year,83.0,1412.15,Credit card,1
+CUST101318,Female,71,Month-to-month,54.06,3855.38,Mailed check,1
+CUST101319,Male,42,One year,50.12,2102.19,Mailed check,1
+CUST101320,Female,5,One year,77.82,403.89,Electronic check,0
+CUST101321,Male,66,Two year,69.81,4605.42,Mailed check,0
+CUST101322,Male,11,Two year,77.95,876.62,Electronic check,1
+CUST101323,Female,11,False,48.67,553.76,Electronic check,1
+CUST101324,Male,65,Two year,56.7,3678.67,Electronic check,1
+CUST101325,Male,1,Two year,28.39,43.83,Bank transfer,0
+CUST101326,Male,14,One year,25.23,367.12,Mailed check,0
+CUST101327,Male,22,Two year,45.35,986.13,Electronic check,0
+CUST101328,Female,28,Month-to-month,27.42,772.73,Credit card,0
+CUST101329,Male,6,Month-to-month,30.38,165.19,Bank transfer,0
+CUST101330,Female,27,One year,101.29,2748.3,Bank transfer,0
+CUST101331,Female,13,Month-to-month,23.89,297.55,Mailed check,1
+CUST101332,Male,43,One year,85.89,3676.1,Electronic check,0
+CUST101333,Female,29,One year,47.26,1366.55,Mailed check,0
+CUST101334,Female,31,Month-to-month,107.15,3324.73,Bank transfer,0
+CUST101335,Female,69,Two year,68.5,4740.7,Electronic check,1
+CUST101336,Male,5,Month-to-month,50.56,271.77,Credit card,0
+CUST101337,Female,26,Month-to-month,71.76,1863.34,Electronic check,1
+CUST101338,Female,23,One year,58.2,1321.02,Bank transfer,0
+CUST101339,Female,33,Month-to-month,76.43,2532.15,Credit card,0
+CUST101340,Male,39,One year,31.45,1229.16,Electronic check,0
+CUST101341,Female,46,Two year,119.7,5504.12,Credit card,0
+CUST101342,Male,23,Two year,62.56,1431.25,Credit card,0
+CUST101343,Male,64,Two year,54.82,3508.58,Bank transfer,0
+CUST101344,Male,17,Month-to-month,69.26517182130586,1540.89,Credit card,0
+CUST101345,Male,43,One year,56.39,2435.05,Mailed check,1
+CUST101346,Male,56,Two year,103.33,5788.24,Bank transfer,0
+CUST101347,Male,27,One year,65.43,1781.68,Mailed check,0
+CUST101348,Female,70,One year,91.96,6438.94,Credit card,0
+CUST101349,Male,22,Two year,30.75,666.03,Mailed check,0
+CUST101350,Female,33,Two year,104.61,3466.17,Electronic check,0
+CUST101351,Female,10,One year,93.57,937.99,Credit card,0
+CUST101352,Male,34,Two year,41.17,1388.05,Electronic check,0
+CUST101353,Female,41,One year,34.53,1420.67,False,0
+CUST101354,Female,27,One year,51.63,1388.32,Electronic check,1
+CUST101355,Female,23,Two year,117.61,2718.81,Credit card,1
+CUST101356,Female,7,Month-to-month,45.68,317.89,Electronic check,0
+CUST101357,Male,52,Two year,65.61,3420.78,Mailed check,0
+CUST101358,Female,71,Month-to-month,23.0,1616.82,Mailed check,0
+CUST101359,Male,3,One year,59.72,2495.943556701031,Mailed check,1
+CUST101360,Female,4,One year,77.13,327.85,Credit card,0
+CUST101361,Female,48,Month-to-month,115.31,5547.22,Mailed check,0
+CUST101362,Male,29,One year,71.67,2064.83,Credit card,0
+CUST101363,Female,71,Month-to-month,101.91,7226.72,Electronic check,0
+CUST101364,Female,62,Month-to-month,74.71,4625.21,Mailed check,0
+CUST101365,Female,46,One year,24.08,1113.69,Electronic check,1
+CUST101366,Male,25,Month-to-month,51.5,1297.78,Bank transfer,0
+CUST101367,Female,56,Two year,77.55,2495.943556701031,Electronic check,0
+CUST101368,Male,36,Two year,115.06,4142.55,False,0
+CUST101369,Female,6,One year,105.91,647.89,Electronic check,1
+CUST101370,Male,39,One year,42.84,1668.24,Credit card,0
+CUST101371,Male,38,Month-to-month,42.01,1581.34,Electronic check,1
+CUST101372,Female,61,Month-to-month,40.12,2449.9,Credit card,0
+CUST101373,Female,52,Month-to-month,112.25,5855.09,Credit card,1
+CUST101374,Male,3,Month-to-month,105.27,327.53,Mailed check,1
+CUST101375,Male,24,Two year,69.26517182130586,2342.91,Credit card,1
+CUST101376,Female,6,Two year,59.27,361.49,Bank transfer,1
+CUST101377,Male,27,One year,70.44,1919.1,Mailed check,1
+CUST101378,Female,68,Month-to-month,66.43,4514.37,Mailed check,0
+CUST101379,Female,66,Month-to-month,45.34,2985.7,Electronic check,1
+CUST101380,Female,19,One year,70.5,1358.59,Credit card,0
+CUST101381,Female,10,Month-to-month,23.05,245.04,Credit card,1
+CUST101382,Male,66,Month-to-month,33.18,2182.8,Bank transfer,0
+CUST101383,Female,6,Month-to-month,108.66,650.51,Electronic check,0
+CUST101384,Male,22,Month-to-month,95.17,2090.34,Electronic check,1
+CUST101385,Female,60,Month-to-month,62.29,3723.36,Mailed check,0
+CUST101386,Male,70,False,71.72,5038.71,Mailed check,1
+CUST101387,Female,33,Month-to-month,57.0,1877.17,Mailed check,0
+CUST101388,Male,18,One year,94.08,1708.45,Bank transfer,0
+CUST101389,Male,57,Month-to-month,98.42,5597.51,Bank transfer,1
+CUST101390,Female,8,Two year,96.33,772.55,Mailed check,0
+CUST101391,Female,47,Two year,92.26,4317.18,Electronic check,1
+CUST101392,Female,40,Two year,40.45,1628.57,Bank transfer,0
+CUST101393,Female,47,Two year,53.8,2531.84,Electronic check,0
+CUST101394,Male,44,One year,66.98,2952.14,Electronic check,0
+CUST101395,Male,24,One year,53.08,1255.99,Credit card,0
+CUST101396,Male,24,Month-to-month,95.49,2280.2,Mailed check,1
+CUST101397,Male,18,Two year,52.94,935.89,Credit card,1
+CUST101398,Female,38,One year,33.82,1276.72,Mailed check,1
+CUST101399,Male,26,Month-to-month,69.26517182130586,1562.5,Mailed check,0
+CUST101400,Male,62,Month-to-month,117.99,7318.03,False,1
+CUST101401,Male,67,One year,69.26517182130586,2858.02,Mailed check,0
+CUST101402,Male,18,Two year,81.22,1463.93,Electronic check,0
+CUST101403,Female,27,Month-to-month,63.3,1700.02,Electronic check,1
+CUST101404,Female,32,Two year,27.1,856.98,Mailed check,0
+CUST101405,Female,9,Two year,68.79,604.59,Electronic check,0
+CUST101406,Female,29,Two year,90.22,2630.34,Electronic check,0
+CUST101407,Male,21,Month-to-month,71.32,1502.38,Electronic check,0
+CUST101408,Male,2,Two year,107.21,201.88,Bank transfer,0
+CUST101409,Female,47,Month-to-month,48.89,2284.92,Electronic check,0
+CUST101410,Female,1,Two year,28.62,43.54,Bank transfer,0
+CUST101411,Female,53,Month-to-month,113.66,6033.69,Bank transfer,0
+CUST101412,Male,5,Two year,57.82,295.48,Electronic check,1
+CUST101413,Female,39,One year,77.64,3024.23,Electronic check,0
+CUST101414,Female,1,Two year,99.2,89.68,Bank transfer,1
+CUST101415,Female,1,Two year,52.43,71.61,Bank transfer,1
+CUST101416,Male,54,Month-to-month,91.62,4959.37,False,0
+CUST101417,Male,71,Month-to-month,33.54,2373.41,Electronic check,0
+CUST101418,Male,59,Two year,49.13,2912.57,Mailed check,0
+CUST101419,Male,5,One year,34.47,182.71,Bank transfer,1
+CUST101420,Male,18,One year,101.12,1812.04,Bank transfer,0
+CUST101421,Male,26,Month-to-month,42.26,1095.82,False,0
+CUST101422,Male,0,One year,91.74,-12.56,Bank transfer,1
+CUST101423,Male,32,False,114.33,3643.0,Credit card,0
+CUST101424,Female,39,Month-to-month,69.26517182130586,2847.33,Bank transfer,0
+CUST101425,Female,31,Two year,74.0,2284.7,Mailed check,0
+CUST101426,Male,68,Month-to-month,66.1,4507.6,Credit card,1
+CUST101427,Male,16,Month-to-month,52.59,861.26,Electronic check,1
+CUST101428,Female,7,Month-to-month,67.57,2495.943556701031,Mailed check,0
+CUST101429,Male,56,Month-to-month,80.28,4494.6,Mailed check,0
+CUST101430,Male,41,One year,118.6,4874.68,Electronic check,0
+CUST101431,Male,8,Two year,113.78,921.8,Mailed check,1
+CUST101432,Female,34,Two year,106.22,3621.88,Bank transfer,0
+CUST101433,Female,70,Two year,108.91,7617.66,Electronic check,0
+CUST101434,Female,52,Month-to-month,66.78,3470.71,Mailed check,1
+CUST101435,Female,53,One year,85.74,4548.02,Electronic check,0
+CUST101436,Female,24,Two year,109.51,2647.2,False,0
+CUST101437,Male,66,One year,59.3,3906.9,Electronic check,1
+CUST101438,Female,61,Month-to-month,116.18,7103.91,Credit card,0
+CUST101439,Male,54,Two year,61.58,3316.09,Mailed check,0
+CUST101440,Male,45,One year,80.11,3624.51,Credit card,0
+CUST101441,Female,23,Month-to-month,90.98,2099.35,Mailed check,0
+CUST101442,Female,45,One year,115.06,5176.24,Bank transfer,0
+CUST101443,Male,21,Two year,44.46,938.2,Bank transfer,1
+CUST101444,Male,10,Two year,94.61,937.0,Bank transfer,0
+CUST101445,Male,47,Month-to-month,72.08,3378.73,Mailed check,0
+CUST101446,Female,7,Month-to-month,46.86,312.56,Electronic check,1
+CUST101447,Female,38,Month-to-month,97.66,3695.64,Electronic check,0
+CUST101448,Female,34,One year,75.22,2551.39,False,1
+CUST101449,Female,48,One year,86.1,4143.31,Credit card,1
+CUST101450,Female,45,One year,52.29,2357.37,Bank transfer,0
+CUST101451,Male,37,Month-to-month,68.13,2504.91,Credit card,1
+CUST101452,Female,7,Two year,81.74,586.27,Mailed check,0
+CUST101453,Male,53,Two year,60.49,3210.02,Mailed check,0
+CUST101454,Male,36,One year,39.84,1452.67,Credit card,0
+CUST101455,Male,39,One year,116.16,4537.05,Credit card,0
+CUST101456,Female,33,Two year,71.15,2334.96,Credit card,0
+CUST101457,Female,16,False,93.39,1493.19,Credit card,0
+CUST101458,Female,32,One year,61.1,1961.14,Bank transfer,0
+CUST101459,Male,46,One year,55.51,2534.59,Bank transfer,0
+CUST101460,Male,51,Two year,60.72,3077.32,False,0
+CUST101461,Male,8,Month-to-month,60.92,472.54,Mailed check,0
+CUST101462,Male,32,One year,74.42,2371.51,Bank transfer,1
+CUST101463,Male,59,Two year,74.35,4383.83,Mailed check,0
+CUST101464,Male,20,Two year,69.72,1393.9,Electronic check,0
+CUST101465,Female,57,Two year,33.48,1893.88,Mailed check,0
+CUST101466,Female,68,Two year,69.61,4740.42,Credit card,1
+CUST101467,Female,9,Month-to-month,36.91,336.04,Electronic check,0
+CUST101468,Female,5,Two year,32.61,154.83,Bank transfer,0
+CUST101469,Male,12,One year,113.26,1339.67,Bank transfer,1
+CUST101470,Male,64,Month-to-month,80.5,5135.11,Electronic check,0
+CUST101471,Female,19,Two year,85.95,1628.72,Mailed check,1
+CUST101472,Male,56,Month-to-month,60.18,3356.24,Bank transfer,0
+CUST101473,Female,45,One year,110.9,4985.57,Credit card,0
+CUST101474,Female,7,Two year,83.79,591.66,Electronic check,0
+CUST101475,Female,9,One year,96.92,874.17,Credit card,0
+CUST101476,Male,66,Two year,56.86,3742.01,Electronic check,0
+CUST101477,Female,10,Two year,116.0,1153.75,Bank transfer,0
+CUST101478,Female,11,Two year,102.05,1127.11,Mailed check,1
+CUST101479,Male,9,Two year,105.39,962.94,Electronic check,1
+CUST101480,Male,24,Two year,37.22,903.41,Electronic check,1
+CUST101481,Male,48,Month-to-month,47.1,2262.94,Credit card,0
+CUST101482,Female,48,Two year,48.56,2325.37,Bank transfer,0
+CUST101483,Male,10,Two year,47.09,465.5,Credit card,1
+CUST101484,Male,61,Month-to-month,105.54,6453.12,Bank transfer,1
+CUST101485,Male,35,Month-to-month,23.19,793.22,Credit card,0
+CUST101486,Male,38,Month-to-month,27.61,1068.7,Electronic check,0
+CUST101487,Male,52,Month-to-month,47.39,2470.86,False,0
+CUST101488,Male,55,Month-to-month,39.99,2206.7,Mailed check,0
+CUST101489,Male,0,Month-to-month,43.19,-18.48,Bank transfer,0
+CUST101490,Male,55,Two year,99.79,5492.67,Bank transfer,0
+CUST101491,Male,3,Two year,76.31,228.32,Electronic check,0
+CUST101492,Male,29,One year,20.58,581.05,Bank transfer,1
+CUST101493,Female,11,Two year,62.93,683.35,Mailed check,1
+CUST101494,Female,34,Two year,60.79,2082.47,Credit card,1
+CUST101495,Male,51,Month-to-month,31.39,1602.89,Electronic check,0
+CUST101496,Male,30,Month-to-month,87.61,2624.84,Mailed check,0
+CUST101497,Female,67,False,90.21,2495.943556701031,Bank transfer,1
+CUST101498,Male,51,One year,92.09,4705.15,Bank transfer,0
+CUST101499,Male,6,False,92.85,565.21,Mailed check,0
+CUST101500,Male,21,Two year,20.01,424.77,Credit card,0
+CUST101501,Female,55,Two year,115.39,6346.86,Credit card,1
+CUST101502,Female,57,One year,101.42,5778.29,Electronic check,0
+CUST101503,Male,63,One year,110.4,2495.943556701031,Bank transfer,0
+CUST101504,Male,11,Month-to-month,21.56,226.5,Mailed check,1
+CUST101505,Male,6,One year,69.26517182130586,697.99,Credit card,0
+CUST101506,Female,54,Two year,100.98,5456.47,Electronic check,1
+CUST101507,Female,61,Two year,103.72,6319.37,Bank transfer,1
+CUST101508,Female,54,One year,29.33,2495.943556701031,Bank transfer,0
+CUST101509,Female,35,One year,93.88,3298.03,Electronic check,0
+CUST101510,Male,23,One year,115.99,2495.943556701031,Electronic check,0
+CUST101511,Male,43,One year,87.85,3769.26,Credit card,1
+CUST101512,Male,16,Month-to-month,77.06,1240.14,Mailed check,0
+CUST101513,Male,1,One year,69.26517182130586,107.18,Bank transfer,0
+CUST101514,Female,12,Month-to-month,64.29,783.18,Mailed check,0
+CUST101515,Female,30,Two year,79.93,2383.12,Bank transfer,0
+CUST101516,Male,27,One year,67.63,1836.52,Bank transfer,1
+CUST101517,Male,59,Month-to-month,113.28,6666.25,Mailed check,0
+CUST101518,Female,26,One year,27.61,2495.943556701031,Electronic check,0
+CUST101519,Male,14,Two year,70.11,997.47,Credit card,0
+CUST101520,Female,32,Two year,88.7,2841.65,Bank transfer,0
+CUST101521,Male,19,Two year,99.19,1878.68,Electronic check,1
+CUST101522,Male,41,One year,78.3,3199.6,Bank transfer,1
+CUST101523,Male,11,One year,110.89,1224.47,Credit card,0
+CUST101524,Male,22,Month-to-month,114.2,2512.76,Bank transfer,0
+CUST101525,Male,71,Two year,26.43,1896.19,Credit card,0
+CUST101526,Male,13,One year,60.24,802.45,Credit card,1
+CUST101527,Male,24,Two year,22.35,541.8,Bank transfer,0
+CUST101528,Female,30,Two year,52.94,1585.91,Bank transfer,0
+CUST101529,Female,53,Month-to-month,73.69,3905.22,Credit card,0
+CUST101530,Female,4,Month-to-month,111.08,451.62,Electronic check,1
+CUST101531,Female,12,Month-to-month,104.66,1239.98,Mailed check,1
+CUST101532,Female,27,Month-to-month,32.75,877.38,Credit card,0
+CUST101533,Male,42,Two year,29.3,1213.61,Bank transfer,0
+CUST101534,Male,46,Month-to-month,78.93,3613.71,Bank transfer,0
+CUST101535,Female,70,Month-to-month,73.21,5112.53,Electronic check,0
+CUST101536,Male,37,Month-to-month,46.64,1725.09,Mailed check,0
+CUST101537,Female,66,Month-to-month,69.26517182130586,7268.09,Credit card,1
+CUST101538,Female,61,Two year,112.74,6876.56,Credit card,1
+CUST101539,Male,38,False,60.26,2283.3,Mailed check,1
+CUST101540,Male,36,Two year,109.03,3908.37,Credit card,0
+CUST101541,Male,7,One year,58.39,410.74,Mailed check,0
+CUST101542,Female,51,Two year,93.68,4768.53,Bank transfer,0
+CUST101543,Male,32,Two year,67.59,2167.48,Mailed check,1
+CUST101544,Female,41,Month-to-month,32.26,1341.75,Credit card,0
+CUST101545,Female,26,One year,112.79,2916.99,Mailed check,0
+CUST101546,Female,7,One year,65.41,446.36,Electronic check,0
+CUST101547,Male,22,One year,93.45,2495.943556701031,Bank transfer,1
+CUST101548,Male,63,One year,56.72,3592.1,Bank transfer,0
+CUST101549,Female,19,Two year,21.89,426.78,Mailed check,0
+CUST101550,Male,15,One year,30.05,466.68,Credit card,0
+CUST101551,Male,16,Two year,69.62,1107.27,Electronic check,0
+CUST101552,Male,18,Two year,89.0,1621.68,Bank transfer,1
+CUST101553,Female,7,Two year,53.47,358.4,Bank transfer,0
+CUST101554,Female,37,One year,89.55,3295.47,Credit card,0
+CUST101555,Male,37,Month-to-month,89.86,3339.04,Credit card,0
+CUST101556,Female,52,Month-to-month,90.39,4717.37,Electronic check,0
+CUST101557,Male,30,One year,69.25,2061.12,Mailed check,1
+CUST101558,Male,43,Month-to-month,111.49,4778.61,Credit card,1
+CUST101559,Male,59,Month-to-month,68.92,4047.61,Mailed check,0
+CUST101560,Male,16,Two year,65.03,2495.943556701031,Electronic check,1
+CUST101561,Female,38,Two year,39.94,1506.1,Mailed check,0
+CUST101562,Female,41,One year,50.77,2100.37,Bank transfer,0
+CUST101563,Female,47,One year,24.23,1145.52,Mailed check,1
+CUST101564,Male,11,Month-to-month,83.35,927.99,Electronic check,0
+CUST101565,Male,17,Two year,44.85,773.5,Electronic check,1
+CUST101566,Male,5,One year,50.42,253.5,Electronic check,0
+CUST101567,Female,42,One year,97.08,4089.26,Mailed check,0
+CUST101568,Male,34,One year,52.72,1796.31,Bank transfer,0
+CUST101569,Female,53,One year,44.22,2336.24,Credit card,0
+CUST101570,Female,61,One year,36.91,2253.95,Bank transfer,1
+CUST101571,Female,68,One year,97.49,6630.66,Mailed check,0
+CUST101572,Female,15,Month-to-month,69.26517182130586,507.49,Mailed check,0
+CUST101573,Female,7,Two year,65.38,476.93,Credit card,0
+CUST101574,Female,30,Two year,70.69,2117.14,Mailed check,0
+CUST101575,Male,9,One year,88.74,809.2,Electronic check,0
+CUST101576,Male,55,Two year,83.33,4567.14,Electronic check,0
+CUST101577,Female,69,Two year,101.07,6984.9,False,0
+CUST101578,Female,19,Two year,24.48,459.98,Electronic check,0
+CUST101579,Male,4,One year,49.64,180.14,Electronic check,1
+CUST101580,Female,22,One year,48.01,1050.75,Mailed check,0
+CUST101581,Female,8,Two year,34.6,281.23,Credit card,1
+CUST101582,Male,57,Two year,48.92,2773.21,Credit card,1
+CUST101583,Female,58,One year,50.98,2973.8,Electronic check,1
+CUST101584,Female,53,Month-to-month,72.19,3809.18,Mailed check,0
+CUST101585,Female,45,Two year,69.26517182130586,3903.85,Bank transfer,0
+CUST101586,Male,21,Month-to-month,58.11,1228.6,Bank transfer,0
+CUST101587,Male,63,Two year,91.95,5786.04,Mailed check,0
+CUST101588,Male,7,Month-to-month,53.62,370.97,Electronic check,0
+CUST101589,Female,19,Month-to-month,49.03,941.2,Credit card,0
+CUST101590,Female,50,Month-to-month,74.12,2495.943556701031,Mailed check,0
+CUST101591,Male,38,One year,22.37,856.93,Bank transfer,0
+CUST101592,Female,36,Month-to-month,27.98,1002.85,Bank transfer,0
+CUST101593,Female,49,Month-to-month,61.8,3027.71,Bank transfer,0
+CUST101594,Female,33,Month-to-month,114.29,3791.16,Electronic check,0
+CUST101595,Female,32,Two year,92.15,2937.36,Bank transfer,0
+CUST101596,Female,30,Month-to-month,28.81,861.01,Mailed check,0
+CUST101597,Male,53,Two year,104.63,5537.06,Mailed check,0
+CUST101598,Female,43,Month-to-month,93.23,4019.49,Bank transfer,0
+CUST101599,Male,33,Month-to-month,69.26517182130586,2686.53,Mailed check,0
+CUST101600,Female,70,One year,102.03,7133.8,Bank transfer,0
+CUST101601,Male,61,Two year,60.41,3668.27,Bank transfer,0
+CUST101602,Female,22,Month-to-month,42.15,907.76,Credit card,0
+CUST101603,Male,45,Two year,71.2,3201.1,Electronic check,0
+CUST101604,Female,55,Two year,74.88,4114.81,Electronic check,0
+CUST101605,Male,6,One year,73.83,462.52,Credit card,0
+CUST101606,Female,60,One year,76.51,4589.39,Credit card,0
+CUST101607,Male,2,One year,114.87,220.0,Electronic check,0
+CUST101608,Female,37,One year,110.22,4093.79,Bank transfer,0
+CUST101609,Male,33,One year,107.57,3549.45,Bank transfer,0
+CUST101610,Male,43,One year,100.14,4309.99,Electronic check,1
+CUST101611,Female,29,One year,114.34,2495.943556701031,Bank transfer,0
+CUST101612,Female,16,One year,29.85,472.92,Credit card,0
+CUST101613,Male,58,Month-to-month,46.51,2715.35,Bank transfer,0
+CUST101614,Female,9,Two year,69.51,629.17,Bank transfer,0
+CUST101615,Male,17,One year,104.65,1772.83,Mailed check,1
+CUST101616,Male,44,One year,70.52,3107.91,Mailed check,0
+CUST101617,Male,58,Two year,94.8,5514.82,Mailed check,0
+CUST101618,Female,61,False,33.9,2058.86,False,1
+CUST101619,Male,58,Two year,45.24,2624.12,Electronic check,0
+CUST101620,Male,48,Two year,93.18,4490.99,Credit card,0
+CUST101621,Female,62,One year,36.47,2248.04,Bank transfer,0
+CUST101622,Female,31,Two year,55.14,1718.13,Electronic check,1
+CUST101623,Female,9,Two year,46.49,422.99,Bank transfer,0
+CUST101624,Female,10,One year,54.99,557.09,Credit card,0
+CUST101625,Male,69,One year,90.83,6261.32,Bank transfer,1
+CUST101626,Male,61,One year,56.78,3456.14,Credit card,1
+CUST101627,Male,46,One year,75.53,3481.75,Bank transfer,1
+CUST101628,Male,33,Two year,29.99,978.29,Credit card,0
+CUST101629,Female,16,Two year,100.5,1604.79,Bank transfer,1
+CUST101630,Male,53,Month-to-month,56.99,3008.0,Credit card,1
+CUST101631,Male,39,Month-to-month,84.85,3289.48,Mailed check,0
+CUST101632,Female,18,Two year,92.54,1684.52,Bank transfer,0
+CUST101633,Male,66,Month-to-month,40.97,2701.29,Bank transfer,0
+CUST101634,Male,52,Two year,108.47,5659.21,Electronic check,0
+CUST101635,Male,63,Month-to-month,81.62,5127.67,Electronic check,1
+CUST101636,Male,46,One year,62.87,2495.943556701031,Credit card,0
+CUST101637,Male,5,Month-to-month,38.23,179.19,Bank transfer,1
+CUST101638,Male,15,One year,114.23,1725.05,Credit card,0
+CUST101639,Female,71,One year,95.51,6792.56,Mailed check,0
+CUST101640,Female,17,One year,40.8,678.1,Electronic check,1
+CUST101641,Male,51,One year,53.77,2758.75,Credit card,0
+CUST101642,Male,47,Month-to-month,100.97,4733.38,Credit card,0
+CUST101643,Female,42,Two year,89.57,3766.46,Electronic check,1
+CUST101644,Male,38,One year,96.58,3689.47,Bank transfer,0
+CUST101645,Male,48,Month-to-month,64.12,3093.06,Credit card,0
+CUST101646,Male,11,One year,91.65,1026.41,Electronic check,0
+CUST101647,Female,9,Month-to-month,58.65,521.55,Bank transfer,0
+CUST101648,Male,70,Month-to-month,41.13,2863.32,Mailed check,0
+CUST101649,Female,54,Month-to-month,83.27,4484.11,Electronic check,1
+CUST101650,Male,0,Two year,117.6,0.02,Credit card,1
+CUST101651,Female,48,Month-to-month,51.06,2462.61,Mailed check,0
+CUST101652,Female,35,Month-to-month,66.1,2299.51,Bank transfer,1
+CUST101653,Male,20,Two year,87.4,1754.39,Bank transfer,0
+CUST101654,Female,36,Two year,74.15,2662.34,Electronic check,0
+CUST101655,Male,23,Month-to-month,104.34,2393.47,Electronic check,0
+CUST101656,Female,54,Two year,96.17,5199.66,Electronic check,1
+CUST101657,Male,24,False,25.83,618.6,Bank transfer,0
+CUST101658,Male,6,One year,119.84,731.52,Mailed check,0
+CUST101659,Female,70,Two year,95.24,6653.04,Bank transfer,0
+CUST101660,Male,70,Two year,106.39,7458.9,Credit card,0
+CUST101661,Male,23,Month-to-month,85.12,1940.33,Bank transfer,1
+CUST101662,Female,10,Two year,105.63,1044.06,Credit card,0
+CUST101663,Male,11,Month-to-month,31.24,349.89,Mailed check,1
+CUST101664,Male,34,One year,54.77,1876.38,Electronic check,0
+CUST101665,Female,62,Two year,69.26517182130586,6663.79,Electronic check,0
+CUST101666,Female,67,Month-to-month,40.17,2684.48,Bank transfer,0
+CUST101667,Male,56,Month-to-month,27.82,2495.943556701031,Electronic check,0
+CUST101668,Male,12,One year,98.81,1174.18,Mailed check,0
+CUST101669,Female,22,Two year,103.55,2290.55,False,0
+CUST101670,Female,38,One year,36.27,1389.21,Bank transfer,0
+CUST101671,Male,11,Month-to-month,105.43,1145.54,Mailed check,0
+CUST101672,Female,33,Month-to-month,88.68,2924.99,Credit card,0
+CUST101673,Male,70,Two year,72.01,5051.69,Bank transfer,0
+CUST101674,Male,30,Month-to-month,103.03,3084.39,Credit card,1
+CUST101675,Male,61,Two year,61.92,3782.44,Mailed check,1
+CUST101676,Male,12,One year,39.4,454.81,Bank transfer,1
+CUST101677,Male,30,Two year,48.49,1459.05,Bank transfer,0
+CUST101678,Female,1,Two year,70.52,56.63,False,1
+CUST101679,Female,14,Month-to-month,73.13,1037.04,False,0
+CUST101680,Female,56,Month-to-month,100.56,5625.58,Bank transfer,0
+CUST101681,Female,33,Two year,69.26517182130586,3262.88,Bank transfer,1
+CUST101682,Male,67,Month-to-month,78.14,5249.02,Credit card,0
+CUST101683,Male,28,Month-to-month,98.08,2728.25,Electronic check,1
+CUST101684,Male,65,False,39.18,2542.56,Credit card,0
+CUST101685,Male,15,Two year,25.01,369.95,Credit card,0
+CUST101686,Female,38,Month-to-month,107.36,4071.07,Electronic check,0
+CUST101687,Male,36,Two year,27.56,1008.63,Electronic check,1
+CUST101688,Male,20,Month-to-month,44.67,903.44,Mailed check,0
+CUST101689,Female,43,One year,89.53,3832.35,Electronic check,0
+CUST101690,Female,18,Month-to-month,60.94,1105.51,Bank transfer,0
+CUST101691,Female,70,Month-to-month,107.63,7535.19,Electronic check,0
+CUST101692,Female,7,False,49.8,364.63,Mailed check,1
+CUST101693,Male,65,Two year,21.19,1369.87,Mailed check,0
+CUST101694,Male,40,Month-to-month,50.07,2005.77,Mailed check,0
+CUST101695,Female,69,One year,77.81,5368.92,Electronic check,1
+CUST101696,Male,60,Month-to-month,57.59,3454.98,Electronic check,0
+CUST101697,Male,25,Month-to-month,73.49,1835.49,Credit card,0
+CUST101698,Male,70,One year,107.66,7524.43,Credit card,0
+CUST101699,Female,69,Two year,111.25,7686.48,Bank transfer,1
+CUST101700,Male,28,Month-to-month,46.6,1302.85,Credit card,1
+CUST101701,Female,65,Two year,66.21,4321.99,Bank transfer,0
+CUST101702,Male,18,Two year,74.91,1338.81,Mailed check,0
+CUST101703,Male,67,One year,114.91,7706.28,Credit card,1
+CUST101704,Male,57,One year,119.86,6849.65,Electronic check,0
+CUST101705,Female,69,Two year,43.54,3010.8,Credit card,0
+CUST101706,Male,56,Month-to-month,92.7,5206.05,Bank transfer,0
+CUST101707,Female,36,Two year,57.8,2093.9,Credit card,0
+CUST101708,Female,60,Month-to-month,20.81,1243.0,Mailed check,0
+CUST101709,Female,29,Month-to-month,20.93,610.97,Electronic check,0
+CUST101710,Male,70,One year,66.06,4610.45,Bank transfer,0
+CUST101711,Male,24,Month-to-month,68.83,1653.34,Electronic check,0
+CUST101712,Male,64,Month-to-month,22.26,1413.86,Electronic check,0
+CUST101713,Male,5,Two year,88.69,453.2,Bank transfer,0
+CUST101714,Male,17,One year,49.4,840.92,Electronic check,1
+CUST101715,Female,9,Month-to-month,75.99,680.36,Electronic check,0
+CUST101716,Female,10,Month-to-month,50.09,491.65,Credit card,1
+CUST101717,Male,64,One year,36.71,2369.39,Electronic check,0
+CUST101718,Female,64,Two year,60.72,3868.95,Electronic check,1
+CUST101719,Male,51,One year,43.23,2186.47,Electronic check,0
+CUST101720,Female,66,One year,73.48,4838.37,Electronic check,0
+CUST101721,Male,30,Month-to-month,39.88,1215.24,Bank transfer,0
+CUST101722,Male,16,Month-to-month,70.84,1152.61,Mailed check,0
+CUST101723,Female,54,Two year,35.74,1936.16,Credit card,0
+CUST101724,Female,35,Month-to-month,87.1,3063.7,Electronic check,0
+CUST101725,Female,25,Month-to-month,95.39,2373.31,Electronic check,0
+CUST101726,Female,52,One year,31.04,1632.96,Bank transfer,0
+CUST101727,Male,16,Month-to-month,66.78,1054.19,Mailed check,0
+CUST101728,Female,24,Two year,27.09,634.21,Electronic check,0
+CUST101729,Male,1,One year,79.82,64.31,Bank transfer,1
+CUST101730,Female,4,Two year,46.44,188.69,Credit card,0
+CUST101731,Male,3,One year,72.76,229.52,Credit card,0
+CUST101732,Male,35,Month-to-month,71.75,2505.92,Electronic check,0
+CUST101733,Female,5,One year,112.44,581.32,Electronic check,0
+CUST101734,Male,20,One year,74.91,1495.58,Mailed check,0
+CUST101735,Female,25,Month-to-month,78.3,1943.52,Mailed check,1
+CUST101736,Male,54,Month-to-month,60.17,3247.82,Electronic check,0
+CUST101737,Male,38,Two year,114.91,4373.74,Bank transfer,0
+CUST101738,Male,32,Two year,97.72,3140.33,Mailed check,0
+CUST101739,Male,13,Month-to-month,48.54,629.37,Electronic check,0
+CUST101740,Female,55,Month-to-month,69.26517182130586,5746.84,Mailed check,1
+CUST101741,Female,20,Month-to-month,63.24,1255.49,Electronic check,0
+CUST101742,Female,45,One year,102.87,4634.99,Credit card,0
+CUST101743,Male,15,One year,102.29,1553.79,Electronic check,0
+CUST101744,Female,15,One year,38.89,565.31,Credit card,0
+CUST101745,Female,28,Month-to-month,90.11,2538.54,Mailed check,0
+CUST101746,Female,7,Two year,49.06,345.91,Electronic check,0
+CUST101747,Male,2,Month-to-month,49.75,89.58,Mailed check,0
+CUST101748,Male,18,One year,49.63,911.54,Credit card,1
+CUST101749,Male,65,One year,92.56,6015.73,Electronic check,0
+CUST101750,Female,21,Month-to-month,42.98,895.85,Mailed check,1
+CUST101751,Female,45,Month-to-month,20.09,891.31,Credit card,0
+CUST101752,Female,12,One year,91.52,1088.02,Mailed check,1
+CUST101753,Male,32,One year,37.12,1201.15,Bank transfer,0
+CUST101754,Male,4,One year,30.45,126.38,Credit card,1
+CUST101755,Female,26,Month-to-month,69.26517182130586,1154.03,Credit card,0
+CUST101756,Male,23,One year,57.99,1323.05,Credit card,0
+CUST101757,Male,66,One year,67.59,4445.79,Electronic check,0
+CUST101758,Male,62,Two year,24.46,1496.76,Electronic check,0
+CUST101759,Male,47,Month-to-month,117.06,2495.943556701031,False,0
+CUST101760,Female,62,Two year,91.61,2495.943556701031,Bank transfer,0
+CUST101761,Male,11,Two year,52.32,583.32,Bank transfer,0
+CUST101762,Male,27,One year,51.87,1392.83,Credit card,0
+CUST101763,Male,43,Month-to-month,64.85,2803.62,Bank transfer,0
+CUST101764,Male,42,One year,82.62,3481.31,Mailed check,1
+CUST101765,Female,16,Month-to-month,34.64,534.86,Credit card,0
+CUST101766,Female,39,Two year,38.89,1529.38,Credit card,0
+CUST101767,Male,48,Month-to-month,105.94,5077.14,Mailed check,1
+CUST101768,Male,56,One year,45.63,2541.27,Credit card,0
+CUST101769,Male,63,One year,58.02,3644.31,Bank transfer,0
+CUST101770,Male,56,One year,107.13,5998.02,Electronic check,1
+CUST101771,Male,69,Month-to-month,86.31,5952.38,Mailed check,0
+CUST101772,Male,42,Two year,54.17,2266.7,Bank transfer,0
+CUST101773,Female,22,Two year,88.37,1931.03,Mailed check,1
+CUST101774,Male,26,Month-to-month,21.97,581.71,Mailed check,0
+CUST101775,Female,57,One year,93.56,5352.52,Credit card,0
+CUST101776,Female,36,False,68.7,2484.31,Credit card,0
+CUST101777,Male,5,One year,101.32,498.44,Bank transfer,0
+CUST101778,Female,64,Month-to-month,115.46,7379.23,Mailed check,0
+CUST101779,Female,5,One year,112.58,551.61,Credit card,0
+CUST101780,Female,49,Two year,110.93,5421.04,Credit card,0
+CUST101781,Female,21,Two year,71.22,1497.67,Mailed check,0
+CUST101782,Female,24,One year,56.01,1348.46,Bank transfer,0
+CUST101783,Female,71,Month-to-month,66.5,4729.72,Bank transfer,1
+CUST101784,Male,50,One year,88.99,4456.71,Mailed check,0
+CUST101785,Female,47,Month-to-month,108.4,5086.49,Bank transfer,0
+CUST101786,Female,69,One year,40.7,2801.51,Credit card,1
+CUST101787,Female,64,Two year,111.82,7163.74,Mailed check,0
+CUST101788,Male,59,Month-to-month,101.52,5983.66,Credit card,1
+CUST101789,Female,45,Month-to-month,117.89,5293.55,Electronic check,0
+CUST101790,Male,35,Month-to-month,108.03,3776.02,Electronic check,0
+CUST101791,Female,57,Two year,47.99,2726.31,Bank transfer,0
+CUST101792,Male,37,One year,30.6,1115.73,Electronic check,1
+CUST101793,Male,10,Two year,31.22,325.41,Credit card,0
+CUST101794,Female,11,Month-to-month,49.12,554.44,Electronic check,1
+CUST101795,Female,41,One year,81.42,3327.01,Credit card,0
+CUST101796,Male,38,Two year,100.43,3798.93,Bank transfer,0
+CUST101797,Female,70,Month-to-month,109.93,7704.65,Bank transfer,0
+CUST101798,Male,10,Month-to-month,82.38,812.26,Credit card,0
+CUST101799,Male,35,Two year,20.56,715.34,Electronic check,0
+CUST101800,Male,51,Two year,38.63,1952.7,Bank transfer,1
+CUST101801,Male,30,Two year,29.97,888.15,Mailed check,0
+CUST101802,Male,32,Month-to-month,56.33,1814.28,Bank transfer,0
+CUST101803,Female,12,Two year,70.14,853.86,Electronic check,0
+CUST101804,Male,17,Month-to-month,24.34,402.06,Mailed check,1
+CUST101805,Male,40,Two year,54.85,2187.44,Electronic check,0
+CUST101806,Female,57,Month-to-month,37.92,2146.81,Credit card,0
+CUST101807,Male,55,Month-to-month,84.71,4642.02,False,0
+CUST101808,Female,23,One year,69.26517182130586,2495.943556701031,Electronic check,0
+CUST101809,Female,30,Two year,69.26517182130586,2092.12,Mailed check,0
+CUST101810,Female,54,Two year,62.77,3391.26,Electronic check,1
+CUST101811,Male,9,Month-to-month,115.6,1051.02,Mailed check,1
+CUST101812,Male,59,Month-to-month,41.47,2460.33,Electronic check,0
+CUST101813,Male,1,Month-to-month,71.67,83.94,Credit card,0
+CUST101814,Female,14,One year,93.6,1291.06,Mailed check,0
+CUST101815,Male,2,One year,75.68,138.83,Mailed check,0
+CUST101816,Female,42,Month-to-month,112.9,4748.0,False,0
+CUST101817,Male,30,Two year,57.8,1729.03,Mailed check,0
+CUST101818,Female,69,Two year,66.37,4598.83,Credit card,0
+CUST101819,Male,66,One year,28.85,1910.72,Mailed check,0
+CUST101820,Male,55,One year,80.9,4467.76,Bank transfer,0
+CUST101821,Male,62,Month-to-month,48.82,3014.9,Credit card,0
+CUST101822,Female,14,Two year,36.03,518.98,Bank transfer,1
+CUST101823,Female,9,Month-to-month,74.45,662.9,Mailed check,0
+CUST101824,Male,37,One year,73.23,2729.09,Electronic check,0
+CUST101825,Male,46,Two year,27.59,1255.45,Bank transfer,0
+CUST101826,Female,56,Two year,89.82,5030.57,Mailed check,0
+CUST101827,Female,49,One year,82.38,4048.33,Bank transfer,0
+CUST101828,Female,70,Month-to-month,38.9,2720.31,Mailed check,1
+CUST101829,Male,14,Month-to-month,66.94,935.88,Mailed check,1
+CUST101830,Female,17,Two year,92.03,1583.96,Mailed check,0
+CUST101831,Male,1,One year,72.94,69.95,Electronic check,0
+CUST101832,Female,42,Two year,59.55,2505.26,Bank transfer,0
+CUST101833,Male,25,One year,52.23,1287.93,Credit card,1
+CUST101834,Female,70,Month-to-month,81.04,5686.49,Credit card,0
+CUST101835,Female,37,One year,113.91,4220.6,Credit card,0
+CUST101836,Female,41,Month-to-month,87.17,3570.13,Credit card,0
+CUST101837,Female,4,One year,27.47,90.53,Mailed check,0
+CUST101838,Female,10,Two year,66.07,664.37,Bank transfer,1
+CUST101839,Male,64,Month-to-month,109.08,6961.63,Bank transfer,0
+CUST101840,Female,33,Two year,29.45,951.9,Electronic check,0
+CUST101841,Female,0,Two year,118.89,4.64,Bank transfer,0
+CUST101842,Female,1,Month-to-month,69.26517182130586,102.47,Bank transfer,0
+CUST101843,Male,19,Month-to-month,27.83,2495.943556701031,Bank transfer,1
+CUST101844,Female,60,Two year,113.34,6806.53,Electronic check,0
+CUST101845,Male,20,Two year,56.31,1108.35,Credit card,0
+CUST101846,Female,67,Two year,104.47,6992.03,Bank transfer,1
+CUST101847,Female,11,False,61.84,666.22,False,1
+CUST101848,Male,21,Month-to-month,69.26517182130586,1349.1,Electronic check,0
+CUST101849,Female,19,Month-to-month,83.42,1591.45,Mailed check,0
+CUST101850,Male,0,Two year,97.45,8.85,Electronic check,0
+CUST101851,Male,29,One year,23.38,668.23,Credit card,0
+CUST101852,Female,23,One year,79.32,1807.93,Bank transfer,0
+CUST101853,Male,13,Month-to-month,38.67,485.86,Electronic check,0
+CUST101854,Female,35,Two year,54.59,1907.7,Credit card,0
+CUST101855,Female,68,Two year,54.8,3744.23,Electronic check,1
+CUST101856,Male,23,Month-to-month,66.91,1527.64,Electronic check,0
+CUST101857,Male,59,One year,53.41,3141.46,Electronic check,0
+CUST101858,Male,54,One year,30.74,1644.0,Electronic check,0
+CUST101859,Male,23,One year,34.56,799.1,Electronic check,0
+CUST101860,Female,23,Month-to-month,23.34,544.01,Credit card,1
+CUST101861,Female,53,One year,67.02,3557.78,Bank transfer,1
+CUST101862,Male,25,Month-to-month,115.44,2900.45,Bank transfer,0
+CUST101863,Female,65,Month-to-month,31.57,2051.51,False,0
+CUST101864,Female,37,Two year,114.63,4226.69,Bank transfer,0
+CUST101865,Female,64,One year,93.34,2495.943556701031,Credit card,1
+CUST101866,Female,50,Month-to-month,83.75,4194.0,Mailed check,1
+CUST101867,Male,34,One year,84.53,2878.54,Mailed check,0
+CUST101868,Male,42,One year,102.67,2495.943556701031,Credit card,0
+CUST101869,Female,28,Two year,30.69,866.64,Credit card,0
+CUST101870,Male,36,One year,69.26517182130586,2542.78,Electronic check,0
+CUST101871,Male,57,Two year,89.71,5128.72,Electronic check,0
+CUST101872,Male,53,Month-to-month,78.68,4173.48,Electronic check,0
+CUST101873,Female,38,One year,103.28,3935.78,Bank transfer,0
+CUST101874,Female,41,Month-to-month,27.23,1106.38,Electronic check,1
+CUST101875,Female,27,One year,89.07,2412.02,Mailed check,0
+CUST101876,Male,28,Month-to-month,73.4,2071.29,Bank transfer,1
+CUST101877,Female,42,One year,57.92,2428.07,Electronic check,1
+CUST101878,Female,2,One year,54.03,119.22,Bank transfer,1
+CUST101879,Male,9,One year,82.08,747.71,Mailed check,0
+CUST101880,Female,58,One year,109.1,6310.18,Electronic check,0
+CUST101881,Female,13,One year,69.62,908.32,Mailed check,1
+CUST101882,Male,46,One year,102.47,4698.83,Mailed check,0
+CUST101883,Male,41,One year,60.22,2487.71,Mailed check,0
+CUST101884,Male,31,One year,30.24,949.9,Electronic check,0
+CUST101885,Female,31,One year,26.15,795.04,Credit card,0
+CUST101886,Female,41,Month-to-month,25.13,1015.2,Electronic check,1
+CUST101887,Female,31,Two year,58.02,1802.4,Mailed check,1
+CUST101888,Male,25,One year,53.72,1336.8,Electronic check,0
+CUST101889,Male,0,Two year,91.79,-18.6,Mailed check,0
+CUST101890,Female,55,One year,94.28,5187.07,Credit card,0
+CUST101891,Female,1,One year,25.09,20.6,Bank transfer,0
+CUST101892,Male,29,Month-to-month,42.11,1205.23,Credit card,0
+CUST101893,Male,70,Month-to-month,47.43,3332.18,Credit card,0
+CUST101894,Male,51,Two year,74.76,3829.36,False,0
+CUST101895,Male,8,Month-to-month,34.45,285.86,Electronic check,1
+CUST101896,Female,21,Month-to-month,33.39,714.09,Bank transfer,0
+CUST101897,Male,33,Two year,114.38,3763.2,Electronic check,1
+CUST101898,Female,48,Month-to-month,100.42,4810.7,Electronic check,0
+CUST101899,Female,0,One year,38.07,-11.66,Mailed check,1
+CUST101900,Female,52,Two year,69.26517182130586,3164.92,Mailed check,0
+CUST101901,Male,39,Two year,55.56,2184.76,Bank transfer,1
+CUST101902,Male,44,One year,99.1,4369.07,Credit card,1
+CUST101903,Male,67,Month-to-month,71.02,4773.6,Bank transfer,0
+CUST101904,Male,8,Two year,32.78,267.79,Electronic check,0
+CUST101905,Female,21,Two year,69.26517182130586,1967.41,Mailed check,0
+CUST101906,Male,17,One year,59.69,1011.76,Bank transfer,0
+CUST101907,Male,42,One year,46.29,1927.19,Bank transfer,1
+CUST101908,Female,38,Month-to-month,57.55,2168.16,Mailed check,0
+CUST101909,Male,5,Two year,69.78,356.72,Mailed check,1
+CUST101910,Female,47,Month-to-month,54.31,2550.11,Mailed check,0
+CUST101911,Female,6,Month-to-month,69.26517182130586,267.23,Electronic check,0
+CUST101912,Female,68,One year,59.85,4072.11,Mailed check,1
+CUST101913,Female,15,Two year,21.92,319.9,Credit card,0
+CUST101914,Female,0,Two year,97.25,-0.96,Bank transfer,0
+CUST101915,Female,36,Two year,37.09,1334.07,Mailed check,0
+CUST101916,Female,36,One year,24.39,873.58,Mailed check,0
+CUST101917,Female,63,One year,85.37,5391.14,Electronic check,1
+CUST101918,Male,61,One year,97.39,5938.84,Electronic check,1
+CUST101919,Male,71,One year,101.38,7202.13,Bank transfer,0
+CUST101920,Male,60,One year,69.35,4176.82,Credit card,0
+CUST101921,Male,32,Two year,40.54,1311.93,Bank transfer,0
+CUST101922,Female,65,Month-to-month,93.72,6107.42,Mailed check,0
+CUST101923,Male,29,Two year,89.97,2599.93,Credit card,0
+CUST101924,Female,19,Month-to-month,44.63,829.37,Credit card,0
+CUST101925,Male,59,One year,110.34,6500.5,Credit card,0
+CUST101926,Male,23,Month-to-month,30.44,691.27,Credit card,0
+CUST101927,Male,3,Two year,118.27,2495.943556701031,Bank transfer,0
+CUST101928,Female,36,Two year,106.02,3822.69,Electronic check,0
+CUST101929,Male,3,Month-to-month,88.79,249.64,Electronic check,0
+CUST101930,Female,17,One year,113.87,1921.21,Mailed check,0
+CUST101931,Female,65,One year,92.23,5981.18,Electronic check,0
+CUST101932,Male,47,Two year,39.05,1840.57,Electronic check,0
+CUST101933,Male,32,Month-to-month,64.22,2064.46,Electronic check,0
+CUST101934,Male,57,One year,27.15,1561.94,Electronic check,0
+CUST101935,Female,27,One year,58.97,1609.82,Mailed check,0
+CUST101936,Male,34,Two year,94.16,3189.51,Bank transfer,0
+CUST101937,Female,9,One year,58.64,520.15,Credit card,0
+CUST101938,Female,64,Month-to-month,53.03,3383.53,Electronic check,0
+CUST101939,Male,41,Two year,79.54,3255.49,Bank transfer,0
+CUST101940,Male,8,Two year,107.22,874.35,Electronic check,0
+CUST101941,Female,59,Month-to-month,24.76,1463.84,Electronic check,0
+CUST101942,Female,14,Two year,58.55,829.23,Credit card,1
+CUST101943,Female,56,One year,35.82,2005.52,Credit card,0
+CUST101944,Male,68,One year,69.26517182130586,6069.87,Credit card,0
+CUST101945,Female,21,Month-to-month,30.57,624.54,Electronic check,0
+CUST101946,Male,63,One year,86.48,5449.76,Electronic check,0
+CUST101947,Female,40,False,48.62,1953.55,Electronic check,0
+CUST101948,Female,70,Month-to-month,39.89,2780.91,Credit card,1
+CUST101949,Male,55,One year,113.64,6259.08,Mailed check,0
+CUST101950,Female,22,Month-to-month,21.85,493.13,False,1
+CUST101951,Male,24,One year,63.78,1527.2,Mailed check,0
+CUST101952,Male,5,Two year,22.16,120.66,Electronic check,0
+CUST101953,Female,33,Two year,68.36,2252.04,Electronic check,0
+CUST101954,Male,62,Month-to-month,70.1,4353.33,Mailed check,0
+CUST101955,Male,8,One year,52.17,427.92,Electronic check,0
+CUST101956,Female,59,One year,33.22,1979.66,Bank transfer,0
+CUST101957,Male,48,Two year,57.64,2760.54,Electronic check,1
+CUST101958,Male,50,Two year,87.23,4357.94,Bank transfer,0
+CUST101959,Male,59,One year,98.24,5782.78,Mailed check,0
+CUST101960,Female,69,Month-to-month,73.08,5030.68,Mailed check,0
+CUST101961,Male,36,Two year,78.98,2851.02,Electronic check,1
+CUST101962,Female,30,Month-to-month,40.06,1218.48,Bank transfer,1
+CUST101963,Female,40,Month-to-month,48.73,1944.98,Electronic check,1
+CUST101964,Male,61,Two year,36.19,2194.78,Credit card,1
+CUST101965,Male,57,Month-to-month,44.93,2552.41,Credit card,0
+CUST101966,Male,13,Month-to-month,42.49,2495.943556701031,False,1
+CUST101967,Female,35,One year,71.94,2509.53,Credit card,0
+CUST101968,Male,35,Month-to-month,76.27,2658.79,Electronic check,1
+CUST101969,Male,7,One year,114.49,810.87,Credit card,0
+CUST101970,Male,25,Two year,39.56,969.31,Bank transfer,0
+CUST101971,Male,35,Two year,84.17,2947.52,Mailed check,1
+CUST101972,Male,47,One year,69.26517182130586,4793.06,Mailed check,0
+CUST101973,Female,27,Two year,76.02,2043.19,Credit card,0
+CUST101974,Female,67,Month-to-month,45.5,3052.63,Credit card,1
+CUST101975,Male,61,Month-to-month,46.26,2495.943556701031,Credit card,0
+CUST101976,Male,50,Month-to-month,23.93,1202.7,Electronic check,0
+CUST101977,Male,41,Two year,50.54,2069.97,Mailed check,0
+CUST101978,Male,28,Month-to-month,94.46,2638.74,Credit card,0
+CUST101979,Female,9,Two year,24.75,236.19,Bank transfer,0
+CUST101980,Male,38,Month-to-month,41.93,1603.68,Credit card,1
+CUST101981,Female,0,One year,90.62,-7.15,Mailed check,0
+CUST101982,Female,38,Two year,98.27,3718.38,False,1
+CUST101983,Male,20,Two year,65.53,1293.47,Mailed check,0
+CUST101984,Female,64,Month-to-month,89.81,5731.61,False,0
+CUST101985,Male,14,Two year,58.8,826.51,Bank transfer,1
+CUST101986,Female,3,Two year,35.99,90.04,Credit card,0
+CUST101987,Female,59,One year,59.81,3522.27,Bank transfer,0
+CUST101988,Male,60,One year,78.0,4690.13,Bank transfer,0
+CUST101989,Male,19,Month-to-month,114.81,2173.16,Credit card,0
+CUST101990,Female,9,One year,26.88,252.45,Bank transfer,0
+CUST101991,Male,33,Month-to-month,70.74,2344.24,Electronic check,0
+CUST101992,Male,47,Month-to-month,52.89,2475.66,Credit card,0
+CUST101993,Male,32,Month-to-month,70.83,2275.71,Credit card,0
+CUST101994,Male,60,Two year,22.4,1353.91,Bank transfer,1
+CUST101995,Male,9,One year,51.3,457.6,Bank transfer,1
+CUST101996,Female,53,Month-to-month,101.99,5393.89,Credit card,0
+CUST101997,Male,64,One year,75.39,4825.81,Electronic check,0
+CUST101998,Male,0,Month-to-month,65.06,16.86,Bank transfer,0
+CUST101999,Male,4,One year,48.55,199.78,Bank transfer,0
+CUST102000,Male,14,One year,49.8,684.12,Mailed check,1
+CUST102001,Female,27,Month-to-month,58.31,1581.68,Electronic check,1
+CUST102002,Female,22,Two year,103.56,2275.41,Electronic check,0
+CUST102003,Female,16,One year,116.72,1871.18,Credit card,1
+CUST102004,Female,12,Two year,63.87,775.8,Electronic check,0
+CUST102005,Male,13,Two year,59.34,772.02,Credit card,0
+CUST102006,Female,10,Month-to-month,104.66,1059.16,Mailed check,1
+CUST102007,Male,27,Month-to-month,62.69,1701.52,Electronic check,0
+CUST102008,Male,41,Month-to-month,75.2,3087.8,Bank transfer,0
+CUST102009,Male,60,One year,43.09,2571.43,Mailed check,0
+CUST102010,Male,63,Month-to-month,94.35,5957.49,Credit card,0
+CUST102011,Male,30,Month-to-month,73.2,2213.44,Mailed check,0
+CUST102012,Female,9,One year,100.9,893.58,Credit card,0
+CUST102013,Female,7,One year,98.07,686.02,Mailed check,0
+CUST102014,Female,20,Month-to-month,41.5,820.36,Credit card,1
+CUST102015,Female,58,Month-to-month,91.56,5320.66,Electronic check,0
+CUST102016,Male,49,Month-to-month,69.26517182130586,4909.36,Bank transfer,1
+CUST102017,Female,68,Month-to-month,54.61,3699.12,Credit card,1
+CUST102018,Male,69,Two year,37.26,2586.02,Mailed check,0
+CUST102019,Female,29,Two year,20.26,574.78,Credit card,0
+CUST102020,Male,16,Month-to-month,65.09,1053.33,Credit card,1
+CUST102021,Male,19,Two year,55.24,1047.84,Credit card,0
+CUST102022,Female,47,One year,75.49,3541.16,Mailed check,0
+CUST102023,Male,1,Two year,38.8,25.13,Bank transfer,1
+CUST102024,Male,36,Two year,105.97,3801.62,Electronic check,0
+CUST102025,Female,0,Month-to-month,45.78,6.48,Bank transfer,1
+CUST102026,Male,3,Two year,42.64,129.94,Credit card,0
+CUST102027,Female,53,Two year,68.07,3592.59,Mailed check,1
+CUST102028,Female,24,Two year,69.89,1661.87,Bank transfer,0
+CUST102029,Female,2,Two year,41.51,2495.943556701031,Credit card,1
+CUST102030,Male,8,One year,47.19,387.27,Electronic check,0
+CUST102031,Male,33,Month-to-month,36.97,1228.49,Electronic check,0
+CUST102032,Male,42,False,91.85,2495.943556701031,Electronic check,0
+CUST102033,Female,21,One year,97.01,2039.62,False,0
+CUST102034,Male,69,Two year,66.23,4553.26,Mailed check,1
+CUST102035,Female,1,One year,91.41,107.56,Bank transfer,0
+CUST102036,Female,65,Two year,93.59,6099.63,Electronic check,1
+CUST102037,Male,31,One year,33.83,1056.66,Credit card,0
+CUST102038,Female,15,Month-to-month,116.62,1766.35,Credit card,1
+CUST102039,Male,0,False,102.1,12.46,Bank transfer,0
+CUST102040,Male,71,Month-to-month,40.45,2885.09,Electronic check,0
+CUST102041,Male,47,Two year,69.26517182130586,1817.93,Credit card,0
+CUST102042,Male,49,Two year,32.57,1588.17,Bank transfer,1
+CUST102043,Male,12,One year,33.84,394.79,Mailed check,0
+CUST102044,Female,14,One year,94.82,1320.57,Mailed check,0
+CUST102045,Female,52,Month-to-month,66.97,3487.58,Mailed check,0
+CUST102046,Female,43,Two year,98.29,4213.38,Electronic check,0
+CUST102047,Male,7,One year,94.63,2495.943556701031,False,0
+CUST102048,Male,45,Two year,80.46,3619.42,Bank transfer,0
+CUST102049,Male,68,Two year,88.64,6016.84,Credit card,1
+CUST102050,Female,18,Month-to-month,21.84,396.67,Credit card,0
+CUST102051,Male,37,Month-to-month,51.18,1910.59,Credit card,0
+CUST102052,Female,10,Two year,83.78,847.72,Bank transfer,0
+CUST102053,Female,42,Two year,20.93,885.72,Credit card,0
+CUST102054,Male,19,Two year,23.3,2495.943556701031,Bank transfer,0
+CUST102055,Male,19,Two year,105.19,1998.13,Bank transfer,0
+CUST102056,Female,20,False,88.4,1755.46,Mailed check,0
+CUST102057,Male,56,One year,46.54,2622.03,Credit card,0
+CUST102058,Female,49,Month-to-month,88.8,4341.14,Mailed check,0
+CUST102059,Male,25,One year,99.25,2464.9,Electronic check,0
+CUST102060,Male,29,Two year,50.68,1479.72,Electronic check,1
+CUST102061,Female,30,One year,23.6,2495.943556701031,Electronic check,1
+CUST102062,Male,41,Month-to-month,113.28,4639.36,Bank transfer,1
+CUST102063,Female,67,Month-to-month,54.52,3633.97,Bank transfer,0
+CUST102064,Male,60,Two year,30.65,1824.48,Bank transfer,0
+CUST102065,Female,60,Month-to-month,69.19,4138.33,Credit card,0
+CUST102066,Female,69,Two year,96.85,6664.83,Mailed check,0
+CUST102067,Male,67,Month-to-month,42.16,2830.99,Bank transfer,0
+CUST102068,Female,16,Month-to-month,46.95,764.68,Mailed check,0
+CUST102069,Male,18,Two year,44.27,791.79,Mailed check,0
+CUST102070,Male,50,One year,119.17,5973.48,Mailed check,1
+CUST102071,Male,69,Month-to-month,39.74,2730.59,Credit card,1
+CUST102072,Female,62,One year,77.55,4801.12,Credit card,1
+CUST102073,Female,29,Month-to-month,112.53,3249.4,Electronic check,1
+CUST102074,Male,24,Month-to-month,34.69,837.38,Electronic check,0
+CUST102075,Male,70,Month-to-month,117.09,8193.09,Mailed check,0
+CUST102076,Female,25,Month-to-month,114.75,2873.28,Electronic check,1
+CUST102077,Male,55,One year,108.46,5975.77,Mailed check,1
+CUST102078,Male,21,One year,41.46,872.49,Credit card,1
+CUST102079,Female,18,Month-to-month,83.41,1506.49,Credit card,0
+CUST102080,Male,30,Month-to-month,96.09,2900.11,Credit card,0
+CUST102081,Female,25,One year,118.6,2956.96,Bank transfer,0
+CUST102082,Male,41,Two year,38.04,1554.01,Mailed check,1
+CUST102083,Female,40,Two year,96.6,3872.71,Credit card,0
+CUST102084,Male,22,One year,53.88,1189.81,Mailed check,1
+CUST102085,Male,46,Month-to-month,37.56,2495.943556701031,Electronic check,1
+CUST102086,Female,12,Month-to-month,62.14,740.73,Electronic check,0
+CUST102087,Male,65,Two year,99.38,6458.41,Credit card,0
+CUST102088,Female,65,Two year,66.48,4317.98,Mailed check,0
+CUST102089,Male,15,One year,73.75,1093.38,Credit card,0
+CUST102090,Female,27,Two year,119.52,3244.02,Electronic check,0
+CUST102091,Female,34,False,59.91,2047.43,Credit card,1
+CUST102092,Female,40,Two year,81.54,3260.85,Mailed check,0
+CUST102093,Female,30,Two year,56.52,1702.8,Electronic check,1
+CUST102094,Male,31,Two year,59.28,1853.57,Bank transfer,0
+CUST102095,Male,53,Month-to-month,89.56,4732.13,Electronic check,1
+CUST102096,Female,71,Month-to-month,113.79,8069.1,Bank transfer,0
+CUST102097,Female,58,Month-to-month,74.24,4307.63,Credit card,0
+CUST102098,Female,40,Two year,96.84,3885.56,Credit card,0
+CUST102099,Male,65,One year,28.92,1861.25,Mailed check,1
+CUST102100,Male,53,One year,41.12,2198.72,Bank transfer,0
+CUST102101,Male,39,One year,70.21,2736.39,Credit card,0
+CUST102102,Male,27,One year,22.0,588.37,Bank transfer,0
+CUST102103,Female,36,Month-to-month,45.29,1622.15,Credit card,0
+CUST102104,Female,64,Month-to-month,71.74,4578.33,Electronic check,0
+CUST102105,Female,54,Two year,21.5,1172.66,Credit card,1
+CUST102106,Male,3,Two year,46.45,157.57,Mailed check,0
+CUST102107,Male,9,One year,71.4,639.15,Electronic check,1
+CUST102108,Male,46,False,77.31,3574.36,Mailed check,1
+CUST102109,Female,13,One year,112.58,1476.49,Electronic check,0
+CUST102110,Female,37,Two year,84.53,3126.85,Bank transfer,0
+CUST102111,Male,11,Two year,61.47,683.13,Mailed check,1
+CUST102112,Female,44,One year,113.04,4971.16,False,1
+CUST102113,Male,16,Two year,98.49,1578.19,Bank transfer,0
+CUST102114,Male,34,One year,40.0,1342.32,Credit card,0
+CUST102115,Female,65,Month-to-month,33.08,2158.05,Electronic check,0
+CUST102116,Male,40,One year,87.58,3485.31,Electronic check,0
+CUST102117,Female,66,Month-to-month,75.99,5028.02,Credit card,0
+CUST102118,Male,28,Month-to-month,98.97,2784.16,Credit card,1
+CUST102119,Female,17,Two year,93.88,1585.44,Bank transfer,1
+CUST102120,Female,19,Two year,82.52,1560.83,Credit card,0
+CUST102121,Female,13,Two year,118.64,1541.57,Mailed check,0
+CUST102122,Male,33,One year,73.36,2424.75,Mailed check,1
+CUST102123,Male,48,One year,31.31,2495.943556701031,Credit card,1
+CUST102124,Female,53,Two year,102.83,5453.69,Mailed check,1
+CUST102125,Female,30,One year,45.19,1347.61,Credit card,0
+CUST102126,Male,57,Two year,97.73,5552.83,Bank transfer,0
+CUST102127,Male,41,One year,115.71,4724.21,Mailed check,0
+CUST102128,Male,57,Month-to-month,89.68,5095.81,Mailed check,0
+CUST102129,Female,29,Month-to-month,79.6,2320.09,Credit card,0
+CUST102130,Male,24,Two year,66.04,1603.42,Mailed check,0
+CUST102131,Male,62,One year,56.44,3496.36,Electronic check,1
+CUST102132,Female,18,One year,55.3,995.91,Bank transfer,1
+CUST102133,Male,71,Month-to-month,83.64,5924.31,Bank transfer,1
+CUST102134,Male,7,Month-to-month,95.13,667.95,Mailed check,0
+CUST102135,Male,2,Two year,87.85,161.49,Mailed check,0
+CUST102136,Female,66,Month-to-month,39.84,2633.89,Electronic check,0
+CUST102137,Female,16,Two year,69.4,1127.73,Electronic check,1
+CUST102138,Female,13,Month-to-month,99.16,1276.91,Mailed check,0
+CUST102139,Female,8,Month-to-month,67.57,551.14,Mailed check,0
+CUST102140,Female,61,One year,73.66,4474.2,Electronic check,0
+CUST102141,Female,20,False,97.11,1937.22,Credit card,1
+CUST102142,Female,36,Month-to-month,86.13,3085.11,Electronic check,1
+CUST102143,Male,10,Two year,60.93,603.4,Credit card,0
+CUST102144,Male,19,Month-to-month,109.54,2068.2,Bank transfer,0
+CUST102145,Female,34,Two year,36.26,1227.77,Bank transfer,0
+CUST102146,Male,52,Month-to-month,119.55,6213.3,Electronic check,1
+CUST102147,Male,46,Month-to-month,31.89,1458.96,Credit card,0
+CUST102148,Female,51,Two year,21.49,1102.25,Electronic check,0
+CUST102149,Male,7,One year,109.0,779.75,Electronic check,0
+CUST102150,Male,3,Two year,44.5,129.52,Credit card,0
+CUST102151,Male,26,Two year,92.97,2404.91,Electronic check,0
+CUST102152,Male,43,Two year,101.1,4338.13,Bank transfer,0
+CUST102153,Male,39,One year,105.9,4144.26,Mailed check,0
+CUST102154,Female,46,Month-to-month,119.16,5484.23,Mailed check,0
+CUST102155,Female,43,Two year,49.4,2122.4,Electronic check,0
+CUST102156,Female,47,Two year,91.02,4263.93,Credit card,0
+CUST102157,Male,51,One year,31.54,1606.53,Credit card,1
+CUST102158,Female,67,Two year,69.26517182130586,4056.7,Bank transfer,0
+CUST102159,Male,10,Month-to-month,104.8,1065.73,Credit card,0
+CUST102160,Male,3,One year,56.77,185.67,Credit card,0
+CUST102161,Male,47,Month-to-month,79.11,3701.53,Bank transfer,1
+CUST102162,Male,25,Month-to-month,70.38,2495.943556701031,Electronic check,0
+CUST102163,Female,38,One year,84.6,3203.8,Mailed check,1
+CUST102164,Female,57,Two year,117.29,6681.96,Bank transfer,0
+CUST102165,Male,18,Month-to-month,25.57,475.33,Electronic check,1
+CUST102166,Female,57,Month-to-month,77.4,4412.9,Bank transfer,0
+CUST102167,Male,27,Month-to-month,106.3,2863.47,Electronic check,1
+CUST102168,Female,65,Month-to-month,68.14,4417.42,Bank transfer,0
+CUST102169,Female,9,One year,27.85,262.66,Electronic check,0
+CUST102170,Male,57,One year,76.05,4339.83,Bank transfer,0
+CUST102171,Female,13,Month-to-month,53.21,690.45,Electronic check,1
+CUST102172,Male,14,Two year,35.49,485.56,Bank transfer,0
+CUST102173,Female,32,Month-to-month,104.9,3350.17,Mailed check,1
+CUST102174,Male,16,Two year,72.16,1172.95,Mailed check,0
+CUST102175,Male,23,False,113.33,2607.39,Credit card,0
+CUST102176,Female,29,Two year,100.6,2913.43,Electronic check,1
+CUST102177,Female,61,Month-to-month,89.3,5448.16,Bank transfer,0
+CUST102178,Male,12,Two year,20.5,257.16,Electronic check,1
+CUST102179,Female,61,Month-to-month,62.78,3823.18,Mailed check,0
+CUST102180,Female,46,Month-to-month,39.75,1815.65,Electronic check,0
+CUST102181,Male,15,Two year,111.08,1669.6,Bank transfer,0
+CUST102182,Male,65,One year,37.46,2441.51,False,0
+CUST102183,Female,42,Two year,48.61,2050.13,Bank transfer,0
+CUST102184,Male,7,One year,71.68,517.04,Mailed check,1
+CUST102185,Male,2,Month-to-month,46.34,87.53,Mailed check,0
+CUST102186,Male,11,Two year,40.99,433.9,Mailed check,0
+CUST102187,Female,15,Two year,79.91,1216.98,Credit card,0
+CUST102188,Female,58,Two year,28.89,1673.02,Mailed check,0
+CUST102189,Male,48,One year,25.82,1244.29,Electronic check,1
+CUST102190,Female,62,One year,57.22,3554.29,Credit card,1
+CUST102191,Male,61,Month-to-month,92.07,5618.13,Mailed check,1
+CUST102192,Female,48,One year,75.48,3611.25,Electronic check,1
+CUST102193,Male,50,One year,62.29,3124.71,Electronic check,1
+CUST102194,Male,32,Month-to-month,76.58,2462.71,Electronic check,0
+CUST102195,Female,29,Two year,56.55,1642.07,Bank transfer,0
+CUST102196,Male,58,Two year,113.61,6588.92,Credit card,1
+CUST102197,Female,14,Month-to-month,25.49,341.42,Electronic check,0
+CUST102198,Female,22,False,87.34,1904.84,Bank transfer,1
+CUST102199,Male,44,One year,69.26517182130586,4795.3,Mailed check,0
+CUST102200,Male,61,Month-to-month,100.39,6116.22,Electronic check,0
+CUST102201,Female,70,Month-to-month,38.4,2706.15,Bank transfer,0
+CUST102202,Male,14,Month-to-month,49.59,705.6,Electronic check,0
+CUST102203,Male,45,Two year,91.7,4132.9,Credit card,1
+CUST102204,Male,63,Month-to-month,28.43,1791.8,Credit card,0
+CUST102205,Male,45,Month-to-month,101.19,4540.24,Mailed check,0
+CUST102206,Male,55,False,91.89,5073.09,Electronic check,0
+CUST102207,Female,43,Two year,92.96,3992.28,Bank transfer,0
+CUST102208,Female,28,One year,30.02,824.84,Mailed check,0
+CUST102209,Male,61,Month-to-month,91.78,5598.33,Electronic check,0
+CUST102210,Male,51,One year,87.98,4501.94,Mailed check,0
+CUST102211,Male,53,Two year,103.09,5479.26,Bank transfer,1
+CUST102212,Female,56,Two year,24.16,1333.4,Mailed check,1
+CUST102213,Male,65,Two year,22.31,1465.6,Mailed check,0
+CUST102214,Female,21,Two year,57.3,1194.16,Mailed check,1
+CUST102215,Female,19,False,34.88,644.28,Electronic check,1
+CUST102216,Female,32,Month-to-month,75.84,2440.79,Bank transfer,1
+CUST102217,Male,71,Two year,111.73,7947.38,Credit card,1
+CUST102218,Female,24,Two year,59.15,1423.45,Electronic check,1
+CUST102219,Male,45,One year,104.5,4705.48,Credit card,0
+CUST102220,Female,56,One year,20.02,1133.64,Credit card,1
+CUST102221,Male,4,Two year,36.85,158.85,Electronic check,1
+CUST102222,Female,54,Month-to-month,23.04,1259.76,Electronic check,1
+CUST102223,Male,60,Month-to-month,52.81,2495.943556701031,Bank transfer,0
+CUST102224,Female,7,Two year,110.82,794.45,Bank transfer,0
+CUST102225,Male,15,One year,29.7,465.35,Mailed check,0
+CUST102226,Male,47,Two year,80.64,3774.74,Credit card,1
+CUST102227,Male,60,Two year,65.15,3922.98,Bank transfer,0
+CUST102228,Male,14,One year,113.85,1593.89,Mailed check,0
+CUST102229,Female,64,Two year,32.25,2059.5,Bank transfer,1
+CUST102230,Female,21,Two year,41.2,869.72,Electronic check,0
+CUST102231,Male,2,Two year,22.95,28.14,Bank transfer,0
+CUST102232,Female,53,One year,63.39,3359.93,Credit card,0
+CUST102233,Male,13,Month-to-month,47.78,635.98,Bank transfer,0
+CUST102234,Male,35,Month-to-month,106.99,3733.19,Credit card,0
+CUST102235,Female,66,One year,80.49,5309.4,Electronic check,1
+CUST102236,Male,9,Month-to-month,81.41,750.27,Credit card,0
+CUST102237,Male,48,Two year,73.19,3510.26,Bank transfer,1
+CUST102238,Female,64,Month-to-month,29.19,1862.49,Mailed check,0
+CUST102239,Male,56,Two year,69.26517182130586,3609.62,Electronic check,1
+CUST102240,Male,26,Month-to-month,119.95,3119.48,Bank transfer,0
+CUST102241,Male,4,One year,103.52,419.36,Electronic check,0
+CUST102242,Male,70,Month-to-month,109.35,7666.53,Electronic check,0
+CUST102243,Female,56,Month-to-month,102.32,5728.0,Bank transfer,1
+CUST102244,Female,14,Month-to-month,30.3,436.9,Bank transfer,0
+CUST102245,Female,29,One year,42.74,1240.81,Mailed check,0
+CUST102246,Male,19,Month-to-month,20.31,379.43,Electronic check,1
+CUST102247,Male,36,One year,50.35,1818.92,Electronic check,0
+CUST102248,Female,2,Two year,30.86,2495.943556701031,Bank transfer,1
+CUST102249,Male,40,Month-to-month,67.28,2693.52,Credit card,0
+CUST102250,Male,38,One year,87.71,3315.24,Bank transfer,1
+CUST102251,Male,25,One year,107.45,2673.05,Electronic check,1
+CUST102252,Male,1,Month-to-month,94.92,86.33,Bank transfer,0
+CUST102253,Female,22,Two year,113.86,2496.23,Mailed check,0
+CUST102254,Female,22,One year,69.26517182130586,565.52,Credit card,0
+CUST102255,Female,15,Month-to-month,21.22,299.03,Bank transfer,0
+CUST102256,Male,8,Two year,86.13,699.27,Mailed check,1
+CUST102257,Female,12,One year,48.94,577.89,Electronic check,1
+CUST102258,Female,27,One year,45.35,1216.85,Bank transfer,0
+CUST102259,Male,26,Two year,53.09,1381.46,Electronic check,1
+CUST102260,Male,50,Two year,46.98,2337.64,Mailed check,0
+CUST102261,Female,63,Month-to-month,71.14,4497.2,Electronic check,0
+CUST102262,Female,51,Month-to-month,64.01,3247.92,Mailed check,0
+CUST102263,Female,37,One year,71.24,2633.66,Mailed check,0
+CUST102264,Female,64,Two year,87.27,5599.26,Mailed check,1
+CUST102265,Male,17,Two year,58.71,1002.7,Bank transfer,0
+CUST102266,Female,62,Two year,45.13,2789.75,Electronic check,0
+CUST102267,Female,50,One year,36.62,1827.83,Electronic check,1
+CUST102268,Male,8,Two year,54.95,447.87,Credit card,0
+CUST102269,Female,12,Two year,94.18,1149.09,Credit card,0
+CUST102270,Male,39,One year,95.67,3746.86,Credit card,0
+CUST102271,Male,54,Month-to-month,86.69,4674.96,Credit card,0
+CUST102272,Male,42,Month-to-month,43.4,1842.73,Electronic check,1
+CUST102273,Female,43,One year,78.81,3368.97,Mailed check,0
+CUST102274,Female,67,Two year,77.07,5144.8,Mailed check,0
+CUST102275,Male,32,One year,68.43,2202.71,Bank transfer,0
+CUST102276,Female,23,Month-to-month,75.0,1712.98,Mailed check,1
+CUST102277,Female,35,Month-to-month,69.18,2403.73,Electronic check,0
+CUST102278,Male,9,One year,76.55,678.44,Electronic check,0
+CUST102279,Male,19,One year,91.55,1736.49,Electronic check,0
+CUST102280,Female,11,Month-to-month,30.96,349.78,Bank transfer,0
+CUST102281,Male,61,One year,94.96,5797.53,Credit card,0
+CUST102282,Female,17,Month-to-month,33.59,560.53,Mailed check,0
+CUST102283,Female,62,One year,26.66,1653.05,Electronic check,0
+CUST102284,Female,24,One year,117.61,2839.69,Electronic check,1
+CUST102285,Female,11,One year,115.7,1285.3,Credit card,0
+CUST102286,Male,20,Month-to-month,26.04,513.73,Electronic check,0
+CUST102287,Male,24,One year,64.33,1563.21,False,0
+CUST102288,Male,10,Month-to-month,38.62,394.54,Bank transfer,0
+CUST102289,Male,63,Month-to-month,68.53,4299.89,Electronic check,0
+CUST102290,Female,49,One year,103.02,5029.39,Mailed check,0
+CUST102291,Female,61,One year,115.06,7005.4,Electronic check,1
+CUST102292,Male,48,Month-to-month,69.26517182130586,4013.75,Credit card,1
+CUST102293,Female,13,Month-to-month,55.39,707.42,False,0
+CUST102294,Female,0,Two year,80.33,0.46,Electronic check,0
+CUST102295,Female,24,Month-to-month,51.2,1212.53,Bank transfer,0
+CUST102296,Male,58,Two year,110.98,6453.68,Credit card,0
+CUST102297,Male,71,Two year,107.04,7593.6,Credit card,0
+CUST102298,Male,68,Two year,75.82,5172.09,Bank transfer,0
+CUST102299,Female,4,One year,52.48,227.72,Electronic check,0
+CUST102300,Male,18,One year,49.34,868.37,Mailed check,0
+CUST102301,Male,22,Month-to-month,23.34,512.05,Credit card,0
+CUST102302,Male,8,Two year,101.58,793.63,Credit card,0
+CUST102303,Male,49,One year,65.04,3203.31,False,0
+CUST102304,Male,15,One year,52.51,788.39,Electronic check,0
+CUST102305,Male,32,One year,67.11,2130.52,Credit card,0
+CUST102306,Female,1,False,101.87,86.28,Electronic check,0
+CUST102307,Female,13,False,32.46,417.32,Mailed check,0
+CUST102308,Male,0,Two year,105.77,17.61,Credit card,1
+CUST102309,Male,57,Two year,109.75,6263.47,Mailed check,0
+CUST102310,Female,15,Two year,114.67,1734.75,False,0
+CUST102311,Female,46,Two year,59.75,2743.16,Electronic check,0
+CUST102312,Male,43,Month-to-month,41.71,1775.26,Mailed check,0
+CUST102313,Male,13,Two year,57.36,764.65,Electronic check,1
+CUST102314,Male,23,One year,53.29,1206.36,Bank transfer,1
+CUST102315,Male,54,Two year,37.62,2049.39,Electronic check,0
+CUST102316,Female,14,Month-to-month,80.73,1124.97,Mailed check,1
+CUST102317,Male,71,One year,67.66,4784.26,Bank transfer,0
+CUST102318,Male,33,Two year,106.57,3524.38,Electronic check,1
+CUST102319,Male,1,Two year,23.21,42.43,Mailed check,0
+CUST102320,Male,26,Two year,84.39,2212.77,Credit card,1
+CUST102321,Female,71,One year,96.29,6823.03,Credit card,0
+CUST102322,Female,22,One year,69.26517182130586,2098.15,Electronic check,0
+CUST102323,Female,67,Month-to-month,108.61,7279.49,Electronic check,1
+CUST102324,Male,13,One year,92.9,1213.19,Credit card,0
+CUST102325,Male,62,One year,112.78,7001.94,Mailed check,0
+CUST102326,Female,64,Two year,53.27,3396.52,Mailed check,0
+CUST102327,Male,67,One year,70.32,4729.8,Mailed check,1
+CUST102328,Male,62,Two year,21.41,1332.97,Electronic check,0
+CUST102329,Male,63,Two year,20.7,1317.98,Bank transfer,0
+CUST102330,Female,31,One year,69.26517182130586,1365.91,Bank transfer,0
+CUST102331,Female,12,Month-to-month,30.08,357.53,Bank transfer,0
+CUST102332,Male,65,Month-to-month,46.02,3010.39,Bank transfer,0
+CUST102333,Male,18,One year,37.7,681.88,Bank transfer,0
+CUST102334,Male,23,Month-to-month,22.85,540.22,Electronic check,0
+CUST102335,Female,10,Two year,110.93,1127.43,Electronic check,1
+CUST102336,Male,58,Two year,20.82,1214.57,False,0
+CUST102337,Female,14,One year,93.61,1312.5,Electronic check,0
+CUST102338,Female,9,Month-to-month,35.21,297.03,Electronic check,0
+CUST102339,Male,40,Month-to-month,111.22,4430.4,False,0
+CUST102340,Female,26,Two year,109.28,2829.31,False,0
+CUST102341,Male,59,One year,69.26517182130586,5025.45,Electronic check,1
+CUST102342,Male,51,Month-to-month,87.22,4438.41,Mailed check,0
+CUST102343,Male,27,One year,20.53,546.51,Electronic check,0
+CUST102344,Male,64,Month-to-month,118.49,7577.76,Electronic check,1
+CUST102345,Female,16,Two year,107.78,1721.3,Bank transfer,0
+CUST102346,Male,43,Two year,109.51,4692.88,Electronic check,0
+CUST102347,Female,9,One year,85.92,754.97,Credit card,0
+CUST102348,Female,62,Two year,54.48,3384.72,Credit card,0
+CUST102349,Female,46,Month-to-month,109.36,5032.05,Bank transfer,0
+CUST102350,Female,37,Two year,49.15,1816.32,Mailed check,0
+CUST102351,Male,69,One year,76.27,5268.01,Mailed check,0
+CUST102352,Male,52,One year,29.97,1571.55,Mailed check,0
+CUST102353,Female,43,One year,112.2,4821.71,Credit card,1
+CUST102354,Female,53,Month-to-month,34.08,1811.88,Mailed check,0
+CUST102355,Male,19,Month-to-month,42.49,825.45,Mailed check,1
+CUST102356,Female,30,Month-to-month,75.81,2287.88,Bank transfer,0
+CUST102357,Male,6,Month-to-month,96.41,575.5,Mailed check,0
+CUST102358,Female,57,Month-to-month,81.94,4676.37,Credit card,0
+CUST102359,Male,9,Two year,43.21,375.97,Credit card,0
+CUST102360,Female,9,Month-to-month,20.09,183.23,Credit card,1
+CUST102361,Female,38,Month-to-month,95.72,3656.61,Bank transfer,0
+CUST102362,Male,27,Two year,118.52,3200.77,Bank transfer,0
+CUST102363,Female,29,Month-to-month,100.99,2945.82,Electronic check,0
+CUST102364,Female,36,One year,66.02,2373.01,Mailed check,0
+CUST102365,Male,66,Month-to-month,110.38,7305.03,Bank transfer,0
+CUST102366,Female,42,Month-to-month,60.98,2564.33,Credit card,0
+CUST102367,Male,51,One year,72.49,3678.68,Credit card,0
+CUST102368,Male,55,One year,67.71,3727.52,Bank transfer,0
+CUST102369,Female,67,One year,64.76,4329.9,Bank transfer,0
+CUST102370,Female,8,One year,97.52,761.46,Bank transfer,0
+CUST102371,Female,22,Month-to-month,72.68,1611.79,Electronic check,0
+CUST102372,Female,62,One year,51.67,3194.57,Credit card,1
+CUST102373,Female,60,One year,45.82,2761.06,Electronic check,0
+CUST102374,Female,39,Two year,23.77,918.56,Electronic check,1
+CUST102375,Female,43,False,78.32,3355.53,Mailed check,1
+CUST102376,Male,23,One year,43.0,1007.96,Credit card,0
+CUST102377,Female,50,Two year,34.81,1734.97,Credit card,1
+CUST102378,Male,57,Two year,85.38,4870.72,Bank transfer,0
+CUST102379,Female,32,Month-to-month,88.12,2824.24,Bank transfer,1
+CUST102380,Female,15,Two year,95.22,1430.72,Mailed check,1
+CUST102381,Male,21,Month-to-month,70.36,1494.15,Electronic check,1
+CUST102382,Female,56,Two year,109.41,6133.94,Bank transfer,1
+CUST102383,Female,61,Two year,113.63,6927.58,Bank transfer,1
+CUST102384,Male,70,Month-to-month,100.74,7066.3,Credit card,0
+CUST102385,Female,71,Two year,83.56,5920.0,Credit card,0
+CUST102386,Female,69,Month-to-month,50.37,3477.3,Bank transfer,0
+CUST102387,Female,29,Two year,118.29,3448.43,Credit card,0
+CUST102388,Male,22,One year,47.41,1048.04,Mailed check,1
+CUST102389,Female,31,Two year,40.27,1261.05,Bank transfer,1
+CUST102390,Female,56,Month-to-month,64.22,3602.46,Credit card,1
+CUST102391,Female,8,Two year,25.68,219.01,Mailed check,0
+CUST102392,Female,30,Month-to-month,117.85,3553.28,Credit card,1
+CUST102393,Male,70,Month-to-month,78.84,5509.72,Credit card,0
+CUST102394,Male,8,One year,75.7,592.39,Credit card,1
+CUST102395,Female,12,One year,85.58,1026.32,Bank transfer,1
+CUST102396,Female,57,Month-to-month,69.7,3980.97,Electronic check,0
+CUST102397,Male,2,Two year,23.21,35.51,Credit card,0
+CUST102398,Male,34,Month-to-month,81.23,2741.98,Mailed check,0
+CUST102399,Female,20,Month-to-month,91.62,1826.12,Bank transfer,0
+CUST102400,Male,63,Two year,61.67,3903.96,Bank transfer,0
+CUST102401,Female,51,Two year,95.73,4890.03,Mailed check,0
+CUST102402,Male,33,Two year,42.7,1405.15,False,0
+CUST102403,Male,34,Two year,42.13,1420.12,Electronic check,0
+CUST102404,Male,14,Month-to-month,36.14,500.2,Credit card,0
+CUST102405,Male,5,Month-to-month,57.2,272.79,Mailed check,0
+CUST102406,Female,31,One year,104.7,3229.95,Bank transfer,0
+CUST102407,Male,51,Month-to-month,102.79,5258.56,Electronic check,0
+CUST102408,Male,27,False,58.28,2495.943556701031,Bank transfer,0
+CUST102409,Female,63,One year,78.91,4957.89,Mailed check,0
+CUST102410,Male,18,Two year,92.08,1639.62,Credit card,0
+CUST102411,Male,14,Month-to-month,44.12,610.87,Electronic check,0
+CUST102412,Female,5,One year,69.26517182130586,182.52,Bank transfer,0
+CUST102413,Male,37,Two year,117.21,4324.96,Bank transfer,0
+CUST102414,Female,25,One year,81.76,2036.06,Bank transfer,1
+CUST102415,Female,50,One year,118.14,5895.03,Credit card,0
+CUST102416,Female,52,Month-to-month,53.78,2807.53,Electronic check,1
+CUST102417,Female,55,Two year,90.3,4975.0,Credit card,0
+CUST102418,Male,58,One year,42.26,2456.48,Credit card,0
+CUST102419,Female,69,One year,46.12,3177.77,Credit card,0
+CUST102420,Male,57,Two year,71.19,4074.19,Mailed check,0
+CUST102421,Male,12,One year,51.96,642.3,Mailed check,1
+CUST102422,Male,42,One year,36.76,1530.87,Mailed check,1
+CUST102423,Male,50,False,46.29,2303.42,Electronic check,0
+CUST102424,Male,18,Two year,23.57,425.29,Credit card,1
+CUST102425,Male,20,Two year,90.44,1792.45,Credit card,0
+CUST102426,Male,23,Two year,69.21,1589.29,Mailed check,0
+CUST102427,Male,25,Two year,29.42,738.77,Credit card,0
+CUST102428,Male,44,Month-to-month,37.17,1636.36,Credit card,0
+CUST102429,Male,27,One year,69.26517182130586,809.99,Bank transfer,0
+CUST102430,Female,28,Two year,81.26,2276.98,Credit card,0
+CUST102431,Female,16,One year,69.26517182130586,489.07,Bank transfer,0
+CUST102432,Female,67,One year,95.43,6382.05,Credit card,1
+CUST102433,Male,43,Month-to-month,22.05,954.34,Electronic check,0
+CUST102434,Female,60,Two year,44.94,2678.14,Mailed check,0
+CUST102435,Female,67,Two year,109.07,7290.35,Bank transfer,1
+CUST102436,Female,24,One year,91.85,2206.47,Mailed check,0
+CUST102437,Male,66,Two year,27.3,1786.0,Bank transfer,0
+CUST102438,Male,1,False,102.11,83.0,Bank transfer,0
+CUST102439,Male,48,False,69.3,3313.26,Bank transfer,0
+CUST102440,Male,69,Month-to-month,104.68,7225.51,Electronic check,0
+CUST102441,Female,25,Month-to-month,80.07,2009.88,Credit card,0
+CUST102442,Female,71,Month-to-month,88.18,6248.88,Bank transfer,0
+CUST102443,Female,26,One year,119.35,3109.83,Electronic check,0
+CUST102444,Female,17,Two year,43.23,722.21,Bank transfer,0
+CUST102445,Male,53,Month-to-month,82.39,4371.21,Credit card,0
+CUST102446,Male,0,Two year,66.03,-3.52,Bank transfer,1
+CUST102447,Male,60,Month-to-month,23.95,1443.15,Electronic check,1
+CUST102448,Female,2,Month-to-month,69.26517182130586,62.7,Credit card,0
+CUST102449,Male,67,False,31.92,2156.15,Electronic check,0
+CUST102450,Male,40,Month-to-month,84.91,3376.57,Credit card,0
+CUST102451,Female,36,Month-to-month,76.72,2777.34,Credit card,0
+CUST102452,Female,50,One year,75.34,3749.66,Mailed check,1
+CUST102453,Male,14,Two year,23.19,342.78,Mailed check,0
+CUST102454,Male,7,Month-to-month,66.93,459.78,Mailed check,1
+CUST102455,Male,37,One year,112.46,4156.3,Credit card,0
+CUST102456,Male,55,Month-to-month,59.76,3270.47,Bank transfer,0
+CUST102457,Male,46,One year,82.49,3779.03,Electronic check,0
+CUST102458,Male,9,Two year,97.98,890.89,Electronic check,1
+CUST102459,Female,48,Two year,98.39,4740.49,Electronic check,0
+CUST102460,Female,40,One year,71.93,2881.63,Mailed check,0
+CUST102461,Female,29,One year,105.8,3076.83,Credit card,0
+CUST102462,Male,4,One year,59.14,247.04,Mailed check,0
+CUST102463,Female,70,Two year,69.26517182130586,7611.41,Bank transfer,0
+CUST102464,Male,30,Month-to-month,44.02,1302.41,Credit card,0
+CUST102465,Male,51,Two year,48.02,2429.09,Electronic check,0
+CUST102466,Female,22,One year,25.31,550.85,Mailed check,0
+CUST102467,Male,47,One year,99.56,4668.98,Mailed check,0
+CUST102468,Male,39,Two year,61.71,2389.18,Bank transfer,0
+CUST102469,Female,5,One year,42.91,201.73,Bank transfer,0
+CUST102470,Female,37,Two year,43.18,1582.64,Mailed check,1
+CUST102471,Female,40,One year,110.14,4422.2,Bank transfer,1
+CUST102472,Male,26,Month-to-month,103.39,2673.75,Electronic check,1
+CUST102473,Female,68,Month-to-month,75.35,5125.31,Bank transfer,0
+CUST102474,Female,56,One year,81.61,4573.88,Bank transfer,0
+CUST102475,Male,16,Two year,67.43,2495.943556701031,Mailed check,0
+CUST102476,Female,70,Month-to-month,59.17,4125.86,Mailed check,0
+CUST102477,Female,46,Two year,111.55,5124.05,Credit card,0
+CUST102478,Female,12,One year,32.56,372.77,Credit card,0
+CUST102479,Male,10,Two year,61.84,614.23,Mailed check,0
+CUST102480,Male,23,Month-to-month,54.46,1240.12,False,0
+CUST102481,Male,3,Two year,69.82,211.93,False,0
+CUST102482,Male,45,Two year,65.76,2966.91,Credit card,0
+CUST102483,Female,17,One year,71.89,1223.41,Credit card,1
+CUST102484,Male,42,One year,33.99,1424.95,Credit card,0
+CUST102485,Male,32,One year,71.31,2277.41,Electronic check,0
+CUST102486,Female,9,Month-to-month,44.24,411.83,Electronic check,0
+CUST102487,Female,58,Month-to-month,38.43,2217.71,Credit card,0
+CUST102488,Female,30,One year,26.48,2495.943556701031,Bank transfer,0
+CUST102489,Male,27,One year,96.27,2609.59,Credit card,0
+CUST102490,Male,59,Month-to-month,62.74,3698.43,Electronic check,0
+CUST102491,Male,2,Month-to-month,82.66,157.21,Bank transfer,0
+CUST102492,Female,54,Month-to-month,92.76,5007.86,Electronic check,1
+CUST102493,Female,13,Month-to-month,87.93,1126.82,Bank transfer,0
+CUST102494,Male,57,One year,67.05,3803.69,Electronic check,0
+CUST102495,Female,14,Month-to-month,58.79,807.52,Bank transfer,0
+CUST102496,Female,1,One year,57.6,45.09,Bank transfer,0
+CUST102497,Female,23,Two year,84.0,1932.17,Bank transfer,1
+CUST102498,Male,63,Two year,69.48,4391.21,Bank transfer,0
+CUST102499,Female,70,Month-to-month,104.91,7333.13,Mailed check,0
+CUST102500,Female,23,Two year,107.47,2489.22,Electronic check,0
+CUST102501,Male,26,Two year,37.06,981.76,Electronic check,0
+CUST102502,Male,36,Two year,33.62,1228.68,Mailed check,0
+CUST102503,Female,38,Month-to-month,83.04,2495.943556701031,Bank transfer,0
+CUST102504,Female,62,Month-to-month,50.12,3101.99,Bank transfer,1
+CUST102505,Male,25,Two year,21.86,529.41,Electronic check,0
+CUST102506,Male,64,One year,108.86,6969.79,Mailed check,0
+CUST102507,Female,3,Two year,42.69,130.42,Bank transfer,0
+CUST102508,Female,28,Month-to-month,112.93,3176.04,Bank transfer,0
+CUST102509,Female,0,Month-to-month,91.74,19.84,Bank transfer,0
+CUST102510,Female,49,Month-to-month,96.27,4717.56,Credit card,1
+CUST102511,Male,10,Two year,40.15,395.31,Mailed check,0
+CUST102512,Female,58,One year,43.42,2505.8,Bank transfer,0
+CUST102513,Female,61,Month-to-month,72.13,4380.12,Credit card,0
+CUST102514,Male,35,Month-to-month,37.21,1302.71,Mailed check,0
+CUST102515,Female,55,Two year,50.54,2781.92,Bank transfer,1
+CUST102516,Male,20,One year,52.15,1056.0,Electronic check,0
+CUST102517,Female,12,Two year,35.96,431.7,Credit card,0
+CUST102518,Female,8,Month-to-month,40.52,340.82,Credit card,1
+CUST102519,Male,10,One year,98.86,993.72,Bank transfer,0
+CUST102520,Male,69,One year,36.72,2547.29,Bank transfer,0
+CUST102521,Female,0,Month-to-month,22.85,-14.07,Credit card,0
+CUST102522,Female,69,One year,82.94,5737.07,Electronic check,0
+CUST102523,Female,55,One year,117.6,6475.01,Electronic check,0
+CUST102524,Male,30,Two year,53.12,1580.41,Mailed check,1
+CUST102525,Female,36,Month-to-month,31.87,1134.91,Bank transfer,0
+CUST102526,Male,46,Month-to-month,77.04,3560.9,Electronic check,0
+CUST102527,Male,46,Month-to-month,110.64,5070.73,Mailed check,0
+CUST102528,Female,68,Month-to-month,98.41,6690.38,Electronic check,0
+CUST102529,Male,57,Month-to-month,82.25,2495.943556701031,Bank transfer,1
+CUST102530,Female,35,One year,51.51,1809.45,Mailed check,0
+CUST102531,Female,31,Two year,74.19,2313.48,Mailed check,0
+CUST102532,Female,63,Month-to-month,29.12,1828.98,Mailed check,0
+CUST102533,Female,70,Two year,87.89,6149.38,Electronic check,0
+CUST102534,Female,41,Two year,92.51,3812.19,Bank transfer,0
+CUST102535,Male,47,One year,116.5,5486.86,Mailed check,0
+CUST102536,Male,29,Month-to-month,46.04,1351.05,Credit card,0
+CUST102537,Female,20,One year,21.85,434.55,Bank transfer,1
+CUST102538,Female,59,Month-to-month,74.56,4388.4,Credit card,0
+CUST102539,Male,12,One year,90.68,1084.63,Credit card,1
+CUST102540,Male,0,Two year,99.04,8.64,Mailed check,0
+CUST102541,Male,64,Month-to-month,39.37,2504.06,Mailed check,1
+CUST102542,Male,32,Two year,46.18,1468.58,Electronic check,0
+CUST102543,Female,37,Two year,71.26,2618.49,Electronic check,1
+CUST102544,Female,24,One year,53.06,1270.73,Electronic check,1
+CUST102545,Male,25,Month-to-month,106.05,2664.35,Bank transfer,0
+CUST102546,Female,58,Two year,69.26517182130586,3889.03,Electronic check,0
+CUST102547,Male,32,One year,99.96,3205.73,Credit card,0
+CUST102548,Female,40,Month-to-month,78.06,2495.943556701031,Electronic check,0
+CUST102549,Male,29,Month-to-month,97.31,2811.47,Mailed check,1
+CUST102550,Female,56,Two year,53.27,2990.87,Electronic check,0
+CUST102551,Male,48,Month-to-month,103.14,4969.72,Bank transfer,0
+CUST102552,Male,47,Two year,47.46,2249.11,Bank transfer,0
+CUST102553,Female,71,Month-to-month,74.61,5286.71,Credit card,0
+CUST102554,Male,48,One year,69.26517182130586,1971.21,Bank transfer,0
+CUST102555,Female,46,Two year,69.26517182130586,3093.23,Electronic check,0
+CUST102556,Female,55,Two year,51.82,2858.18,Mailed check,1
+CUST102557,Male,64,Month-to-month,46.67,2995.91,Bank transfer,0
+CUST102558,Female,11,Month-to-month,116.7,1290.67,Credit card,0
+CUST102559,Female,68,Two year,36.01,2442.12,Electronic check,0
+CUST102560,Female,5,Month-to-month,98.73,480.44,Credit card,0
+CUST102561,Female,64,One year,118.42,7582.11,Bank transfer,0
+CUST102562,Female,24,Month-to-month,21.99,527.11,Bank transfer,1
+CUST102563,Male,0,One year,89.9,9.15,Credit card,0
+CUST102564,Female,31,One year,69.26517182130586,1401.64,Electronic check,0
+CUST102565,Female,2,One year,24.05,41.65,Bank transfer,1
+CUST102566,Female,48,One year,60.29,2885.66,Mailed check,1
+CUST102567,Female,18,One year,113.52,2031.82,Bank transfer,1
+CUST102568,Female,59,Month-to-month,21.18,1240.25,Electronic check,0
+CUST102569,Male,28,False,78.79,2189.91,Bank transfer,0
+CUST102570,Female,49,Month-to-month,70.14,3430.73,Credit card,1
+CUST102571,Male,1,One year,107.34,88.8,Bank transfer,1
+CUST102572,Male,55,Two year,28.4,1549.46,Bank transfer,0
+CUST102573,Male,16,One year,88.15,1420.27,Electronic check,0
+CUST102574,Male,59,Two year,88.01,2495.943556701031,Credit card,0
+CUST102575,Female,35,One year,86.91,2495.943556701031,Electronic check,0
+CUST102576,Male,60,One year,114.23,6862.48,Bank transfer,0
+CUST102577,Male,16,One year,102.31,1640.21,Mailed check,1
+CUST102578,Female,48,Two year,24.2,1179.95,Bank transfer,0
+CUST102579,Female,59,Two year,67.11,3940.35,Electronic check,0
+CUST102580,Female,19,One year,59.8,1145.75,Mailed check,0
+CUST102581,Male,49,Month-to-month,51.01,2517.84,Electronic check,0
+CUST102582,Female,2,One year,65.13,144.75,Electronic check,0
+CUST102583,Female,42,Two year,58.42,2440.36,Credit card,0
+CUST102584,Male,56,One year,63.23,3533.95,Mailed check,0
+CUST102585,Female,49,Two year,117.93,5765.47,Bank transfer,0
+CUST102586,Female,67,Two year,28.86,1937.67,Electronic check,0
+CUST102587,Female,49,Two year,112.22,5507.27,Bank transfer,0
+CUST102588,Female,36,One year,68.02,2441.4,Credit card,1
+CUST102589,Male,45,Two year,82.37,3708.23,Credit card,1
+CUST102590,Female,41,Two year,103.02,4231.46,Mailed check,0
+CUST102591,Female,14,One year,56.05,781.55,Credit card,1
+CUST102592,Male,32,Two year,63.04,2031.44,Credit card,0
+CUST102593,Male,10,One year,60.95,620.36,Bank transfer,0
+CUST102594,Male,19,Two year,57.47,1074.52,Credit card,0
+CUST102595,Female,23,Month-to-month,112.55,2593.5,Credit card,0
+CUST102596,Male,63,Month-to-month,102.89,6471.48,Electronic check,0
+CUST102597,Male,64,False,30.9,1979.9,Credit card,1
+CUST102598,Male,16,Month-to-month,69.26517182130586,511.24,Electronic check,0
+CUST102599,Male,60,One year,62.79,3782.56,Credit card,0
+CUST102600,Female,14,Month-to-month,29.87,2495.943556701031,Credit card,0
+CUST102601,Male,50,Two year,81.91,4087.16,Mailed check,1
+CUST102602,Female,26,Two year,34.37,883.0,Mailed check,1
+CUST102603,Male,60,One year,72.24,4335.7,Electronic check,0
+CUST102604,Male,57,Two year,20.72,1165.61,Credit card,1
+CUST102605,Male,30,One year,51.66,1551.77,Bank transfer,0
+CUST102606,Female,11,Month-to-month,87.72,944.97,Mailed check,0
+CUST102607,Male,45,Month-to-month,68.4,3070.95,Bank transfer,1
+CUST102608,Female,30,One year,117.83,3523.7,Mailed check,0
+CUST102609,Female,31,One year,107.41,2495.943556701031,Mailed check,1
+CUST102610,Female,31,Two year,55.91,1742.3,Credit card,0
+CUST102611,Male,52,Month-to-month,24.55,1270.59,Mailed check,0
+CUST102612,Female,60,False,104.56,6257.31,Bank transfer,0
+CUST102613,Female,45,Month-to-month,111.12,5001.07,Mailed check,0
+CUST102614,Female,6,One year,102.06,600.9,Electronic check,0
+CUST102615,Female,3,Month-to-month,32.79,99.83,Credit card,0
+CUST102616,Female,51,Two year,119.79,6122.7,False,0
+CUST102617,Male,30,Month-to-month,45.86,1380.43,Electronic check,0
+CUST102618,Male,35,Month-to-month,92.42,3240.05,Electronic check,0
+CUST102619,Male,53,Month-to-month,110.8,5874.04,Electronic check,0
+CUST102620,Male,53,Month-to-month,43.57,2326.3,Mailed check,1
+CUST102621,Male,16,Month-to-month,110.83,1790.56,Credit card,0
+CUST102622,Female,29,Two year,50.95,1478.06,Electronic check,0
+CUST102623,Female,21,One year,117.64,2462.67,Mailed check,0
+CUST102624,Female,42,Month-to-month,48.13,2019.84,Electronic check,0
+CUST102625,Female,26,Two year,115.34,2986.3,Bank transfer,1
+CUST102626,Female,36,Month-to-month,25.35,918.05,Bank transfer,1
+CUST102627,Female,45,Month-to-month,90.93,4091.85,Credit card,1
+CUST102628,Female,34,One year,73.21,2473.27,Mailed check,0
+CUST102629,Male,3,Month-to-month,67.79,191.28,Bank transfer,0
+CUST102630,Male,25,Two year,42.35,1057.94,Bank transfer,0
+CUST102631,Male,18,Two year,90.56,1645.58,Mailed check,1
+CUST102632,Male,44,One year,39.08,1722.18,Electronic check,0
+CUST102633,Female,25,Month-to-month,75.28,1889.26,Mailed check,0
+CUST102634,Female,21,Two year,45.32,945.28,Electronic check,0
+CUST102635,Female,57,False,115.56,6589.78,Bank transfer,0
+CUST102636,Male,62,Month-to-month,22.86,1415.22,Bank transfer,0
+CUST102637,Female,27,Month-to-month,39.97,1085.56,Bank transfer,0
+CUST102638,Female,64,One year,44.23,2812.74,Credit card,1
+CUST102639,Female,43,Month-to-month,61.41,2640.36,Credit card,1
+CUST102640,Male,42,Two year,43.27,1809.18,Credit card,1
+CUST102641,Female,36,Month-to-month,69.13,2481.73,Mailed check,0
+CUST102642,Male,65,Two year,107.25,6989.69,Bank transfer,0
+CUST102643,Male,16,Month-to-month,91.21,1446.67,Bank transfer,1
+CUST102644,Male,39,Two year,78.0,3034.45,Mailed check,0
+CUST102645,Male,37,Two year,28.9,1069.7,Credit card,0
+CUST102646,Female,60,Month-to-month,89.4,5378.52,False,0
+CUST102647,Male,8,Month-to-month,36.64,289.79,Credit card,0
+CUST102648,Male,60,Two year,98.64,5928.15,Bank transfer,0
+CUST102649,Female,15,One year,45.01,689.4,Electronic check,0
+CUST102650,Female,1,Month-to-month,61.7,54.1,Credit card,0
+CUST102651,Male,71,One year,55.05,3904.26,Bank transfer,0
+CUST102652,Female,42,Month-to-month,105.88,4441.22,Bank transfer,0
+CUST102653,Male,41,Month-to-month,32.65,1351.96,Electronic check,1
+CUST102654,Male,56,Month-to-month,76.56,4269.13,Bank transfer,0
+CUST102655,Male,66,Month-to-month,34.21,2250.2,Bank transfer,0
+CUST102656,Male,29,One year,90.48,2631.1,Credit card,0
+CUST102657,Female,12,Month-to-month,110.51,1328.74,Credit card,0
+CUST102658,Male,18,Two year,63.46,1139.73,Electronic check,0
+CUST102659,Male,6,Two year,68.81,414.46,Electronic check,0
+CUST102660,Female,8,One year,112.74,889.82,Bank transfer,1
+CUST102661,Female,53,Month-to-month,69.26517182130586,3818.53,Credit card,0
+CUST102662,Female,60,Two year,68.76,4125.67,Electronic check,1
+CUST102663,Male,1,One year,77.83,93.88,Electronic check,1
+CUST102664,Female,49,Month-to-month,88.92,4347.51,Mailed check,0
+CUST102665,Male,30,Two year,30.69,935.41,Electronic check,1
+CUST102666,Female,32,Two year,102.11,3273.29,Bank transfer,0
+CUST102667,Female,10,One year,63.55,616.31,Credit card,0
+CUST102668,Male,32,Month-to-month,69.26517182130586,880.35,Electronic check,0
+CUST102669,Male,6,Month-to-month,98.62,573.14,Mailed check,1
+CUST102670,Male,30,Two year,57.69,1750.6,False,0
+CUST102671,Female,47,Two year,30.04,1426.79,Electronic check,0
+CUST102672,Female,46,Two year,83.38,3827.37,Mailed check,0
+CUST102673,Male,52,Month-to-month,108.01,5606.82,Electronic check,0
+CUST102674,Male,18,One year,108.78,1953.3,Credit card,1
+CUST102675,Male,5,One year,115.77,573.1,Credit card,0
+CUST102676,Male,48,Month-to-month,106.77,5119.85,Credit card,0
+CUST102677,Female,49,One year,20.21,983.02,Bank transfer,1
+CUST102678,Male,11,Two year,58.02,643.07,Electronic check,0
+CUST102679,Male,22,One year,101.85,2227.27,Bank transfer,0
+CUST102680,Male,53,One year,56.63,3015.23,Credit card,1
+CUST102681,Male,68,One year,80.15,5462.7,Mailed check,0
+CUST102682,Female,58,Two year,80.63,4675.6,Electronic check,1
+CUST102683,Male,35,Month-to-month,56.5,1991.61,Bank transfer,0
+CUST102684,Female,2,Two year,110.45,210.79,Electronic check,0
+CUST102685,Male,57,Month-to-month,70.32,3988.94,Mailed check,0
+CUST102686,Male,54,Month-to-month,66.48,3594.69,Bank transfer,0
+CUST102687,Female,56,Month-to-month,119.75,6704.32,Credit card,1
+CUST102688,Male,16,One year,69.35,1112.29,Bank transfer,1
+CUST102689,Female,38,One year,37.84,1453.89,Electronic check,1
+CUST102690,Female,67,Month-to-month,71.31,4796.57,Electronic check,0
+CUST102691,Male,54,Month-to-month,101.4,5480.98,False,0
+CUST102692,Female,44,One year,97.69,4308.92,Electronic check,0
+CUST102693,Female,0,Two year,98.86,-16.65,Credit card,1
+CUST102694,Female,20,Month-to-month,90.8,1802.43,Bank transfer,0
+CUST102695,Female,20,Two year,45.42,917.73,Credit card,0
+CUST102696,Female,51,False,106.21,5413.96,Credit card,0
+CUST102697,Female,42,Month-to-month,109.34,4590.12,Credit card,0
+CUST102698,Female,51,Two year,39.42,2002.76,Electronic check,1
+CUST102699,Female,66,Two year,33.05,2185.59,Electronic check,1
+CUST102700,Male,43,Two year,117.56,5042.49,Electronic check,0
+CUST102701,Male,31,One year,106.83,3316.81,Bank transfer,0
+CUST102702,Female,9,One year,109.32,970.83,Mailed check,1
+CUST102703,Male,63,Two year,108.64,6826.87,Electronic check,1
+CUST102704,Female,68,False,74.17,5036.77,Bank transfer,0
+CUST102705,Female,67,One year,84.64,5660.13,Electronic check,0
+CUST102706,Male,27,Two year,74.54,2028.14,Electronic check,1
+CUST102707,Female,52,Two year,25.12,1288.44,Credit card,0
+CUST102708,Female,50,One year,94.55,4714.56,Credit card,0
+CUST102709,Female,52,Two year,70.53,3669.51,Credit card,0
+CUST102710,Female,3,Two year,84.77,253.55,Bank transfer,0
+CUST102711,Male,16,Two year,70.26,1105.99,Mailed check,1
+CUST102712,Female,66,One year,69.18,4546.17,Mailed check,0
+CUST102713,Female,46,Two year,37.18,1729.8,Bank transfer,0
+CUST102714,Female,55,One year,47.87,2639.2,Electronic check,0
+CUST102715,Male,22,One year,35.89,784.2,False,0
+CUST102716,Female,17,Month-to-month,39.57,671.51,Electronic check,0
+CUST102717,Male,0,Month-to-month,117.3,-9.34,Bank transfer,0
+CUST102718,Male,34,Two year,35.31,1194.33,Bank transfer,0
+CUST102719,Female,63,One year,46.93,2962.55,Bank transfer,1
+CUST102720,Female,57,Month-to-month,79.06,4521.73,Mailed check,1
+CUST102721,Male,58,Two year,81.02,4686.53,Credit card,0
+CUST102722,Female,0,Month-to-month,35.4,13.61,Bank transfer,0
+CUST102723,Male,2,Month-to-month,99.37,183.6,False,0
+CUST102724,Male,66,One year,98.52,6490.92,Credit card,0
+CUST102725,Female,36,One year,43.73,1555.77,False,0
+CUST102726,Female,28,False,48.87,1353.99,Bank transfer,0
+CUST102727,Male,32,Month-to-month,113.8,3658.29,Electronic check,0
+CUST102728,Male,60,One year,102.57,6152.58,Electronic check,0
+CUST102729,Male,3,Two year,89.78,252.45,Electronic check,0
+CUST102730,Male,13,One year,28.22,385.25,Bank transfer,0
+CUST102731,Female,32,Month-to-month,61.83,1993.72,Electronic check,0
+CUST102732,Female,21,Two year,75.93,1604.72,Mailed check,0
+CUST102733,Female,47,Month-to-month,38.74,1838.12,Mailed check,0
+CUST102734,Female,2,Two year,64.82,118.45,Mailed check,1
+CUST102735,Female,22,Month-to-month,80.1,1775.65,Mailed check,1
+CUST102736,Male,67,Two year,52.74,3541.18,Credit card,0
+CUST102737,Female,20,False,98.09,1976.59,Mailed check,0
+CUST102738,Female,42,Month-to-month,69.26517182130586,4381.56,Electronic check,0
+CUST102739,Female,25,Two year,52.36,1302.86,Bank transfer,1
+CUST102740,Male,40,One year,103.87,4165.78,Electronic check,0
+CUST102741,Female,37,Month-to-month,30.36,1113.82,Mailed check,0
+CUST102742,Male,10,One year,103.77,1030.84,Credit card,0
+CUST102743,Male,28,Month-to-month,35.28,972.16,Mailed check,0
+CUST102744,Male,59,Two year,28.29,1686.51,Bank transfer,0
+CUST102745,Female,66,Two year,84.18,5547.52,Electronic check,0
+CUST102746,Male,64,Two year,67.19,4300.98,Bank transfer,1
+CUST102747,Male,60,Month-to-month,110.79,6643.05,Bank transfer,0
+CUST102748,Female,18,One year,56.32,1032.16,Bank transfer,0
+CUST102749,Female,45,One year,48.72,2185.8,Electronic check,0
+CUST102750,Female,48,Month-to-month,70.07,3374.5,Mailed check,0
+CUST102751,Male,21,Month-to-month,65.59,1391.61,Bank transfer,0
+CUST102752,Male,56,One year,54.44,3046.06,Electronic check,0
+CUST102753,Female,13,One year,89.37,1156.94,Credit card,0
+CUST102754,Female,43,One year,95.96,4136.19,Electronic check,1
+CUST102755,Male,15,One year,105.3,1596.02,Credit card,1
+CUST102756,Male,11,False,117.29,1300.39,Electronic check,0
+CUST102757,Female,54,Month-to-month,46.67,2509.27,Mailed check,1
+CUST102758,Female,50,Two year,91.61,4596.03,Bank transfer,0
+CUST102759,Male,38,One year,59.43,2253.84,Mailed check,0
+CUST102760,Female,32,Two year,87.71,2809.77,Electronic check,0
+CUST102761,Male,32,Month-to-month,67.6,2176.46,Bank transfer,0
+CUST102762,Male,28,Month-to-month,119.38,3330.18,Credit card,0
+CUST102763,Male,68,Two year,92.89,6327.9,Electronic check,0
+CUST102764,Male,69,One year,115.25,7956.1,Bank transfer,1
+CUST102765,Female,30,One year,103.5,3120.73,Credit card,1
+CUST102766,Female,30,One year,110.29,3295.58,Credit card,0
+CUST102767,Male,45,False,101.44,4561.63,Mailed check,1
+CUST102768,Male,51,Two year,65.92,3375.23,Electronic check,0
+CUST102769,Male,9,Two year,45.18,387.39,Credit card,0
+CUST102770,Male,40,Month-to-month,57.03,2265.69,Bank transfer,0
+CUST102771,Male,2,One year,22.02,2495.943556701031,Credit card,1
+CUST102772,Female,58,One year,72.4,4190.42,Credit card,0
+CUST102773,Female,51,One year,70.51,3615.03,Mailed check,1
+CUST102774,Male,33,Two year,72.53,2380.79,Mailed check,0
+CUST102775,Female,48,One year,117.4,5629.64,Bank transfer,1
+CUST102776,Male,27,Two year,111.15,3011.16,Mailed check,0
+CUST102777,Male,12,One year,36.17,440.35,Credit card,1
+CUST102778,Male,68,One year,56.89,3871.76,Credit card,1
+CUST102779,Male,66,Month-to-month,62.4,4119.6,Mailed check,0
+CUST102780,Male,60,One year,56.05,2495.943556701031,Credit card,1
+CUST102781,Female,59,One year,99.85,5880.55,Credit card,0
+CUST102782,Male,70,Month-to-month,72.4,5065.7,Bank transfer,1
+CUST102783,Female,23,Two year,77.21,1762.05,Mailed check,0
+CUST102784,Female,62,Two year,105.3,6532.44,Credit card,0
+CUST102785,Female,60,One year,100.59,6025.42,Mailed check,0
+CUST102786,Female,22,Two year,33.22,724.19,Bank transfer,0
+CUST102787,Male,29,One year,91.39,2649.16,Mailed check,0
+CUST102788,Female,59,Month-to-month,63.54,3729.93,Credit card,1
+CUST102789,Female,17,Month-to-month,49.46,824.5,Mailed check,1
+CUST102790,Female,55,One year,25.0,1382.44,Credit card,0
+CUST102791,Male,52,Month-to-month,68.72,3570.6,Credit card,0
+CUST102792,Male,6,Month-to-month,55.54,347.83,Credit card,0
+CUST102793,Male,68,One year,45.15,3077.99,Bank transfer,0
+CUST102794,Female,71,One year,89.47,6332.69,Mailed check,0
+CUST102795,Female,51,Month-to-month,69.26517182130586,4949.12,Bank transfer,1
+CUST102796,Male,3,Two year,44.48,117.19,Mailed check,0
+CUST102797,Female,33,Two year,24.94,834.26,Bank transfer,0
+CUST102798,Male,68,One year,104.88,7151.5,Electronic check,0
+CUST102799,Male,32,One year,21.0,673.25,Credit card,0
+CUST102800,Female,68,Two year,113.71,7739.59,Credit card,0
+CUST102801,Female,37,Month-to-month,82.76,3051.61,Bank transfer,0
+CUST102802,Female,25,Two year,52.18,1302.0,Electronic check,0
+CUST102803,Female,0,Two year,44.65,14.24,Credit card,1
+CUST102804,Male,3,Two year,20.9,49.4,Mailed check,1
+CUST102805,Male,38,Two year,43.55,1645.52,Bank transfer,0
+CUST102806,Male,53,One year,33.77,1787.63,Credit card,0
+CUST102807,Male,32,One year,81.22,2607.53,Credit card,1
+CUST102808,Male,32,Month-to-month,36.65,1167.84,Bank transfer,0
+CUST102809,Female,71,Month-to-month,72.86,5190.17,Bank transfer,0
+CUST102810,Male,19,Month-to-month,79.01,1484.97,Mailed check,1
+CUST102811,Male,15,Month-to-month,49.8,741.83,Mailed check,0
+CUST102812,Male,20,Two year,23.51,478.56,Credit card,0
+CUST102813,Female,44,One year,23.73,1033.16,Credit card,0
+CUST102814,Female,61,One year,22.63,1386.69,Bank transfer,0
+CUST102815,Female,30,Month-to-month,93.91,2803.87,Credit card,0
+CUST102816,Female,41,Month-to-month,51.8,2495.943556701031,Credit card,0
+CUST102817,Male,11,Two year,99.63,1080.77,Bank transfer,1
+CUST102818,Male,64,Two year,63.17,4060.08,Credit card,0
+CUST102819,Male,2,Month-to-month,65.3,132.67,Credit card,0
+CUST102820,Female,8,One year,71.29,582.17,Electronic check,0
+CUST102821,Male,50,One year,91.3,4558.31,Mailed check,1
+CUST102822,Male,15,One year,47.35,713.96,Bank transfer,1
+CUST102823,Female,2,Month-to-month,32.16,64.12,Electronic check,0
+CUST102824,Female,23,False,75.61,1756.86,Mailed check,0
+CUST102825,Female,12,Two year,52.7,642.3,Mailed check,0
+CUST102826,Female,1,Two year,64.25,73.47,Mailed check,0
+CUST102827,Male,70,Month-to-month,84.69,5910.15,Electronic check,0
+CUST102828,Male,20,Two year,69.41,1390.19,Electronic check,0
+CUST102829,Male,18,Month-to-month,82.03,1475.22,False,0
+CUST102830,Female,46,One year,74.42,3440.43,Credit card,0
+CUST102831,Female,21,One year,93.98,1963.87,Credit card,0
+CUST102832,Male,32,False,90.59,2889.67,Electronic check,1
+CUST102833,Male,31,Two year,73.42,2272.47,Electronic check,1
+CUST102834,Male,63,Month-to-month,87.89,5526.8,Electronic check,0
+CUST102835,Male,38,One year,107.36,4064.85,False,0
+CUST102836,Male,71,Month-to-month,63.23,4503.63,Credit card,0
+CUST102837,Male,41,One year,61.28,2514.81,Electronic check,0
+CUST102838,Male,8,Two year,96.42,785.81,Electronic check,0
+CUST102839,Male,24,Two year,78.26,1891.49,Bank transfer,0
+CUST102840,Male,1,Month-to-month,27.1,18.38,Mailed check,0
+CUST102841,Male,18,Two year,109.21,1967.69,Bank transfer,1
+CUST102842,Male,19,Two year,23.08,421.85,Credit card,0
+CUST102843,Male,69,Month-to-month,94.84,6560.57,Bank transfer,0
+CUST102844,Female,16,One year,95.88,1530.25,Bank transfer,0
+CUST102845,Female,67,Two year,115.31,7721.52,False,0
+CUST102846,Female,2,Month-to-month,25.41,42.93,Mailed check,1
+CUST102847,Female,50,Two year,79.69,3982.93,Credit card,0
+CUST102848,Male,25,Two year,62.78,1559.57,Bank transfer,0
+CUST102849,Female,55,Two year,53.06,2913.29,Mailed check,0
+CUST102850,Female,63,Two year,69.26517182130586,1840.89,Credit card,0
+CUST102851,Male,7,Month-to-month,76.27,547.26,Electronic check,0
+CUST102852,Male,36,Month-to-month,67.9,2436.57,Bank transfer,0
+CUST102853,Female,26,Month-to-month,30.46,790.72,Credit card,1
+CUST102854,Female,44,Two year,69.26517182130586,3589.95,Bank transfer,0
+CUST102855,Male,3,Two year,93.8,263.51,Electronic check,0
+CUST102856,Female,36,Two year,96.73,3497.85,Credit card,0
+CUST102857,Male,70,Month-to-month,110.54,7726.57,Mailed check,0
+CUST102858,Male,32,Two year,60.95,1957.54,Credit card,0
+CUST102859,Male,30,One year,115.31,3462.6,Mailed check,0
+CUST102860,Male,54,Two year,106.54,5755.28,Credit card,1
+CUST102861,Female,11,One year,49.65,560.52,Mailed check,0
+CUST102862,Male,10,Two year,35.93,343.36,Electronic check,1
+CUST102863,Male,71,Month-to-month,63.54,4505.22,Electronic check,1
+CUST102864,Female,31,Two year,60.19,1867.42,Electronic check,0
+CUST102865,Male,56,One year,77.57,4356.37,Credit card,1
+CUST102866,Female,37,One year,78.34,2887.24,Electronic check,0
+CUST102867,Female,59,Two year,95.0,5617.12,Bank transfer,0
+CUST102868,Female,18,One year,70.99,1273.81,Electronic check,0
+CUST102869,Male,55,One year,69.26517182130586,1663.96,Mailed check,0
+CUST102870,Female,13,Month-to-month,105.83,1386.15,Mailed check,0
+CUST102871,Female,32,Two year,50.98,1615.0,Mailed check,0
+CUST102872,Male,9,Two year,117.13,1054.76,Credit card,0
+CUST102873,Female,63,Two year,31.79,1985.33,Bank transfer,1
+CUST102874,Female,63,One year,115.83,7291.55,Electronic check,0
+CUST102875,Female,61,Two year,29.1,1779.14,Bank transfer,0
+CUST102876,Female,67,Two year,43.1,2889.94,Bank transfer,0
+CUST102877,Female,42,Month-to-month,24.66,1031.91,Mailed check,0
+CUST102878,Male,58,Month-to-month,90.51,5246.74,Mailed check,0
+CUST102879,Female,51,Month-to-month,105.03,5345.6,Mailed check,0
+CUST102880,Female,18,One year,63.41,1139.62,Credit card,0
+CUST102881,Male,20,Two year,112.85,2275.13,Bank transfer,0
+CUST102882,Male,21,Month-to-month,79.03,1673.65,Bank transfer,0
+CUST102883,Male,8,Month-to-month,83.0,649.81,Credit card,0
+CUST102884,Female,8,Month-to-month,104.54,817.51,Credit card,1
+CUST102885,Male,26,Two year,49.68,1309.02,Credit card,0
+CUST102886,Female,16,Two year,55.43,887.95,Bank transfer,0
+CUST102887,Female,43,Two year,110.6,4757.31,Bank transfer,1
+CUST102888,Male,44,One year,110.1,4855.63,Mailed check,0
+CUST102889,Male,7,One year,69.26517182130586,816.14,Mailed check,0
+CUST102890,Female,17,Month-to-month,110.18,1872.34,Bank transfer,0
+CUST102891,Male,32,Two year,32.74,1066.43,Mailed check,1
+CUST102892,Female,0,Month-to-month,102.37,6.89,Credit card,0
+CUST102893,Male,5,Two year,60.98,291.05,Electronic check,0
+CUST102894,Male,40,Two year,119.08,4748.53,Mailed check,0
+CUST102895,Male,54,Two year,67.23,3618.59,Bank transfer,0
+CUST102896,Female,4,One year,75.38,312.19,Mailed check,0
+CUST102897,Male,58,One year,72.98,4224.66,Mailed check,0
+CUST102898,Female,17,Two year,52.17,867.75,Mailed check,0
+CUST102899,Female,48,Month-to-month,27.5,1337.77,Electronic check,1
+CUST102900,Female,64,Two year,109.57,6999.27,Credit card,0
+CUST102901,Female,53,Two year,100.27,5294.69,Bank transfer,1
+CUST102902,Male,60,Month-to-month,33.95,2026.49,Electronic check,0
+CUST102903,Female,7,Two year,97.68,673.16,Bank transfer,0
+CUST102904,Female,2,Month-to-month,82.58,162.04,Bank transfer,0
+CUST102905,Male,24,One year,69.26517182130586,1478.66,Bank transfer,0
+CUST102906,Female,68,One year,45.4,3102.37,Electronic check,0
+CUST102907,Male,54,Month-to-month,105.97,5720.66,Credit card,0
+CUST102908,Female,39,One year,90.02,3507.22,Bank transfer,1
+CUST102909,Male,49,One year,74.77,3665.93,Credit card,1
+CUST102910,Female,32,Month-to-month,80.96,2580.46,Credit card,0
+CUST102911,Male,17,One year,29.11,476.96,Mailed check,0
+CUST102912,Female,56,Two year,67.39,3791.41,Electronic check,0
+CUST102913,Female,15,Two year,39.37,578.02,Electronic check,0
+CUST102914,Male,37,Month-to-month,40.84,1499.02,Mailed check,0
+CUST102915,Male,40,One year,86.13,3444.1,Mailed check,0
+CUST102916,Male,6,Two year,111.13,666.44,Credit card,0
+CUST102917,Male,52,Two year,60.38,3120.5,Bank transfer,1
+CUST102918,Female,62,One year,40.77,2513.66,Electronic check,0
+CUST102919,Female,31,One year,84.87,2626.1,Bank transfer,0
+CUST102920,Male,37,Two year,107.12,3970.79,Bank transfer,0
+CUST102921,Female,21,Two year,94.83,1980.57,Mailed check,1
+CUST102922,Male,15,Month-to-month,106.88,1600.12,Bank transfer,0
+CUST102923,Male,51,Month-to-month,73.66,3758.95,Credit card,0
+CUST102924,Female,28,Two year,95.19,2680.86,Mailed check,0
+CUST102925,Female,15,Month-to-month,34.01,503.19,Bank transfer,1
+CUST102926,Female,16,Two year,54.83,862.62,Mailed check,1
+CUST102927,Female,63,Two year,58.95,3713.42,Credit card,0
+CUST102928,Female,12,Month-to-month,71.13,863.43,Credit card,0
+CUST102929,Female,71,Month-to-month,112.91,8001.0,Bank transfer,1
+CUST102930,Female,55,One year,107.43,5905.64,Mailed check,0
+CUST102931,Male,4,One year,33.45,114.51,Bank transfer,1
+CUST102932,Male,11,One year,37.28,391.42,Bank transfer,0
+CUST102933,Male,40,Two year,55.76,2229.72,Mailed check,0
+CUST102934,Male,2,Month-to-month,49.07,90.07,Bank transfer,0
+CUST102935,Male,32,False,81.48,2621.16,Credit card,0
+CUST102936,Female,49,Month-to-month,110.28,5407.81,Mailed check,0
+CUST102937,Male,55,Two year,116.23,6390.81,Mailed check,0
+CUST102938,Male,8,One year,85.36,679.2,Mailed check,0
+CUST102939,Male,49,One year,103.82,5087.07,Mailed check,0
+CUST102940,Male,28,One year,72.52,2012.18,Bank transfer,0
+CUST102941,Male,38,False,40.83,1567.25,Bank transfer,0
+CUST102942,Male,44,Month-to-month,72.47,3208.61,Credit card,0
+CUST102943,Male,16,Month-to-month,75.51,1195.42,Electronic check,1
+CUST102944,Female,55,One year,94.25,5168.57,Electronic check,0
+CUST102945,Female,45,One year,41.99,1875.29,False,0
+CUST102946,Male,66,One year,56.83,3757.22,Electronic check,1
+CUST102947,Female,68,One year,56.4,3841.66,Credit card,0
+CUST102948,Female,13,Month-to-month,115.94,1521.14,Bank transfer,0
+CUST102949,Female,66,Two year,64.39,4259.81,Mailed check,0
+CUST102950,Female,22,Two year,95.51,2099.21,Mailed check,1
+CUST102951,Male,60,Two year,95.08,5709.31,Bank transfer,0
+CUST102952,Female,22,Two year,46.55,1031.63,Mailed check,0
+CUST102953,Male,26,One year,69.26517182130586,2007.45,Mailed check,0
+CUST102954,Female,53,One year,109.43,2495.943556701031,Electronic check,0
+CUST102955,Male,9,One year,67.52,613.48,Bank transfer,0
+CUST102956,Male,15,Two year,69.26517182130586,1719.95,Electronic check,0
+CUST102957,Male,40,One year,41.45,1663.76,False,0
+CUST102958,Male,54,One year,27.42,1485.19,Mailed check,0
+CUST102959,Male,60,Month-to-month,109.15,6557.77,Mailed check,0
+CUST102960,Male,48,Month-to-month,104.77,5034.67,Bank transfer,0
+CUST102961,Male,51,One year,119.26,6083.05,Mailed check,1
+CUST102962,Female,1,Month-to-month,87.94,95.21,Mailed check,0
+CUST102963,Female,49,Month-to-month,113.67,5567.81,Bank transfer,1
+CUST102964,Female,42,One year,102.69,4302.65,Mailed check,1
+CUST102965,Male,7,One year,104.44,711.14,Electronic check,0
+CUST102966,Male,58,One year,76.91,4463.18,Bank transfer,0
+CUST102967,Male,64,One year,58.24,3730.99,Mailed check,0
+CUST102968,Male,11,Two year,113.46,1266.94,Credit card,0
+CUST102969,Male,3,Two year,63.21,184.09,Bank transfer,0
+CUST102970,Female,40,One year,73.88,2950.97,Bank transfer,1
+CUST102971,Female,6,Month-to-month,64.61,375.73,Credit card,1
+CUST102972,Male,68,One year,76.48,5183.46,Mailed check,1
+CUST102973,Male,68,One year,67.05,4570.31,Mailed check,0
+CUST102974,Male,29,Month-to-month,24.8,709.19,Bank transfer,1
+CUST102975,Male,5,Two year,108.2,545.36,Bank transfer,0
+CUST102976,Female,18,One year,64.44,1167.43,Mailed check,0
+CUST102977,Male,65,One year,78.89,5126.7,Mailed check,1
+CUST102978,Male,9,Two year,33.92,320.33,Electronic check,1
+CUST102979,Male,15,Two year,20.34,302.85,Bank transfer,0
+CUST102980,Male,36,Month-to-month,44.53,1594.48,Bank transfer,0
+CUST102981,Female,31,Two year,90.46,2820.1,Credit card,0
+CUST102982,Male,46,Two year,29.92,1390.78,Electronic check,0
+CUST102983,Male,71,Two year,110.89,7859.75,Mailed check,0
+CUST102984,Female,42,Month-to-month,41.5,1724.04,Electronic check,0
+CUST102985,Female,35,Two year,40.46,1399.7,Mailed check,0
+CUST102986,Female,25,Two year,38.15,945.21,Mailed check,0
+CUST102987,Male,9,Month-to-month,21.4,211.49,Electronic check,0
+CUST102988,Male,30,Two year,97.18,2917.74,Bank transfer,0
+CUST102989,Female,28,Two year,107.5,3004.93,Mailed check,0
+CUST102990,Female,4,False,81.42,341.23,Electronic check,0
+CUST102991,Female,0,One year,38.82,-1.87,Credit card,1
+CUST102992,Female,2,Month-to-month,48.53,89.67,Electronic check,0
+CUST102993,Female,66,Two year,67.59,4478.59,Credit card,0
+CUST102994,Female,70,Two year,115.43,8094.08,Mailed check,0
+CUST102995,Male,34,Two year,44.74,1534.91,Electronic check,1
+CUST102996,Male,14,Month-to-month,93.16,1304.73,Electronic check,0
+CUST102997,Male,66,Two year,63.94,4231.62,Credit card,1
+CUST102998,Female,29,Two year,49.78,1430.79,Electronic check,1
+CUST102999,Female,42,Month-to-month,65.59,2757.71,Electronic check,0
