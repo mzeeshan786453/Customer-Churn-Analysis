@@ -1,5 +1,5 @@
 # Customer-Churn-Analysis
-Customer Churn Analysis – Python + Power BI
+# Customer Churn Analysis – Python + Power BI
 
 This project analyzes customer churn using Python for data cleaning, EDA, visualizations, and machine learning, and Power BI for an interactive dashboard.
 The goal is to understand key churn patterns and build a predictive model using Random Forest.
